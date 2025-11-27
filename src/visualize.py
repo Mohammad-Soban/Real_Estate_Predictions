@@ -505,6 +505,75 @@ plt.savefig('visualizations/21_comprehensive_summary_dashboard.png', dpi=300, bb
 plt.close()
 viz_count += 1
 
+# 22. FEATURE IMPORTANCE (FROM BEST MODEL)
+print(f"  {viz_count+1}. Creating Feature Importance Chart...")
+try:
+    import joblib
+    
+    # Try loading XGBoost model (has feature_importances_)
+    try:
+        model = joblib.load('models/model_2_xgboost.pkl')
+        model_name = 'XGBoost'
+    except:
+        # Fall back to Random Forest
+        try:
+            model = joblib.load('models/model_5_randomforest.pkl')
+            model_name = 'Random Forest'
+        except:
+            print("  ⚠️  No compatible model found for feature importance")
+            model = None
+    
+    if model is not None and hasattr(model, 'feature_importances_'):
+        # Get feature names (19 features)
+        feature_names = ['BHK', 'Area_SqFt', 'Locality', 'Locality_Tier', 'Seller_Type', 
+                        'Property_Type', 'Furnishing_Status', 'Under_Construction', 'Amenities_Count',
+                        'Area_Per_BHK', 'Is_Large_Apartment', 'Is_Premium_Locality', 'Is_Budget_Locality',
+                        'BHK_Area_Combo', 'High_Amenity', 'Construction_Category', 'Locality_Property_Count',
+                        'Locality_Median_Area', 'Locality_Common_BHK']
+        
+        # Get feature importances
+        importances = model.feature_importances_
+        
+        # Create dataframe and sort
+        feature_imp_df = pd.DataFrame({
+            'Feature': feature_names,
+            'Importance': importances
+        }).sort_values('Importance', ascending=False)
+        
+        # Plot top 15 features
+        plt.figure(figsize=(14, 8))
+        top_features = feature_imp_df.head(15)
+        
+        colors = plt.cm.viridis(np.linspace(0.3, 0.9, len(top_features)))
+        bars = plt.barh(range(len(top_features)), top_features['Importance'], color=colors)
+        plt.yticks(range(len(top_features)), top_features['Feature'])
+        plt.xlabel('Importance Score', fontweight='bold', fontsize=12)
+        plt.ylabel('Features', fontweight='bold', fontsize=12)
+        plt.title(f'Top 15 Feature Importances ({model_name} Model)', fontsize=16, fontweight='bold', pad=20)
+        plt.gca().invert_yaxis()
+        
+        # Add value labels
+        for i, (idx, row) in enumerate(top_features.iterrows()):
+            plt.text(row['Importance'], i, f' {row["Importance"]:.4f}', 
+                    va='center', fontsize=10, fontweight='bold')
+        
+        plt.grid(axis='x', alpha=0.3, linestyle='--')
+        plt.tight_layout()
+        plt.savefig('visualizations/22_feature_importance.png', dpi=300, bbox_inches='tight')
+        plt.close()
+        viz_count += 1
+        
+        # Print top 10 features
+        print(f"  ✅ Feature importance chart created")
+        print(f"\n  📊 Top 10 Most Important Features:")
+        for idx, row in feature_imp_df.head(10).iterrows():
+            print(f"     {row['Feature']:<25} {row['Importance']:.4f}")
+    else:
+        print("  ⚠️  Model doesn't support feature importance")
+        
+except Exception as e:
+    print(f"  ⚠️  Could not create feature importance chart: {e}")
+
 print("\n✅ ALL VISUALIZATIONS CREATED!")
 print(f"📊 Total: {viz_count} visualizations")
 print(f"📁 Location: visualizations/")
