@@ -1,0 +1,1981 @@
+Price_Lakhs,Area_SqFt,BHK,Property_Type,Furnishing_Status,Locality,Locality_Tier,Seller_Type,Under_Construction,Source_Website
+45.0,1226.0,2.0,Apartment,Furnished,Vastral,Tier 2,Owner,False,MagicBricks
+70.0,1500.0,5.0,Apartment,Semi-Furnished,Mahadev Nagar,Tier 3,Owner,False,MagicBricks
+42.0,1134.0,2.0,Apartment,Furnished,Vaishno Devi,Tier 2,Owner,False,MagicBricks
+96.0,1050.0,3.0,Apartment,Furnished,Jagatpur,Tier 2,Owner,False,MagicBricks
+76.0,1055.0,3.0,Apartment,Semi-Furnished,Chandkheda,Tier 2,Owner,True,MagicBricks
+265.0,3800.0,4.0,Apartment,Furnished,Bopal,Tier 1,Dealer,False,MagicBricks
+130.0,2340.0,4.0,Apartment,Unfurnished,Sughad,Tier 3,Unknown,False,99acres
+32.0,990.0,2.0,Apartment,Semi-Furnished,Sanand,Tier 2,Owner,False,MagicBricks
+58.9,695.0,2.0,Apartment,Furnished,Ghuma,Tier 2,Owner,False,MagicBricks
+75.0,1701.0,3.0,Apartment,Furnished,Ghuma,Tier 2,Owner,False,MagicBricks
+100.0,2205.0,3.0,Apartment,Furnished,Chandkheda,Tier 2,Owner,False,MagicBricks
+155.0,2160.0,3.0,Apartment,Semi-Furnished,Bhadaj,Tier 3,Owner,False,MagicBricks
+55.0,927.0,2.0,Apartment,Semi-Furnished,Shela,Tier 2,Owner,False,MagicBricks
+245.00000000000003,3075.0,4.0,Apartment,Semi-Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+166.0,2385.0,3.0,Apartment,Furnished,Ambawadi,Tier 1,Builder,True,MagicBricks
+67.0,1680.0,3.0,Apartment,Semi-Furnished,Nikol,Tier 2,Owner,False,MagicBricks
+68.0,1050.0,3.0,Apartment,Furnished,Vastral,Tier 2,Owner,False,MagicBricks
+37.0,450.0,1.0,Apartment,Furnished,Vejalpur,Tier 2,Owner,False,MagicBricks
+202.0,2095.0,4.0,Apartment,Furnished,Sarkhej,Tier 3,Owner,True,MagicBricks
+52.5,642.0,2.0,Apartment,Semi-Furnished,Jodhpur,Tier 2,Owner,False,MagicBricks
+55.0,1470.0,2.0,Apartment,Furnished,Nikol,Tier 2,Owner,False,MagicBricks
+55.0,1422.0,3.0,Apartment,Furnished,Lambha,Tier 3,Owner,False,MagicBricks
+62.0,1285.0,2.0,Apartment,Semi-Furnished,Shela,Tier 2,Owner,False,MagicBricks
+100.0,1575.0,3.0,Apartment,Semi-Furnished,Kankaria,Tier 2,Owner,False,MagicBricks
+46.6,700.0,2.0,Apartment,Furnished,Ranip,Tier 2,Owner,False,MagicBricks
+135.0,2475.0,3.0,Apartment,Furnished,Science City,Tier 2,Owner,False,MagicBricks
+25.0,730.0,2.0,Apartment,Semi-Furnished,Narol,Tier 2,Owner,False,MagicBricks
+101.0,1178.0,3.0,Apartment,Furnished,Jagatpur,Tier 2,Owner,True,MagicBricks
+45.0,394.0,2.0,Apartment,Semi-Furnished,Gota,Tier 2,Owner,False,MagicBricks
+62.0,680.0,2.0,Apartment,Furnished,Vasna,Tier 2,Owner,False,MagicBricks
+125.0,1300.0,3.0,Apartment,Furnished,Shyamal,Tier 2,Owner,False,MagicBricks
+89.0,1550.0,3.0,Apartment,Furnished,Shilaj,Tier 2,Owner,False,MagicBricks
+250.0,2677.0,4.0,Apartment,Furnished,Vaishno Devi,Tier 2,Owner,False,MagicBricks
+260.0,2200.0,4.0,Apartment,Furnished,Shilaj,Tier 2,Owner,True,MagicBricks
+120.0,774.0,2.0,Apartment,Furnished,Ambawadi,Tier 1,Owner,False,MagicBricks
+39.0,864.0,2.0,Apartment,Furnished,Chandkheda,Tier 2,Owner,False,MagicBricks
+60.0,650.0,2.0,Apartment,Unfurnished,Tragad,Tier 2,Unknown,False,99acres
+55.0,1296.0,2.0,Apartment,Furnished,Chandkheda,Tier 2,Owner,False,MagicBricks
+85.0,900.0,3.0,Apartment,Furnished,Vasna,Tier 2,Owner,False,MagicBricks
+288.0,3850.0,4.0,Apartment,Furnished,Ambli,Tier 3,Owner,False,MagicBricks
+195.0,1334.0,3.0,Apartment,Semi-Furnished,Navrangpura,Tier 1,Owner,False,MagicBricks
+62.0,864.0,3.0,Apartment,Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+31.5,371.0,1.0,Apartment,Furnished,Vejalpur,Tier 2,Owner,False,MagicBricks
+99.0,1106.0,2.0,Apartment,Furnished,Memnagar,Tier 2,Owner,False,MagicBricks
+201.0,3447.0,4.0,Apartment,Furnished,Thaltej,Tier 1,Owner,False,MagicBricks
+184.0,2838.0,3.0,Apartment,Furnished,Ambli,Tier 3,Owner,False,MagicBricks
+27.0,1000.0,2.0,Apartment,Furnished,Narol,Tier 2,Owner,False,MagicBricks
+32.0,1035.0,2.0,Apartment,Furnished,Ayojan Nagar,Tier 3,Owner,False,MagicBricks
+41.0,1080.0,2.0,Apartment,Unfurnished,Vastral,Tier 2,Unknown,False,99acres
+260.0,1560.0,4.0,Apartment,Furnished,Chandkheda,Tier 2,Owner,False,MagicBricks
+171.0,3042.0,3.0,Apartment,Furnished,Vaishno Devi,Tier 2,Unknown,True,MagicBricks
+78.0,1465.0,3.0,Apartment,Semi-Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+32.0,666.0,2.0,Apartment,Semi-Furnished,Vejalpur,Tier 2,Owner,False,MagicBricks
+84.0,1004.0,3.0,Apartment,Semi-Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+108.0,1377.0,2.0,Apartment,Unfurnished,Shahibaug,Tier 2,Unknown,False,99acres
+255.0,2342.0,4.0,Apartment,Furnished,Vaishno Devi,Tier 2,Owner,True,MagicBricks
+105.0,200.0,3.0,Apartment,Furnished,Juhapura,Tier 2,Owner,False,MagicBricks
+50.0,1000.0,2.0,Apartment,Furnished,Sanand,Tier 2,Owner,False,MagicBricks
+65.0,800.0,4.0,Apartment,Furnished,Ghodasar,Tier 2,Owner,False,MagicBricks
+44.0,894.0,2.0,Apartment,Furnished,Vastral,Tier 2,Owner,False,MagicBricks
+28.0,405.0,2.0,Apartment,Furnished,Isanpur,Tier 2,Owner,False,MagicBricks
+65.0,675.0,2.0,Apartment,Furnished,Vasna,Tier 2,Owner,False,MagicBricks
+49.9,1188.0,3.0,Apartment,Furnished,Naroda,Tier 3,Owner,False,MagicBricks
+35.0,450.0,2.0,Apartment,Furnished,Gota,Tier 2,Owner,False,MagicBricks
+125.0,1260.0,3.0,Apartment,Furnished,Shantipura,Tier 3,Owner,True,MagicBricks
+58.0,1000.0,3.0,Apartment,Furnished,Naroda,Tier 3,Owner,False,MagicBricks
+36.0,1100.0,2.0,Apartment,Semi-Furnished,Vastral,Tier 2,Owner,False,MagicBricks
+32.0,1260.0,2.0,Apartment,Furnished,Sanand,Tier 2,Owner,False,MagicBricks
+65.0,910.0,3.0,Apartment,Semi-Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+70.0,870.0,3.0,Apartment,Furnished,Chanakyapuri,Tier 3,Owner,False,MagicBricks
+50.0,1215.0,2.0,Apartment,Furnished,Chandkheda,Tier 2,Owner,False,MagicBricks
+290.0,2200.0,4.0,Apartment,Furnished,Shela,Tier 2,Owner,True,MagicBricks
+67.0,1520.0,3.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+210.0,2838.0,3.0,Apartment,Furnished,Ambli,Tier 3,Owner,False,MagicBricks
+20.0,531.0,1.0,Apartment,Semi-Furnished,Vinzol,Tier 3,Owner,False,MagicBricks
+70.0,817.0,3.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+32.5,704.0,2.0,Apartment,Furnished,Bavla,Tier 2,Owner,False,MagicBricks
+135.0,1985.0,3.0,Apartment,Semi-Furnished,Ellis Bridge,Tier 1,Owner,False,MagicBricks
+65.0,1440.0,3.0,Apartment,Semi-Furnished,Nikol,Tier 2,Owner,False,MagicBricks
+190.0,2456.0,4.0,Apartment,Furnished,Odhav,Tier 2,Owner,False,MagicBricks
+76.0,966.0,3.0,Apartment,Semi-Furnished,Jagatpur,Tier 2,Owner,False,MagicBricks
+148.0,1550.0,3.0,Apartment,Furnished,Chandkheda,Tier 2,Owner,False,MagicBricks
+89.0,826.0,3.0,Apartment,Semi-Furnished,Vaishno Devi,Tier 2,Owner,False,MagicBricks
+121.0,1171.0,4.0,Apartment,Semi-Furnished,Vatva,Tier 2,Owner,False,MagicBricks
+53.0,1100.0,2.0,Apartment,Furnished,Sarkhej,Tier 3,Owner,False,MagicBricks
+250.0,5850.0,5.0,Apartment,Unfurnished,Naroda,Tier 3,Owner,False,99acres
+45.0,1170.0,2.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+290.0,2200.0,4.0,Apartment,Furnished,Shela,Tier 2,Owner,True,MagicBricks
+210.0,2838.0,4.0,Apartment,Furnished,Ambli,Tier 3,Owner,False,MagicBricks
+141.0,1908.0,2.0,Apartment,Furnished,Ghuma,Tier 2,Owner,False,MagicBricks
+55.0,559.0,2.0,Apartment,Furnished,Chandkheda,Tier 2,Owner,False,MagicBricks
+68.0,1050.0,3.0,Apartment,Semi-Furnished,Naroda,Tier 3,Owner,False,MagicBricks
+215.0,2500.0,3.0,Apartment,Furnished,Vastrapur,Tier 1,Owner,False,MagicBricks
+81.0,1203.0,2.0,Apartment,Furnished,Vaishno Devi,Tier 2,Owner,False,MagicBricks
+48.0,750.0,1.0,Apartment,Furnished,Gurukul,Tier 2,Owner,False,MagicBricks
+190.0,1020.0,3.0,Apartment,Furnished,Naranpura,Tier 2,Owner,True,99acres
+100.0,1040.0,3.0,Apartment,Semi-Furnished,Gota,Tier 2,Owner,False,MagicBricks
+68.0,1262.0,2.0,Apartment,Unfurnished,Jagatpur,Tier 2,Owner,False,99acres
+28.0,428.0,1.0,Apartment,Furnished,Vasna,Tier 2,Owner,False,MagicBricks
+210.0,1733.0,4.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+65.0,1200.0,2.0,Apartment,Furnished,Navrangpura,Tier 1,Owner,False,MagicBricks
+100.0,1660.0,3.0,Apartment,Furnished,Kotarpur,Tier 3,Owner,False,MagicBricks
+33.0,486.0,2.0,Apartment,Furnished,Naroda,Tier 3,Owner,False,MagicBricks
+174.0,2514.0,3.0,Apartment,Furnished,Vaishno Devi,Tier 2,Owner,True,MagicBricks
+39.6,1200.0,2.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+95.0,1291.0,3.0,Apartment,Furnished,Tragad,Tier 2,Owner,False,MagicBricks
+65.1,915.0,3.0,Apartment,Furnished,Chandkheda,Tier 2,Builder,False,MagicBricks
+110.0,1737.0,3.0,Apartment,Furnished,Chharodi,Tier 3,Owner,False,MagicBricks
+312.0,3695.0,4.0,Apartment,Furnished,Satellite,Tier 1,Owner,True,MagicBricks
+65.0,880.0,3.0,Apartment,Semi-Furnished,Ranip,Tier 2,Owner,False,MagicBricks
+95.0,1465.0,3.0,Apartment,Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+55.0,591.0,2.0,Apartment,Semi-Furnished,Vaishno Devi,Tier 2,Owner,False,MagicBricks
+90.0,2232.0,5.0,Apartment,Furnished,Kankaria,Tier 2,Owner,False,MagicBricks
+239.0,1752.0,4.0,Apartment,Furnished,Jodhpur,Tier 2,Builder,True,MagicBricks
+66.4,700.0,2.0,Apartment,Furnished,Jagatpur,Tier 2,Owner,False,MagicBricks
+125.0,1260.0,3.0,Apartment,Furnished,Shantipura,Tier 3,Owner,True,MagicBricks
+60.0,1530.0,3.0,Apartment,Furnished,Vastral,Tier 2,Owner,False,MagicBricks
+45.0,1000.0,2.0,Apartment,Furnished,Jashoda Nagar,Tier 3,Owner,False,MagicBricks
+125.0,1500.0,3.0,Apartment,Furnished,Chandkheda,Tier 2,Owner,False,MagicBricks
+93.0,1165.0,3.0,Apartment,Semi-Furnished,Prahlad Nagar,Tier 1,Owner,False,MagicBricks
+21.5,510.0,1.0,Apartment,Semi-Furnished,Vinzol,Tier 3,Owner,False,MagicBricks
+185.0,2520.0,3.0,Apartment,Furnished,Gota,Tier 2,Unknown,True,MagicBricks
+17.0,675.0,1.0,Apartment,Semi-Furnished,Hathijan,Tier 3,Owner,False,MagicBricks
+48.0,1350.0,3.0,Apartment,Furnished,Shilaj,Tier 2,Owner,False,MagicBricks
+65.0,1260.0,2.0,Apartment,Furnished,Sarkhej,Tier 3,Owner,False,MagicBricks
+206.0,1750.0,4.0,Apartment,Furnished,Ambli,Tier 3,Owner,False,MagicBricks
+137.0,1400.0,3.0,Apartment,Furnished,Gulbai Tekra,Tier 1,Owner,False,MagicBricks
+45.0,608.0,2.0,Apartment,Furnished,Naroda,Tier 3,Owner,False,MagicBricks
+300.0,2835.0,4.0,Apartment,Furnished,Manipur,Tier 3,Owner,False,MagicBricks
+51.5,570.0,2.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+110.0,1225.0,3.0,Apartment,Furnished,Ambli,Tier 3,Owner,False,MagicBricks
+45.9,1435.0,3.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+150.0,567.0,3.0,Apartment,Furnished,Kotarpur,Tier 3,Owner,False,MagicBricks
+44.0,740.0,2.0,Apartment,Furnished,Narol,Tier 2,Owner,False,MagicBricks
+84.0,1025.0,3.0,Apartment,Furnished,Chandkheda,Tier 2,Owner,False,MagicBricks
+40.0,981.0,2.0,Apartment,Semi-Furnished,Nikol,Tier 2,Owner,False,MagicBricks
+253.0,1745.0,4.0,Apartment,Furnished,Thaltej,Tier 1,Owner,True,MagicBricks
+75.0,663.0,2.0,Apartment,Furnished,Shilaj,Tier 2,Owner,False,MagicBricks
+67.5,1935.0,3.0,Apartment,Furnished,Chandkheda,Tier 2,Owner,False,MagicBricks
+68.0,1262.0,2.0,Apartment,Unfurnished,Jagatpur,Tier 2,Unknown,False,99acres
+75.0,1105.0,3.0,Apartment,Furnished,Ranip,Tier 2,Owner,False,MagicBricks
+59.0,646.0,3.0,Apartment,Furnished,Vastral,Tier 2,Owner,False,MagicBricks
+150.0,3300.0,5.0,Apartment,Furnished,Naranpura,Tier 2,Owner,False,MagicBricks
+115.0,1905.0,3.0,Apartment,Semi-Furnished,Vaishno Devi,Tier 2,Owner,False,MagicBricks
+85.0,890.0,3.0,Apartment,Semi-Furnished,Usmanpura,Tier 3,Owner,False,MagicBricks
+50.0,990.0,2.0,Apartment,Furnished,Jagatpur,Tier 2,Owner,False,MagicBricks
+21.0,810.0,1.0,Apartment,Furnished,Ghodasar,Tier 2,Owner,False,MagicBricks
+135.0,2475.0,3.0,Apartment,Furnished,Science City,Tier 2,Owner,False,MagicBricks
+110.0,1036.0,3.0,Apartment,Semi-Furnished,Shela,Tier 2,Owner,False,MagicBricks
+274.0,2500.0,4.0,Apartment,Furnished,Shilaj,Tier 2,Owner,True,MagicBricks
+67.0,1370.0,2.0,Apartment,Furnished,Vaishno Devi,Tier 2,Owner,False,MagicBricks
+38.0,870.0,1.0,Apartment,Furnished,Saijpur Bogha,Tier 3,Owner,False,MagicBricks
+89.0,913.0,2.0,Apartment,Semi-Furnished,Science City,Tier 2,Owner,False,MagicBricks
+41.0,1458.0,2.0,Apartment,Furnished,Sanand,Tier 2,Owner,False,MagicBricks
+35.0,1080.0,2.0,Apartment,Semi-Furnished,Vastral,Tier 2,Owner,False,MagicBricks
+375.0,3650.0,3.0,Independent House,Unfurnished,Maninagar,Tier 2,Unknown,False,99acres
+267.0,3845.0,4.0,Apartment,Furnished,Bopal,Tier 1,Unknown,False,MagicBricks
+88.5,1269.0,2.0,Apartment,Semi-Furnished,Gota,Tier 2,Owner,False,MagicBricks
+90.0,1296.0,2.0,Apartment,Semi-Furnished,Thaltej,Tier 1,Owner,False,MagicBricks
+26.0,1026.0,2.0,Apartment,Furnished,Vinzol,Tier 3,Owner,False,MagicBricks
+44.5,923.0,2.0,Apartment,Semi-Furnished,Shela,Tier 2,Owner,False,MagicBricks
+50.0,945.0,2.0,Apartment,Semi-Furnished,Ghodasar,Tier 2,Owner,False,MagicBricks
+20.0,585.0,1.0,Apartment,Furnished,Vastral,Tier 2,Owner,False,MagicBricks
+130.0,2340.0,4.0,Apartment,Unfurnished,Sughad,Tier 3,Unknown,False,99acres
+81.0,3000.0,3.0,Apartment,Semi-Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+200.0,1200.0,3.0,Apartment,Furnished,Jodhpur,Tier 2,Owner,False,MagicBricks
+190.0,1810.0,4.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+150.0,1000.0,3.0,Apartment,Furnished,Ghuma,Tier 2,Owner,False,MagicBricks
+50.0,1320.0,2.0,Apartment,Semi-Furnished,Tragad,Tier 2,Owner,False,MagicBricks
+87.0,900.0,3.0,Apartment,Furnished,Ghodasar,Tier 2,Owner,False,MagicBricks
+201.0,2124.0,4.0,Apartment,Furnished,Vaishno Devi,Tier 2,Dealer,True,MagicBricks
+210.0,3000.0,5.0,Apartment,Furnished,Paldi,Tier 1,Owner,False,MagicBricks
+110.0,1260.0,4.0,Apartment,Furnished,Vastral,Tier 2,Owner,False,MagicBricks
+133.0,2700.0,4.0,Apartment,Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+100.0,1863.0,3.0,Apartment,Furnished,Gota,Tier 2,Owner,False,MagicBricks
+75.0,1545.0,3.0,Apartment,Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+99.0,1890.0,3.0,Apartment,Furnished,Chandkheda,Tier 2,Owner,False,MagicBricks
+60.0,623.0,2.0,Apartment,Furnished,Vasna,Tier 2,Owner,False,MagicBricks
+50.3,639.0,2.0,Apartment,Furnished,Jagatpur,Tier 2,Owner,True,MagicBricks
+85.0,1485.0,3.0,Apartment,Furnished,Ghuma,Tier 2,Owner,False,MagicBricks
+86.0,1417.0,3.0,Apartment,Semi-Furnished,Gota,Tier 2,Owner,False,MagicBricks
+30.0,1037.0,2.0,Apartment,Semi-Furnished,Dholka,Tier 2,Owner,False,MagicBricks
+78.0,1425.0,2.0,Apartment,Semi-Furnished,Vaishno Devi,Tier 2,Owner,False,MagicBricks
+8.0,394.0,1.0,Apartment,Furnished,Aslali,Tier 3,Owner,False,MagicBricks
+400.0,3500.0,5.0,Apartment,Semi-Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+75.0,1430.0,2.0,Apartment,Furnished,Maninagar,Tier 2,Owner,False,MagicBricks
+150.0,2070.0,4.0,Apartment,Furnished,Thaltej,Tier 1,Owner,False,MagicBricks
+176.0,1507.0,3.0,Apartment,Furnished,Shela,Tier 2,Owner,True,MagicBricks
+59.51,1458.0,2.0,Apartment,Unfurnished,Vastral,Tier 2,Builder,True,99acres
+200.0,2150.0,4.0,Apartment,Furnished,Chandkheda,Tier 2,Owner,False,MagicBricks
+50.0,800.0,2.0,Apartment,Furnished,Ranip,Tier 2,Owner,False,MagicBricks
+85.0,1395.0,3.0,Apartment,Furnished,Chandkheda,Tier 2,Owner,False,MagicBricks
+125.0,1820.0,3.0,Apartment,Furnished,Motera,Tier 2,Owner,False,MagicBricks
+110.0,913.0,4.0,Apartment,Furnished,Vejalpur,Tier 2,Owner,False,MagicBricks
+105.0,1730.0,3.0,Apartment,Unfurnished,Jagatpur,Tier 2,Unknown,False,99acres
+184.0,2810.0,3.0,Apartment,Furnished,Ambli,Tier 3,Owner,False,MagicBricks
+55.0,1000.0,2.0,Apartment,Furnished,Nikol,Tier 2,Owner,False,MagicBricks
+48.0,925.0,2.0,Apartment,Semi-Furnished,Tragad,Tier 2,Owner,False,MagicBricks
+125.0,1350.0,3.0,Apartment,Furnished,Jagatpur,Tier 2,Owner,False,MagicBricks
+110.0,1100.0,3.0,Apartment,Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+85.0,819.0,3.0,Apartment,Furnished,Jivrajpark,Tier 2,Owner,False,MagicBricks
+93.0,1165.0,3.0,Apartment,Semi-Furnished,Prahlad Nagar,Tier 1,Owner,False,MagicBricks
+219.0,3104.0,3.0,Apartment,Furnished,Gota,Tier 2,Owner,True,MagicBricks
+42.0,720.0,2.0,Apartment,Unfurnished,Maninagar,Tier 2,Unknown,False,99acres
+60.0,1330.0,2.0,Apartment,Furnished,Motera,Tier 2,Owner,False,MagicBricks
+175.0,3260.0,4.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+74.0,1165.0,3.0,Apartment,Furnished,Gota,Tier 2,Owner,False,MagicBricks
+190.0,1750.0,4.0,Apartment,Furnished,Bodakdev,Tier 1,Owner,False,MagicBricks
+85.0,1490.0,3.0,Apartment,Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+422.0,5825.0,4.0,Apartment,Furnished,Ambli,Tier 3,Owner,False,MagicBricks
+74.0,1005.0,3.0,Apartment,Semi-Furnished,Shela,Tier 2,Owner,False,MagicBricks
+200.0,2900.0,3.0,Apartment,Furnished,Chandkheda,Tier 2,Owner,False,MagicBricks
+202.0,2095.0,4.0,Apartment,Furnished,Sarkhej,Tier 3,Owner,True,MagicBricks
+170.0,2800.0,4.0,Apartment,Furnished,Motera,Tier 2,Owner,False,MagicBricks
+300.0,2631.0,4.0,Apartment,Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+70.0,1500.0,3.0,Apartment,Unfurnished,Chandkheda,Tier 2,Unknown,False,99acres
+290.0,4518.0,3.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+110.0,2160.0,3.0,Apartment,Furnished,Chandkheda,Tier 2,Owner,False,MagicBricks
+45.0,750.0,2.0,Apartment,Semi-Furnished,Chandkheda,Tier 2,Owner,False,MagicBricks
+19.5,720.0,1.0,Apartment,Furnished,Amraiwadi,Tier 2,Owner,False,MagicBricks
+78.0,1260.0,2.0,Apartment,Furnished,Naranpura,Tier 2,Builder,True,MagicBricks
+59.5,1000.0,3.0,Apartment,Semi-Furnished,Ranip,Tier 2,Owner,False,MagicBricks
+48.5,600.0,2.0,Apartment,Furnished,Vastral,Tier 2,Owner,False,MagicBricks
+293.0,3843.0,4.0,Apartment,Furnished,Science City,Tier 2,Owner,True,MagicBricks
+100.0,1150.0,4.0,Apartment,Semi-Furnished,Ambawadi,Tier 1,Owner,False,MagicBricks
+24.0,600.0,1.0,Apartment,Furnished,Nikol,Tier 2,Owner,False,MagicBricks
+31.5,950.0,2.0,Apartment,Semi-Furnished,Maninagar,Tier 2,Owner,False,MagicBricks
+55.0,819.0,2.0,Apartment,Semi-Furnished,Vejalpur,Tier 2,Owner,False,MagicBricks
+81.0,1190.0,3.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+125.0,970.0,3.0,Apartment,Furnished,Maninagar,Tier 2,Owner,False,MagicBricks
+32.5,385.0,2.0,Apartment,Furnished,Vinzol,Tier 3,Owner,False,MagicBricks
+80.3,1100.0,3.0,Apartment,Furnished,Motera,Tier 2,Owner,True,MagicBricks
+36.0,1233.0,2.0,Apartment,Furnished,Hathijan,Tier 3,Owner,False,MagicBricks
+200.0,1071.0,3.0,Apartment,Semi-Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+140.0,935.0,3.0,Apartment,Semi-Furnished,Thaltej,Tier 1,Owner,False,MagicBricks
+56.0,787.0,2.0,Apartment,Furnished,Usmanpura,Tier 3,Owner,False,MagicBricks
+50.0,1070.0,2.0,Apartment,Semi-Furnished,Maninagar,Tier 2,Owner,False,MagicBricks
+53.0,1000.0,2.0,Apartment,Semi-Furnished,Hansol,Tier 3,Owner,False,MagicBricks
+83.0,972.0,3.0,Apartment,Furnished,Sarkhej,Tier 3,Owner,False,MagicBricks
+105.0,1323.0,3.0,Apartment,Furnished,Motera,Tier 2,Owner,False,MagicBricks
+149.0,1620.0,3.0,Apartment,Semi-Furnished,Thaltej,Tier 1,Owner,False,MagicBricks
+300.0,2310.0,4.0,Apartment,Furnished,Bodakdev,Tier 1,Owner,False,MagicBricks
+125.0,2205.0,3.0,Apartment,Furnished,Paldi,Tier 1,Owner,False,MagicBricks
+62.0,1242.0,2.0,Apartment,Semi-Furnished,Gota,Tier 2,Owner,False,MagicBricks
+24.0,750.0,1.0,Apartment,Furnished,Sarkhej,Tier 3,Owner,False,MagicBricks
+52.0,787.0,2.0,Apartment,Semi-Furnished,Chandkheda,Tier 2,Owner,False,MagicBricks
+40.0,1185.0,2.0,Apartment,Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+47.0,1377.0,3.0,Apartment,Semi-Furnished,Maninagar,Tier 2,Owner,False,MagicBricks
+55.0,730.0,2.0,Apartment,Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+35.0,650.0,2.0,Apartment,Semi-Furnished,Bapunagar,Tier 2,Owner,False,MagicBricks
+150.0,1485.0,4.0,Independent House,Unfurnished,Ghuma,Tier 2,Owner,False,99acres
+60.0,625.0,2.0,Apartment,Furnished,Jagatpur,Tier 2,Owner,False,MagicBricks
+39.6,1200.0,2.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+155.0,2050.0,3.0,Apartment,Furnished,Prahlad Nagar,Tier 1,Owner,False,MagicBricks
+190.0,2360.0,3.0,Apartment,Unfurnished,Ashram road,Tier 2,Unknown,False,99acres
+36.0,935.0,2.0,Apartment,Furnished,Maninagar,Tier 2,Owner,False,MagicBricks
+67.0,1170.0,2.0,Apartment,Furnished,Tragad,Tier 2,Owner,False,MagicBricks
+215.0,2550.0,4.0,Apartment,Furnished,Satellite,Tier 1,Owner,False,MagicBricks
+310.0,4392.0,4.0,Apartment,Furnished,Navrangpura,Tier 1,Owner,False,MagicBricks
+34.0,360.0,1.0,Apartment,Furnished,Shantipura,Tier 3,Owner,True,MagicBricks
+58.0,576.0,2.0,Apartment,Semi-Furnished,Shilaj,Tier 2,Owner,False,MagicBricks
+317.0,2458.0,4.0,Apartment,Furnished,Thaltej,Tier 1,Owner,True,MagicBricks
+95.0,1050.0,3.0,Apartment,Furnished,Chandkheda,Tier 2,Owner,False,MagicBricks
+110.0,1200.0,3.0,Apartment,Furnished,Motera,Tier 2,Owner,False,MagicBricks
+194.0,1388.0,3.0,Apartment,Furnished,Ambawadi,Tier 1,Owner,True,MagicBricks
+66.0,980.0,2.0,Apartment,Semi-Furnished,Nikol,Tier 2,Owner,False,MagicBricks
+75.0,1915.0,3.0,Apartment,Furnished,Vasna,Tier 2,Owner,True,MagicBricks
+155.0,2160.0,3.0,Apartment,Semi-Furnished,Bhadaj,Tier 3,Owner,False,MagicBricks
+35.0,569.0,2.0,Apartment,Semi-Furnished,Narol,Tier 2,Owner,False,MagicBricks
+125.0,1685.0,3.0,Apartment,Furnished,Tragad,Tier 2,Owner,True,MagicBricks
+60.0,825.0,5.0,Apartment,Furnished,Asarwa,Tier 3,Owner,False,MagicBricks
+33.0,580.0,2.0,Apartment,Semi-Furnished,Vastral,Tier 2,Owner,False,MagicBricks
+60.0,1530.0,3.0,Apartment,Furnished,Shilaj,Tier 2,Owner,False,MagicBricks
+215.0,1554.0,3.0,Apartment,Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+70.0,600.0,2.0,Apartment,Semi-Furnished,Amraiwadi,Tier 2,Owner,False,MagicBricks
+250.0,2529.0,4.0,Apartment,Semi-Furnished,Naroda,Tier 3,Owner,True,99acres
+120.0,1030.0,3.0,Apartment,Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+271.0,4518.0,3.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+110.0,1400.0,3.0,Apartment,Furnished,Amraiwadi,Tier 2,Owner,False,MagicBricks
+148.0,1850.0,3.0,Apartment,Furnished,Vaishno Devi,Tier 2,Owner,False,MagicBricks
+185.0,2520.0,3.0,Apartment,Furnished,Gota,Tier 2,Unknown,True,MagicBricks
+150.0,1035.0,2.0,Independent House,Unfurnished,Nikol,Tier 2,Unknown,False,99acres
+100.0,1190.0,3.0,Apartment,Semi-Furnished,Ghuma,Tier 2,Owner,False,MagicBricks
+15.5,250.0,1.0,Apartment,Furnished,Narol,Tier 2,Owner,False,MagicBricks
+86.0,1080.0,2.0,Apartment,Furnished,Satellite,Tier 1,Owner,False,MagicBricks
+250.0,2000.0,3.0,Apartment,Semi-Furnished,Shela,Tier 2,Owner,False,MagicBricks
+146.0,1899.0,3.0,Apartment,Furnished,Thaltej,Tier 1,Unknown,True,MagicBricks
+125.0,1890.0,3.0,Apartment,Unfurnished,Gota,Tier 2,Owner,False,99acres
+83.9,1500.0,3.0,Apartment,Furnished,Gota,Tier 2,Owner,False,MagicBricks
+140.0,3400.0,3.0,Apartment,Semi-Furnished,Shela,Tier 2,Owner,False,MagicBricks
+150.0,1600.0,3.0,Apartment,Unfurnished,Shilaj,Tier 2,Owner,False,99acres
+200.0,1320.0,3.0,Apartment,Furnished,Ambli,Tier 3,Owner,False,MagicBricks
+135.0,2010.0,3.0,Apartment,Furnished,Prahlad Nagar,Tier 1,Owner,False,MagicBricks
+42.0,1098.0,2.0,Apartment,Furnished,Nikol,Tier 2,Owner,False,MagicBricks
+106.0,2032.0,3.0,Apartment,Furnished,Vasna,Tier 2,Owner,False,MagicBricks
+325.0,3000.0,4.0,Apartment,Furnished,Science City,Tier 2,Owner,False,MagicBricks
+140.0,1936.0,3.0,Apartment,Furnished,Jagatpur,Tier 2,Owner,False,MagicBricks
+84.0,1232.0,3.0,Apartment,Furnished,Shilaj,Tier 2,Owner,False,MagicBricks
+250.0,3170.0,4.0,Apartment,Furnished,Ambli,Tier 3,Owner,False,MagicBricks
+50.0,1070.0,2.0,Apartment,Semi-Furnished,Maninagar,Tier 2,Owner,False,MagicBricks
+51.5,900.0,2.0,Apartment,Furnished,Nirnay Nagar,Tier 3,Owner,False,MagicBricks
+110.0,867.0,3.0,Apartment,Furnished,Shilaj,Tier 2,Owner,False,MagicBricks
+26.0,1290.0,2.0,Apartment,Semi-Furnished,Sola,Tier 2,Owner,False,MagicBricks
+22.0,372.0,1.0,Apartment,Furnished,Gurukul,Tier 2,Owner,False,MagicBricks
+110.0,1200.0,4.0,Independent House,Unfurnished,Amraiwadi,Tier 2,Unknown,False,99acres
+266.0,3707.0,4.0,Apartment,Furnished,Vaishno Devi,Tier 2,Dealer,True,MagicBricks
+62.0,1210.0,2.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+150.0,1905.0,3.0,Apartment,Furnished,Prahlad Nagar,Tier 1,Owner,False,MagicBricks
+105.0,2005.0,3.0,Apartment,Furnished,Chandkheda,Tier 2,Owner,False,MagicBricks
+222.00000000000003,1373.0,4.0,Apartment,Semi-Furnished,Maninagar,Tier 2,Owner,False,MagicBricks
+151.0,1135.0,3.0,Apartment,Unfurnished,Naroda,Tier 3,Owner,False,99acres
+51.8,1216.0,2.0,Apartment,Furnished,Vasna,Tier 2,Owner,True,MagicBricks
+45.0,882.0,2.0,Apartment,Semi-Furnished,Ranip,Tier 2,Owner,False,MagicBricks
+39.0,505.0,1.0,Apartment,Semi-Furnished,Narol,Tier 2,Owner,False,MagicBricks
+42.0,598.0,2.0,Apartment,Semi-Furnished,Manipur,Tier 3,Owner,False,MagicBricks
+109.0,1285.0,3.0,Apartment,Furnished,Shantipura,Tier 3,Owner,True,MagicBricks
+62.0,1080.0,2.0,Apartment,Semi-Furnished,Satellite,Tier 1,Owner,False,MagicBricks
+379.0,5241.0,4.0,Apartment,Furnished,Thaltej,Tier 1,Owner,True,MagicBricks
+65.0,850.0,2.0,Apartment,Furnished,Gota,Tier 2,Owner,False,MagicBricks
+168.0,1688.0,3.0,Apartment,Furnished,Sarkhej,Tier 3,Owner,False,MagicBricks
+70.0,1215.0,2.0,Apartment,Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+184.0,2810.0,3.0,Apartment,Furnished,Ambli,Tier 3,Owner,False,MagicBricks
+62.0,684.0,2.0,Apartment,Furnished,Chandkheda,Tier 2,Owner,False,MagicBricks
+150.0,1360.0,3.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+105.0,1750.0,3.0,Apartment,Furnished,Ambli,Tier 3,Owner,False,MagicBricks
+4.4,2628.0,4.0,Apartment,Furnished,Bopal,Tier 1,Owner,True,MagicBricks
+300.0,3220.0,4.0,Apartment,Semi-Furnished,Sarkhej,Tier 3,Owner,False,MagicBricks
+81.0,210.0,3.0,Apartment,Semi-Furnished,Gota,Tier 2,Owner,False,MagicBricks
+84.0,840.0,2.0,Apartment,Furnished,Vaishno Devi,Tier 2,Owner,False,MagicBricks
+54.0,760.0,2.0,Apartment,Semi-Furnished,Ghuma,Tier 2,Owner,False,MagicBricks
+60.0,625.0,2.0,Apartment,Furnished,Jagatpur,Tier 2,Owner,False,MagicBricks
+70.0,300.0,2.0,Apartment,Semi-Furnished,Vastral,Tier 2,Owner,False,MagicBricks
+60.0,1017.0,2.0,Apartment,Furnished,Maninagar,Tier 2,Unknown,False,99acres
+215.0,1455.0,3.0,Apartment,Furnished,Science City,Tier 2,Owner,False,MagicBricks
+77.0,532.0,3.0,Apartment,Furnished,Shilaj,Tier 2,Owner,False,MagicBricks
+30.0,850.0,3.0,Apartment,Furnished,Saijpur Bogha,Tier 3,Owner,False,MagicBricks
+15.0,560.0,1.0,Apartment,Furnished,Hatkeshwar,Tier 3,Owner,False,MagicBricks
+52.5,1197.0,3.0,Apartment,Furnished,Lambha,Tier 3,Owner,False,MagicBricks
+65.0,1505.0,3.0,Apartment,Semi-Furnished,Shela,Tier 2,Owner,False,MagicBricks
+59.0,1557.0,3.0,Apartment,Furnished,Vaishno Devi,Tier 2,Owner,False,MagicBricks
+95.0,980.0,2.0,Apartment,Furnished,Memnagar,Tier 2,Owner,False,MagicBricks
+170.0,2871.0,4.0,Apartment,Furnished,Maninagar,Tier 2,Owner,False,MagicBricks
+35.0,450.0,1.0,Apartment,Furnished,Sanathal,Tier 3,Owner,False,MagicBricks
+40.0,990.0,2.0,Apartment,Semi-Furnished,Amraiwadi,Tier 2,Owner,False,MagicBricks
+40.0,1188.0,2.0,Apartment,Furnished,Hathijan,Tier 3,Owner,False,MagicBricks
+165.0,1287.0,3.0,Apartment,Furnished,Satellite,Tier 1,Owner,False,MagicBricks
+305.0,3591.0,4.0,Apartment,Unfurnished,Gota,Tier 2,Unknown,False,99acres
+84.0,1232.0,3.0,Apartment,Furnished,Shilaj,Tier 2,Owner,False,MagicBricks
+364.0,5400.0,4.0,Apartment,Furnished,Bhadaj,Tier 3,Owner,True,MagicBricks
+90.0,1214.0,2.0,Apartment,Unfurnished,Vaishno Devi,Tier 2,Owner,False,99acres
+54.0,1800.0,2.0,Apartment,Furnished,New CG Road,Tier 1,Owner,False,MagicBricks
+38.0,724.0,2.0,Apartment,Semi-Furnished,Maninagar,Tier 2,Owner,False,MagicBricks
+185.0,2500.0,3.0,Apartment,Furnished,Jodhpur,Tier 2,Owner,False,MagicBricks
+240.0,2300.0,4.0,Apartment,Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+75.0,1630.0,3.0,Apartment,Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+72.0,825.0,3.0,Apartment,Semi-Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+120.0,1030.0,3.0,Apartment,Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+77.9,1014.0,3.0,Apartment,Furnished,Motera,Tier 2,Owner,True,MagicBricks
+125.0,945.0,3.0,Apartment,Furnished,Satellite,Tier 1,Owner,False,MagicBricks
+44.0,1161.0,2.0,Apartment,Furnished,Isanpur,Tier 2,Owner,False,MagicBricks
+69.0,1737.0,3.0,Apartment,Semi-Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+201.0,3447.0,4.0,Apartment,Furnished,Thaltej,Tier 1,Owner,False,MagicBricks
+250.0,2529.0,1.0,Apartment,Semi-Furnished,Vaishno Devi,Tier 2,Owner,True,99acres
+95.0,1048.0,3.0,Apartment,Furnished,Gokuldham,Tier 2,Owner,False,MagicBricks
+62.5,741.0,2.0,Apartment,Unfurnished,Jagatpur,Tier 2,Owner,True,99acres
+16.8,675.0,1.0,Apartment,Semi-Furnished,Hathijan,Tier 3,Owner,False,MagicBricks
+64.0,1305.0,2.0,Apartment,Furnished,Sarkhej,Tier 3,Owner,False,MagicBricks
+41.0,1089.0,2.0,Apartment,Furnished,Nikol,Tier 2,Owner,False,MagicBricks
+100.0,1584.0,3.0,Apartment,Semi-Furnished,Gota,Tier 2,Owner,False,MagicBricks
+51.5,1350.0,3.0,Apartment,Semi-Furnished,Kathwada,Tier 3,Owner,False,MagicBricks
+250.0,2070.0,2.0,Apartment,Furnished,Chanakyapuri,Tier 3,Owner,False,MagicBricks
+70.0,800.0,3.0,Apartment,Furnished,Bopal,Tier 1,Owner,True,MagicBricks
+90.0,1214.0,2.0,Apartment,Unfurnished,Vaishno Devi,Tier 2,Unknown,False,99acres
+19.0,720.0,1.0,Apartment,Furnished,Vatva,Tier 2,Owner,False,MagicBricks
+160.0,1989.0,3.0,Apartment,Furnished,Shyamal,Tier 2,Owner,False,MagicBricks
+26.0,900.0,2.0,Apartment,Semi-Furnished,Nikol,Tier 2,Owner,False,MagicBricks
+35.0,600.0,1.0,Apartment,Semi-Furnished,Sarkhej,Tier 3,Owner,False,MagicBricks
+215.0,1605.0,4.0,Apartment,Furnished,Navrangpura,Tier 1,Owner,False,MagicBricks
+96.8,1750.0,3.0,Apartment,Furnished,Ambli,Tier 3,Owner,False,MagicBricks
+241.0,2598.0,3.0,Apartment,Furnished,Thaltej,Tier 1,Owner,False,MagicBricks
+86.0,1510.0,3.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+142.0,1660.0,4.0,Apartment,Furnished,Vaishno Devi,Tier 2,Owner,True,MagicBricks
+175.0,2466.0,4.0,Apartment,Semi-Furnished,Bodakdev,Tier 1,Owner,False,MagicBricks
+78.0,980.0,3.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+55.0,810.0,2.0,Apartment,Furnished,Sarkhej,Tier 3,Owner,False,MagicBricks
+45.0,750.0,2.0,Apartment,Furnished,Ghodasar,Tier 2,Owner,False,MagicBricks
+140.0,1291.0,3.0,Apartment,Furnished,Science City,Tier 2,Owner,False,MagicBricks
+35.0,600.0,1.0,Apartment,Semi-Furnished,Sarkhej,Tier 3,Owner,False,MagicBricks
+90.0,2000.0,3.0,Apartment,Furnished,Mahadev Nagar,Tier 3,Owner,False,MagicBricks
+11.5,585.0,1.0,Apartment,Furnished,Narol,Tier 2,Owner,False,MagicBricks
+37.0,1548.0,3.0,Apartment,Furnished,Narol,Tier 2,Owner,False,MagicBricks
+125.0,1102.0,3.0,Apartment,Furnished,Thaltej,Tier 1,Owner,False,MagicBricks
+50.0,650.0,2.0,Apartment,Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+105.0,1800.0,3.0,Apartment,Semi-Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+166.0,2385.0,3.0,Apartment,Furnished,Ambawadi,Tier 1,Builder,True,MagicBricks
+100.0,1260.0,3.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+98.0,782.0,3.0,Apartment,Unfurnished,Shilaj,Tier 2,Unknown,False,99acres
+241.0,2598.0,3.0,Apartment,Furnished,Thaltej,Tier 1,Owner,False,MagicBricks
+14.5,657.0,1.0,Apartment,Semi-Furnished,Aslali,Tier 3,Owner,False,MagicBricks
+39.0,703.0,2.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+65.0,938.0,3.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+31.0,391.0,1.0,Apartment,Furnished,Shantipura,Tier 3,Owner,True,MagicBricks
+39.6,1200.0,2.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+335.0,2120.0,4.0,Apartment,Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+40.0,1025.0,2.0,Apartment,Semi-Furnished,Ghuma,Tier 2,Owner,False,MagicBricks
+51.0,1500.0,3.0,Apartment,Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+210.0,3849.0,5.0,Apartment,Furnished,Naroda,Tier 3,Owner,False,MagicBricks
+85.0,575.0,3.0,Apartment,Semi-Furnished,Jagatpur,Tier 2,Owner,False,MagicBricks
+140.0,1411.0,3.0,Apartment,Furnished,Chharodi,Tier 3,Owner,True,MagicBricks
+48.0,760.0,2.0,Apartment,Semi-Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+222.00000000000003,3900.0,4.0,Apartment,Furnished,Bopal,Tier 1,Owner,True,MagicBricks
+100.0,1040.0,3.0,Apartment,Semi-Furnished,Gota,Tier 2,Owner,False,MagicBricks
+80.0,1650.0,3.0,Apartment,Semi-Furnished,Gulbai Tekra,Tier 1,Owner,False,MagicBricks
+45.0,800.0,2.0,Apartment,Furnished,Ghodasar,Tier 2,Owner,False,MagicBricks
+77.9,1014.0,3.0,Apartment,Furnished,Motera,Tier 2,Owner,True,MagicBricks
+170.0,3341.0,4.0,Apartment,Furnished,Gota,Tier 2,Owner,False,MagicBricks
+100.0,1210.0,3.0,Apartment,Semi-Furnished,New CG Road,Tier 1,Owner,False,MagicBricks
+27.0,750.0,2.0,Apartment,Furnished,Nikol,Tier 2,Owner,False,MagicBricks
+180.0,1417.0,3.0,Apartment,Semi-Furnished,Sabarmati,Tier 2,Owner,False,MagicBricks
+171.0,6500.0,3.0,Apartment,Furnished,Ambawadi,Tier 1,Owner,False,MagicBricks
+150.0,1035.0,2.0,Independent House,Unfurnished,Nikol,Tier 2,Unknown,False,99acres
+365.0,3285.0,5.0,Apartment,Furnished,Kankaria,Tier 2,Owner,False,MagicBricks
+79.5,1700.0,3.0,Apartment,Furnished,Ghuma,Tier 2,Owner,False,MagicBricks
+45.0,850.0,2.0,Apartment,Furnished,Manipur,Tier 3,Owner,False,MagicBricks
+100.0,1341.0,3.0,Apartment,Furnished,Hansol,Tier 3,Owner,False,MagicBricks
+118.0,1612.0,3.0,Apartment,Furnished,Chharodi,Tier 3,Owner,False,MagicBricks
+60.0,743.0,2.0,Apartment,Furnished,Vasna,Tier 2,Owner,False,MagicBricks
+80.0,700.0,2.0,Apartment,Furnished,Paldi,Tier 1,Owner,False,MagicBricks
+80.0,1200.0,2.0,Apartment,Semi-Furnished,Bapunagar,Tier 2,Owner,False,MagicBricks
+45.0,870.0,2.0,Apartment,Furnished,Maninagar,Tier 2,Owner,False,MagicBricks
+50.0,1000.0,2.0,Apartment,Semi-Furnished,Vasna,Tier 2,Owner,False,MagicBricks
+40.0,855.0,2.0,Apartment,Semi-Furnished,Maninagar,Tier 2,Owner,False,MagicBricks
+74.0,1025.0,3.0,Apartment,Semi-Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+73.8,931.0,3.0,Apartment,Furnished,Shela,Tier 2,Dealer,True,MagicBricks
+48.0,925.0,2.0,Apartment,Semi-Furnished,Tragad,Tier 2,Owner,False,MagicBricks
+194.0,3447.0,4.0,Apartment,Furnished,Thaltej,Tier 1,Owner,False,MagicBricks
+148.0,1250.0,3.0,Apartment,Semi-Furnished,Gota,Tier 2,Owner,False,MagicBricks
+65.0,1265.0,2.0,Apartment,Furnished,Ghuma,Tier 2,Owner,False,MagicBricks
+95.0,1044.0,3.0,Apartment,Furnished,Nikol,Tier 2,Owner,False,MagicBricks
+125.0,1200.0,4.0,Apartment,Furnished,D Colony,Tier 3,Owner,False,MagicBricks
+39.0,677.0,1.0,Apartment,Semi-Furnished,Sarkhej,Tier 3,Owner,False,MagicBricks
+99.5,1000.0,3.0,Apartment,Semi-Furnished,Shilaj,Tier 2,Owner,False,MagicBricks
+144.0,1520.0,3.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+190.0,1020.0,1.0,Apartment,Furnished,Naranpura,Tier 2,Owner,True,99acres
+300.0,2150.0,6.0,Apartment,Semi-Furnished,Vasna,Tier 2,Owner,False,MagicBricks
+84.0,945.0,3.0,Apartment,Furnished,Vasna,Tier 2,Dealer,False,MagicBricks
+45.0,1206.0,2.0,Apartment,Furnished,Chandkheda,Tier 2,Owner,False,MagicBricks
+80.0,711.0,2.0,Apartment,Semi-Furnished,Vejalpur,Tier 2,Owner,False,MagicBricks
+95.0,1746.0,3.0,Apartment,Furnished,Gota,Tier 2,Owner,False,MagicBricks
+220.00000000000003,2125.0,4.0,Apartment,Furnished,Sarkhej,Tier 3,Owner,True,MagicBricks
+70.0,1500.0,3.0,Apartment,Unfurnished,Chandkheda,Tier 2,Owner,False,99acres
+116.0,2290.0,3.0,Apartment,Furnished,Vaishno Devi,Tier 2,Owner,True,MagicBricks
+60.0,800.0,2.0,Apartment,Furnished,Naranpura,Tier 2,Owner,False,MagicBricks
+55.0,1440.0,3.0,Apartment,Furnished,Isanpur,Tier 2,Owner,False,MagicBricks
+81.7,765.0,3.0,Apartment,Furnished,Vaishno Devi,Tier 2,Owner,False,MagicBricks
+38.5,527.0,2.0,Apartment,Furnished,Sarkhej,Tier 3,Owner,False,MagicBricks
+145.0,2360.0,3.0,Apartment,Furnished,Gota,Tier 2,Owner,True,MagicBricks
+95.0,1700.0,3.0,Apartment,Semi-Furnished,Bopal,Tier 1,Owner,False,99acres
+55.0,661.0,2.0,Apartment,Furnished,Paldi,Tier 1,Owner,False,MagicBricks
+19.0,825.0,1.0,Apartment,Furnished,Changodar,Tier 2,Owner,False,MagicBricks
+192.0,2520.0,4.0,Apartment,Furnished,Chharodi,Tier 3,Owner,False,MagicBricks
+85.0,1701.0,3.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+56.0,982.0,2.0,Apartment,Furnished,Nikol,Tier 2,Owner,False,MagicBricks
+205.0,2788.0,3.0,Apartment,Furnished,Science City,Tier 2,Owner,False,MagicBricks
+89.0,1350.0,3.0,Apartment,Furnished,Bodakdev,Tier 1,Owner,False,MagicBricks
+78.0,1530.0,3.0,Apartment,Furnished,Chandkheda,Tier 2,Unknown,False,99acres
+55.0,625.0,2.0,Apartment,Semi-Furnished,Jagatpur,Tier 2,Owner,False,MagicBricks
+27.0,432.0,2.0,Apartment,Furnished,Changodar,Tier 2,Owner,False,MagicBricks
+87.0,1404.0,2.0,Apartment,Furnished,Memnagar,Tier 2,Owner,False,MagicBricks
+200.0,2838.0,3.0,Apartment,Furnished,Ambli,Tier 3,Owner,False,MagicBricks
+45.9,1435.0,3.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+165.0,1428.0,3.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+100.0,1102.0,3.0,Apartment,Furnished,Usmanpura,Tier 3,Owner,False,MagicBricks
+135.0,1287.0,3.0,Apartment,Furnished,Vaishno Devi,Tier 2,Owner,False,MagicBricks
+260.0,3065.0,4.0,Apartment,Furnished,Sarkhej,Tier 3,Owner,False,MagicBricks
+100.0,1530.0,3.0,Apartment,Semi-Furnished,Vaishno Devi,Tier 2,Owner,False,MagicBricks
+55.0,1060.0,2.0,Apartment,Furnished,Vaishno Devi,Tier 2,Owner,False,MagicBricks
+79.0,2135.0,3.0,Apartment,Furnished,Ghuma,Tier 2,Owner,False,MagicBricks
+360.0,2009.0,4.0,Apartment,Furnished,Motera,Tier 2,Owner,False,MagicBricks
+95.0,1845.0,3.0,Apartment,Semi-Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+289.0,1916.0,4.0,Apartment,Furnished,Jodhpur,Tier 2,Owner,True,MagicBricks
+91.0,1404.0,2.0,Apartment,Furnished,Memnagar,Tier 2,Owner,False,MagicBricks
+75.0,1052.0,3.0,Apartment,Furnished,Bhadaj,Tier 3,Owner,False,MagicBricks
+180.0,1300.0,3.0,Apartment,Furnished,Thaltej,Tier 1,Owner,False,MagicBricks
+80.0,1430.0,3.0,Apartment,Semi-Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+74.0,1165.0,3.0,Apartment,Furnished,Gota,Tier 2,Owner,False,MagicBricks
+359.0,3168.0,4.0,Apartment,Furnished,Science City,Tier 2,Owner,True,MagicBricks
+165.0,1800.0,3.0,Apartment,Furnished,Thaltej,Tier 1,Owner,False,MagicBricks
+92.0,1330.0,3.0,Apartment,Semi-Furnished,Motera,Tier 2,Owner,False,MagicBricks
+50.0,684.0,2.0,Apartment,Furnished,Satellite,Tier 1,Owner,False,MagicBricks
+195.0,2367.0,3.0,Independent House,Semi-Furnished,Sanathal,Tier 3,Owner,False,99acres
+59.51,1458.0,1.0,Apartment,Unfurnished,Vastral,Tier 2,Owner,True,99acres
+27.0,927.0,2.0,Apartment,Furnished,Vatva,Tier 2,Owner,False,MagicBricks
+250.0,2154.0,4.0,Apartment,Furnished,Usmanpura,Tier 3,Owner,False,MagicBricks
+16.0,648.0,1.0,Apartment,Furnished,Changodar,Tier 2,Owner,False,MagicBricks
+27.0,630.0,1.0,Apartment,Semi-Furnished,Ghodasar,Tier 2,Owner,False,MagicBricks
+78.0,1765.0,3.0,Apartment,Unfurnished,Shela,Tier 2,Unknown,False,99acres
+131.0,1240.0,3.0,Apartment,Furnished,Chandkheda,Tier 2,Owner,False,MagicBricks
+198.0,1707.0,3.0,Apartment,Furnished,Gota,Tier 2,Owner,True,MagicBricks
+72.0,1050.0,2.0,Apartment,Semi-Furnished,Prahlad Nagar,Tier 1,Owner,False,MagicBricks
+45.0,1000.0,3.0,Apartment,Semi-Furnished,Keshav Nagar,Tier 3,Owner,False,MagicBricks
+217.0,2097.0,4.0,Apartment,Furnished,Bopal,Tier 1,Owner,True,MagicBricks
+49.5,381.0,2.0,Apartment,Furnished,Chandkheda,Tier 2,Owner,False,MagicBricks
+45.0,800.0,2.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+34.5,400.0,1.0,Apartment,Furnished,Jagatpur,Tier 2,Owner,False,MagicBricks
+140.0,960.0,5.0,Apartment,Furnished,Isanpur,Tier 2,Owner,False,MagicBricks
+40.0,1185.0,2.0,Apartment,Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+65.0,680.0,2.0,Apartment,Furnished,Satellite,Tier 1,Owner,False,MagicBricks
+100.0,1700.0,3.0,Apartment,Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+42.0,780.0,2.0,Apartment,Semi-Furnished,Sanand,Tier 2,Owner,False,MagicBricks
+111.0,700.0,2.0,Apartment,Furnished,Vastrapur,Tier 1,Owner,False,MagicBricks
+83.0,693.0,2.0,Apartment,Furnished,Vaishno Devi,Tier 2,Owner,False,MagicBricks
+79.2,1660.0,3.0,Apartment,Furnished,Shela,Tier 2,Owner,True,MagicBricks
+267.0,3845.0,4.0,Apartment,Furnished,Bopal,Tier 1,Unknown,False,MagicBricks
+90.0,1700.0,3.0,Apartment,Furnished,Science City,Tier 2,Owner,False,MagicBricks
+75.0,1530.0,3.0,Apartment,Furnished,Sabarmati,Tier 2,Owner,False,MagicBricks
+70.0,864.0,3.0,Apartment,Semi-Furnished,Ghodasar,Tier 2,Owner,False,MagicBricks
+46.6,700.0,2.0,Apartment,Furnished,Ranip,Tier 2,Owner,False,MagicBricks
+105.0,1080.0,3.0,Apartment,Furnished,Keshav Nagar,Tier 3,Owner,False,MagicBricks
+68.0,1280.0,2.0,Apartment,Semi-Furnished,Vaishno Devi,Tier 2,Owner,False,MagicBricks
+25.0,737.0,1.0,Apartment,Semi-Furnished,Narol,Tier 2,Owner,False,MagicBricks
+158.0,2280.0,3.0,Apartment,Furnished,Vaishno Devi,Tier 2,Owner,False,MagicBricks
+48.0,675.0,2.0,Apartment,Furnished,Maninagar,Tier 2,Owner,False,MagicBricks
+142.0,1890.0,3.0,Apartment,Furnished,Science City,Tier 2,Owner,False,MagicBricks
+91.0,1360.0,3.0,Apartment,Furnished,Naroda,Tier 3,Owner,False,MagicBricks
+100.0,1575.0,3.0,Apartment,Semi-Furnished,Kankaria,Tier 2,Owner,False,MagicBricks
+40.4,1170.0,2.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+35.5,1208.0,2.0,Apartment,Furnished,Vastral,Tier 2,Owner,False,MagicBricks
+52.0,1053.0,2.0,Apartment,Semi-Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+77.0,1350.0,3.0,Apartment,Unfurnished,Shilaj,Tier 2,Unknown,False,99acres
+42.0,688.0,3.0,Apartment,Semi-Furnished,Naroda,Tier 3,Owner,False,MagicBricks
+325.0,2338.0,4.0,Apartment,Furnished,Ambawadi,Tier 1,Owner,False,MagicBricks
+67.5,1935.0,3.0,Apartment,Furnished,Chandkheda,Tier 2,Owner,False,MagicBricks
+151.0,1135.0,3.0,Apartment,Unfurnished,Naroda,Tier 3,Unknown,False,99acres
+115.0,1550.0,3.0,Apartment,Semi-Furnished,Makarba,Tier 2,Owner,False,MagicBricks
+50.0,555.0,2.0,Apartment,Semi-Furnished,Shela,Tier 2,Owner,False,MagicBricks
+48.0,663.0,2.0,Apartment,Furnished,Naroda,Tier 3,Owner,False,MagicBricks
+75.0,882.0,2.0,Apartment,Semi-Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+90.0,853.0,3.0,Apartment,Furnished,Sanand,Tier 2,Owner,True,MagicBricks
+40.0,650.0,1.0,Apartment,Semi-Furnished,Jivrajpark,Tier 2,Owner,False,MagicBricks
+115.0,1288.0,3.0,Apartment,Furnished,Prahlad Nagar,Tier 1,Owner,False,MagicBricks
+31.0,520.0,2.0,Apartment,Semi-Furnished,Kankaria,Tier 2,Owner,False,MagicBricks
+38.0,516.0,2.0,Apartment,Semi-Furnished,Vejalpur,Tier 2,Owner,False,MagicBricks
+85.0,1075.0,2.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+54.0,780.0,3.0,Apartment,Semi-Furnished,Shela,Tier 2,Owner,False,MagicBricks
+85.0,1669.0,3.0,Apartment,Semi-Furnished,Motera,Tier 2,Owner,False,MagicBricks
+85.0,1700.0,3.0,Apartment,Furnished,Ghuma,Tier 2,Owner,False,MagicBricks
+32.5,770.0,2.0,Apartment,Furnished,Maninagar,Tier 2,Owner,False,MagicBricks
+78.0,639.0,3.0,Apartment,Furnished,Maninagar,Tier 2,Owner,False,MagicBricks
+97.0,1209.0,3.0,Apartment,Furnished,Maninagar,Tier 2,Owner,False,MagicBricks
+85.0,1700.0,3.0,Apartment,Furnished,Ghuma,Tier 2,Owner,False,MagicBricks
+180.0,1350.0,3.0,Apartment,Furnished,Satellite,Tier 1,Owner,False,MagicBricks
+140.0,1411.0,3.0,Apartment,Furnished,Chharodi,Tier 3,Owner,True,MagicBricks
+99.0,1530.0,3.0,Apartment,Furnished,Shilaj,Tier 2,Owner,False,MagicBricks
+125.0,900.0,2.0,Apartment,Furnished,Naroda,Tier 3,Owner,False,MagicBricks
+170.0,3341.0,4.0,Apartment,Furnished,Gota,Tier 2,Owner,False,MagicBricks
+210.0,4995.0,4.0,Apartment,Furnished,Ramdev Nagar,Tier 3,Owner,False,MagicBricks
+50.0,972.0,2.0,Apartment,Semi-Furnished,Gota,Tier 2,Owner,False,MagicBricks
+72.0,803.0,3.0,Apartment,Furnished,Vaishno Devi,Tier 2,Owner,False,MagicBricks
+68.0,1300.0,3.0,Apartment,Semi-Furnished,Chandkheda,Tier 2,Owner,False,MagicBricks
+425.0,3440.0,4.0,Apartment,Furnished,Ambli,Tier 3,Owner,False,MagicBricks
+141.0,1152.0,3.0,Apartment,Furnished,Science City,Tier 2,Owner,False,MagicBricks
+58.0,726.0,2.0,Apartment,Furnished,Naranpura,Tier 2,Owner,False,MagicBricks
+195.0,1334.0,3.0,Apartment,Semi-Furnished,Navrangpura,Tier 1,Owner,False,MagicBricks
+89.0,1354.0,3.0,Apartment,Furnished,Nikol,Tier 2,Owner,False,MagicBricks
+100.0,1500.0,3.0,Apartment,Furnished,Vastrapur,Tier 1,Owner,False,MagicBricks
+217.0,2097.0,4.0,Apartment,Furnished,Bopal,Tier 1,Owner,True,MagicBricks
+185.0,2250.0,3.0,Apartment,Furnished,Sola,Tier 2,Owner,False,MagicBricks
+215.0,1347.0,3.0,Apartment,Furnished,Vaishno Devi,Tier 2,Owner,False,MagicBricks
+125.0,3500.0,4.0,Apartment,Semi-Furnished,Sanand,Tier 2,Owner,False,MagicBricks
+65.0,675.0,2.0,Apartment,Semi-Furnished,Vasna,Tier 2,Owner,False,MagicBricks
+225.0,1575.0,4.0,Independent House,Semi-Furnished,Ghatlodia,Tier 2,Unknown,False,99acres
+68.0,1485.0,3.0,Apartment,Semi-Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+160.0,1550.0,3.0,Apartment,Furnished,Navrangpura,Tier 1,Owner,False,MagicBricks
+75.0,564.0,1.0,Apartment,Furnished,Vasna,Tier 2,Owner,False,MagicBricks
+45.6,395.0,2.0,Apartment,Furnished,Sarkhej,Tier 3,Owner,False,MagicBricks
+80.0,877.0,3.0,Apartment,Furnished,Thaltej,Tier 1,Owner,False,MagicBricks
+80.0,1700.0,3.0,Apartment,Furnished,Motera,Tier 2,Owner,False,MagicBricks
+79.0,1890.0,3.0,Apartment,Furnished,Vastral,Tier 2,Owner,False,MagicBricks
+225.0,1700.0,4.0,Apartment,Furnished,Shela,Tier 2,Owner,True,MagicBricks
+175.0,3960.0,4.0,Apartment,Furnished,Usmanpura,Tier 3,Owner,False,MagicBricks
+62.0,2100.0,3.0,Apartment,Furnished,Gokuldham,Tier 2,Owner,False,MagicBricks
+65.0,1260.0,2.0,Apartment,Furnished,Sarkhej,Tier 3,Owner,False,MagicBricks
+200.0,2838.0,3.0,Apartment,Furnished,Ambli,Tier 3,Owner,False,MagicBricks
+100.0,1449.0,3.0,Apartment,Furnished,Nikol,Tier 2,Owner,False,MagicBricks
+22.0,700.0,1.0,Apartment,Semi-Furnished,Ashram road,Tier 2,Owner,False,MagicBricks
+400.0,2500.0,4.0,Apartment,Furnished,Motera,Tier 2,Owner,False,MagicBricks
+120.0,2610.0,4.0,Independent House,Furnished,Vatva,Tier 2,Owner,False,99acres
+40.0,585.0,2.0,Apartment,Semi-Furnished,Maninagar,Tier 2,Owner,False,MagicBricks
+95.0,1539.0,3.0,Apartment,Furnished,Sola,Tier 2,Owner,False,MagicBricks
+45.0,799.0,2.0,Apartment,Furnished,Naroda,Tier 3,Owner,False,MagicBricks
+50.3,639.0,2.0,Apartment,Furnished,Jagatpur,Tier 2,Owner,True,MagicBricks
+190.0,2600.0,3.0,Apartment,Furnished,Bodakdev,Tier 1,Owner,False,MagicBricks
+27.5,459.0,1.0,Apartment,Furnished,Isanpur,Tier 2,Owner,False,MagicBricks
+255.0,2342.0,4.0,Apartment,Furnished,Vaishno Devi,Tier 2,Owner,True,MagicBricks
+95.0,1800.0,3.0,Apartment,Furnished,Chharodi,Tier 3,Owner,False,MagicBricks
+19.0,630.0,1.0,Apartment,Semi-Furnished,Sarkhej,Tier 3,Owner,False,MagicBricks
+82.0,1377.0,2.0,Apartment,Furnished,Vasna,Tier 2,Owner,False,MagicBricks
+75.0,860.0,3.0,Apartment,Semi-Furnished,Jagatpur,Tier 2,Dealer,False,MagicBricks
+251.0,2047.0,4.0,Apartment,Semi-Furnished,Gurukul,Tier 2,Owner,False,MagicBricks
+135.0,1422.0,4.0,Apartment,Furnished,Nikol,Tier 2,Owner,False,MagicBricks
+87.0,690.0,2.0,Apartment,Furnished,Naranpura,Tier 2,Owner,False,MagicBricks
+135.0,265.0,3.0,Apartment,Furnished,Vaishno Devi,Tier 2,Owner,False,MagicBricks
+70.0,710.0,3.0,Apartment,Furnished,Jagatpur,Tier 2,Owner,False,MagicBricks
+95.0,1008.0,3.0,Apartment,Semi-Furnished,Bopal,Tier 1,Owner,True,99acres
+48.5,625.0,2.0,Apartment,Semi-Furnished,Jagatpur,Tier 2,Owner,False,MagicBricks
+185.0,2838.0,3.0,Apartment,Furnished,Ambli,Tier 3,Owner,False,MagicBricks
+77.0,614.0,2.0,Apartment,Furnished,Shilaj,Tier 2,Owner,False,MagicBricks
+140.0,1575.0,3.0,Apartment,Furnished,Chandkheda,Tier 2,Owner,False,MagicBricks
+120.0,1386.0,3.0,Apartment,Furnished,Sola,Tier 2,Owner,False,MagicBricks
+56.0,709.0,2.0,Apartment,Furnished,Shela,Tier 2,Owner,True,MagicBricks
+125.0,1900.0,3.0,Apartment,Furnished,Ghodasar,Tier 2,Owner,False,MagicBricks
+63.5,860.0,2.0,Apartment,Furnished,Shilaj,Tier 2,Owner,False,MagicBricks
+280.0,1500.0,5.0,Apartment,Furnished,Nikol,Tier 2,Owner,False,MagicBricks
+135.0,2000.0,3.0,Apartment,Furnished,Satellite,Tier 1,Owner,False,MagicBricks
+195.0,2070.0,3.0,Apartment,Furnished,Bodakdev,Tier 1,Owner,False,MagicBricks
+59.51,1458.0,2.0,Apartment,Unfurnished,Vastral,Tier 2,Owner,True,99acres
+45.9,1435.0,3.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+87.0,1195.0,2.0,Apartment,Furnished,Science City,Tier 2,Owner,False,MagicBricks
+72.0,1133.0,3.0,Apartment,Furnished,Nirnay Nagar,Tier 3,Owner,False,MagicBricks
+55.0,661.0,2.0,Apartment,Furnished,Paldi,Tier 1,Owner,False,MagicBricks
+120.0,984.0,3.0,Apartment,Semi-Furnished,Satellite,Tier 1,Owner,False,MagicBricks
+90.0,1750.0,3.0,Apartment,Furnished,Ambli,Tier 3,Owner,False,MagicBricks
+78.0,1004.0,3.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+72.0,729.0,2.0,Apartment,Semi-Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+33.0,1075.0,2.0,Apartment,Semi-Furnished,Vatva,Tier 2,Owner,False,MagicBricks
+86.0,1188.0,2.0,Apartment,Semi-Furnished,Memnagar,Tier 2,Owner,False,MagicBricks
+163.0,1826.0,4.0,Apartment,Furnished,Shilaj,Tier 2,Owner,True,MagicBricks
+75.5,950.0,3.0,Apartment,Furnished,Shela,Tier 2,Owner,True,MagicBricks
+17.0,648.0,1.0,Apartment,Furnished,Nikol,Tier 2,Owner,False,MagicBricks
+55.5,1210.0,2.0,Apartment,Semi-Furnished,Ghuma,Tier 2,Owner,False,MagicBricks
+87.0,1765.0,3.0,Apartment,Furnished,Shilaj,Tier 2,Owner,True,MagicBricks
+75.0,1570.0,3.0,Apartment,Furnished,Bopal,Tier 1,Owner,True,MagicBricks
+50.0,972.0,2.0,Apartment,Semi-Furnished,Gota,Tier 2,Owner,False,MagicBricks
+70.4,930.0,3.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+18.0,658.0,1.0,Apartment,Furnished,Changodar,Tier 2,Owner,False,MagicBricks
+70.0,1080.0,2.0,Apartment,Semi-Furnished,Sarkhej,Tier 3,Owner,False,MagicBricks
+41.9,650.0,2.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+45.0,714.0,2.0,Apartment,Semi-Furnished,Vejalpur,Tier 2,Owner,False,MagicBricks
+110.0,1152.0,3.0,Apartment,Furnished,Paldi,Tier 1,Owner,False,MagicBricks
+90.0,1980.0,3.0,Apartment,Furnished,Naroda,Tier 3,Owner,False,MagicBricks
+215.0,2638.0,5.0,Apartment,Furnished,Odhav,Tier 2,Owner,False,MagicBricks
+34.0,800.0,2.0,Apartment,Furnished,Saraspur,Tier 2,Owner,False,MagicBricks
+105.0,1750.0,3.0,Apartment,Furnished,Shilaj,Tier 2,Owner,True,MagicBricks
+300.0,2310.0,4.0,Apartment,Furnished,Bodakdev,Tier 1,Owner,False,MagicBricks
+68.0,1026.0,2.0,Apartment,Semi-Furnished,Gurukul,Tier 2,Owner,False,MagicBricks
+300.0,4550.0,4.0,Apartment,Furnished,Hansol,Tier 3,Owner,False,MagicBricks
+14.5,592.0,1.0,Apartment,Semi-Furnished,Hathijan,Tier 3,Owner,False,MagicBricks
+70.0,1210.0,2.0,Apartment,Furnished,Jagatpur,Tier 2,Owner,False,MagicBricks
+75.0,1422.0,2.0,Apartment,Furnished,Shilaj,Tier 2,Owner,False,MagicBricks
+82.0,1500.0,3.0,Apartment,Semi-Furnished,Ghuma,Tier 2,Owner,False,MagicBricks
+55.0,756.0,2.0,Apartment,Semi-Furnished,Chandkheda,Tier 2,Owner,False,MagicBricks
+60.0,1395.0,2.0,Apartment,Furnished,Vejalpur,Tier 2,Owner,False,MagicBricks
+83.0,780.0,3.0,Apartment,Furnished,Ghuma,Tier 2,Owner,False,MagicBricks
+60.5,875.0,3.0,Apartment,Furnished,Shela,Tier 2,Owner,True,MagicBricks
+120.0,984.0,3.0,Apartment,Semi-Furnished,Satellite,Tier 1,Owner,False,MagicBricks
+307.0,2772.0,5.0,Apartment,Furnished,Shela,Tier 2,Owner,True,MagicBricks
+58.0,950.0,2.0,Apartment,Semi-Furnished,Vejalpur,Tier 2,Owner,False,MagicBricks
+25.0,228.0,2.0,Apartment,Furnished,Narol,Tier 2,Owner,False,MagicBricks
+160.0,1449.0,4.0,Apartment,Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+63.0,1355.0,2.0,Apartment,Furnished,Vejalpur,Tier 2,Owner,False,MagicBricks
+50.0,1170.0,2.0,Apartment,Furnished,Chandkheda,Tier 2,Dealer,False,MagicBricks
+50.0,850.0,2.0,Apartment,Furnished,Gurukul,Tier 2,Owner,False,MagicBricks
+72.0,729.0,2.0,Apartment,Semi-Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+180.0,2800.0,4.0,Apartment,Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+115.0,1905.0,3.0,Apartment,Semi-Furnished,Vaishno Devi,Tier 2,Owner,False,MagicBricks
+75.0,1262.0,2.0,Apartment,Furnished,Sarkhej,Tier 3,Owner,False,MagicBricks
+65.0,1265.0,2.0,Apartment,Furnished,Ghuma,Tier 2,Owner,False,MagicBricks
+78.0,1150.0,3.0,Apartment,Furnished,Chandkheda,Tier 2,Owner,True,MagicBricks
+59.51,1458.0,2.0,Apartment,Unfurnished,Vastral,Tier 2,Unknown,True,99acres
+118.0,1118.0,3.0,Apartment,Furnished,Tragad,Tier 2,Dealer,True,MagicBricks
+110.0,1100.0,3.0,Apartment,Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+32.5,590.0,1.0,Apartment,Semi-Furnished,Sabarmati,Tier 2,Owner,False,MagicBricks
+78.0,1530.0,3.0,Apartment,Furnished,Chandkheda,Tier 2,Unknown,False,99acres
+43.0,1084.0,2.0,Apartment,Furnished,Shela,Tier 2,Owner,True,MagicBricks
+25.0,550.0,1.0,Apartment,Semi-Furnished,Nikol,Tier 2,Owner,False,MagicBricks
+275.0,5350.0,4.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+82.0,1695.0,3.0,Apartment,Furnished,Gota,Tier 2,Owner,False,MagicBricks
+72.0,1050.0,2.0,Apartment,Semi-Furnished,Prahlad Nagar,Tier 1,Owner,False,MagicBricks
+125.0,1224.0,3.0,Apartment,Semi-Furnished,Sarkhej,Tier 3,Owner,False,MagicBricks
+110.0,854.0,2.0,Apartment,Semi-Furnished,Sarkhej,Tier 3,Owner,False,MagicBricks
+60.0,1670.0,3.0,Apartment,Furnished,Lambha,Tier 3,Owner,False,MagicBricks
+72.0,900.0,3.0,Apartment,Furnished,Chandkheda,Tier 2,Owner,False,MagicBricks
+50.0,1080.0,2.0,Apartment,Furnished,Ranip,Tier 2,Owner,False,MagicBricks
+125.0,1102.0,3.0,Apartment,Furnished,Thaltej,Tier 1,Owner,False,MagicBricks
+40.0,552.0,2.0,Apartment,Furnished,Naroda,Tier 3,Owner,False,MagicBricks
+100.0,1750.0,3.0,Apartment,Semi-Furnished,Ambli,Tier 3,Owner,False,MagicBricks
+100.0,800.0,5.0,Independent House,Unfurnished,Meghani Nagar,Tier 3,Unknown,False,99acres
+48.0,977.0,2.0,Apartment,Furnished,Nikol,Tier 2,Owner,False,MagicBricks
+70.0,885.0,3.0,Apartment,Semi-Furnished,Sarkhej,Tier 3,Owner,False,MagicBricks
+58.0,741.0,2.0,Apartment,Unfurnished,S P Ring Road,Tier 2,Unknown,False,99acres
+75.0,1052.0,3.0,Apartment,Furnished,Bhadaj,Tier 3,Owner,False,MagicBricks
+265.0,2750.0,4.0,Apartment,Semi-Furnished,Sarkhej,Tier 3,Owner,False,MagicBricks
+120.0,1134.0,3.0,Apartment,Furnished,Jagatpur,Tier 2,Owner,False,MagicBricks
+50.0,650.0,2.0,Apartment,Semi-Furnished,Odhav,Tier 2,Owner,False,MagicBricks
+368.0,2250.0,4.0,Apartment,Furnished,Bodakdev,Tier 1,Owner,True,MagicBricks
+72.0,546.0,2.0,Apartment,Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+68.0,868.0,3.0,Apartment,Furnished,Maninagar,Tier 2,Owner,False,MagicBricks
+95.0,1008.0,3.0,Apartment,Semi-Furnished,Bopal,Tier 1,Owner,True,99acres
+84.0,1730.0,3.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+90.0,980.0,2.0,Apartment,Furnished,Thaltej,Tier 1,Owner,False,MagicBricks
+20.0,765.0,1.0,Apartment,Furnished,Narol,Tier 2,Owner,False,MagicBricks
+80.0,1683.0,3.0,Apartment,Furnished,Ognaj,Tier 3,Owner,False,MagicBricks
+55.0,850.0,2.0,Apartment,Semi-Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+351.0,3514.0,5.0,Apartment,Furnished,Bopal,Tier 1,Dealer,True,MagicBricks
+42.0,600.0,2.0,Apartment,Furnished,Vastral,Tier 2,Owner,False,MagicBricks
+65.0,1325.0,2.0,Apartment,Semi-Furnished,Vaishno Devi,Tier 2,Owner,False,MagicBricks
+60.5,875.0,3.0,Apartment,Furnished,Shela,Tier 2,Owner,True,MagicBricks
+40.0,801.0,3.0,Apartment,Furnished,Vatva,Tier 2,Owner,False,MagicBricks
+59.0,1435.0,3.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+135.0,1225.0,3.0,Apartment,Furnished,Bodakdev,Tier 1,Owner,False,MagicBricks
+85.0,1200.0,3.0,Apartment,Semi-Furnished,Saijpur Bogha,Tier 3,Owner,False,MagicBricks
+50.0,905.0,2.0,Apartment,Furnished,Chandkheda,Tier 2,Owner,False,MagicBricks
+167.0,1534.0,3.0,Apartment,Furnished,Science City,Tier 2,Owner,True,MagicBricks
+18.0,4345.0,1.0,Apartment,Furnished,Narol,Tier 2,Owner,False,MagicBricks
+45.9,1435.0,3.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+155.0,3300.0,4.0,Apartment,Furnished,Ghuma,Tier 2,Owner,False,MagicBricks
+228.0,1651.0,3.0,Apartment,Furnished,Bodakdev,Tier 1,Owner,True,MagicBricks
+150.0,1000.0,2.0,Apartment,Furnished,Jivrajpark,Tier 2,Owner,False,MagicBricks
+150.0,2100.0,3.0,Apartment,Semi-Furnished,Motera,Tier 2,Owner,False,MagicBricks
+45.0,1260.0,2.0,Apartment,Furnished,Naroda,Tier 3,Owner,False,MagicBricks
+85.0,1057.0,3.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+120.0,1071.0,3.0,Apartment,Furnished,Chandkheda,Tier 2,Owner,False,MagicBricks
+55.0,725.0,3.0,Apartment,Furnished,Maninagar,Tier 2,Owner,False,MagicBricks
+40.0,585.0,2.0,Apartment,Semi-Furnished,Maninagar,Tier 2,Owner,False,MagicBricks
+325.0,2338.0,4.0,Apartment,Furnished,Ambawadi,Tier 1,Owner,False,MagicBricks
+132.0,2800.0,4.0,Apartment,Furnished,Odhav,Tier 2,Owner,False,MagicBricks
+84.0,885.0,3.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+65.0,1100.0,3.0,Apartment,Furnished,Motera,Tier 2,Owner,False,MagicBricks
+140.0,3400.0,3.0,Apartment,Semi-Furnished,Shela,Tier 2,Owner,False,MagicBricks
+41.0,1080.0,2.0,Apartment,Unfurnished,Vastral,Tier 2,Owner,False,99acres
+99.5,1730.0,3.0,Apartment,Semi-Furnished,Gota,Tier 2,Owner,False,MagicBricks
+17.0,441.0,2.0,Apartment,Furnished,Vatva,Tier 2,Owner,False,MagicBricks
+100.0,800.0,5.0,Independent House,Unfurnished,Meghani Nagar,Tier 3,Unknown,False,99acres
+52.0,633.0,2.0,Apartment,Furnished,Jagatpur,Tier 2,Owner,False,MagicBricks
+25.0,228.0,2.0,Apartment,Furnished,Narol,Tier 2,Owner,False,MagicBricks
+30.0,945.0,2.0,Apartment,Furnished,Vinzol,Tier 3,Owner,False,MagicBricks
+73.0,1200.0,3.0,Apartment,Semi-Furnished,Jodhpur,Tier 2,Owner,False,MagicBricks
+55.0,1150.0,2.0,Apartment,Unfurnished,Shela,Tier 2,Dealer,True,99acres
+54.0,850.0,2.0,Apartment,Semi-Furnished,Shela,Tier 2,Owner,False,MagicBricks
+122.0,1710.0,3.0,Apartment,Furnished,Memnagar,Tier 2,Owner,False,MagicBricks
+92.0,980.0,3.0,Apartment,Furnished,Gota,Tier 2,Owner,False,MagicBricks
+118.0,1612.0,3.0,Apartment,Furnished,Chharodi,Tier 3,Owner,False,MagicBricks
+57.0,825.0,2.0,Apartment,Semi-Furnished,Jagatpur,Tier 2,Owner,False,MagicBricks
+72.0,860.0,3.0,Apartment,Semi-Furnished,Ghuma,Tier 2,Owner,False,MagicBricks
+150.0,1530.0,3.0,Apartment,Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+300.0,2750.0,3.0,Apartment,Unfurnished,Shahibaug,Tier 2,Unknown,False,99acres
+40.0,819.0,2.0,Apartment,Semi-Furnished,Isanpur,Tier 2,Owner,False,MagicBricks
+100.0,1260.0,3.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+33.0,1075.0,2.0,Apartment,Semi-Furnished,Vatva,Tier 2,Owner,False,MagicBricks
+58.0,945.0,2.0,Apartment,Semi-Furnished,Chandkheda,Tier 2,Owner,False,MagicBricks
+274.0,2500.0,4.0,Apartment,Furnished,Shilaj,Tier 2,Owner,True,MagicBricks
+115.0,1789.0,4.0,Apartment,Furnished,Vasna,Tier 2,Owner,False,MagicBricks
+195.0,2367.0,3.0,Independent House,Semi-Furnished,Sanathal,Tier 3,Unknown,False,99acres
+424.0,4418.0,4.0,Apartment,Furnished,Bodakdev,Tier 1,Owner,False,MagicBricks
+99.0,1440.0,3.0,Apartment,Furnished,Ambli,Tier 3,Owner,False,MagicBricks
+65.0,1215.0,2.0,Apartment,Furnished,Ranip,Tier 2,Owner,False,MagicBricks
+48.0,977.0,2.0,Apartment,Furnished,Nikol,Tier 2,Owner,False,MagicBricks
+100.0,1755.0,3.0,Apartment,Furnished,Gota,Tier 2,Owner,False,MagicBricks
+162.0,1411.0,3.0,Apartment,Furnished,Sarkhej,Tier 3,Owner,True,MagicBricks
+255.0,2275.0,4.0,Apartment,Furnished,Jagatpur,Tier 2,Owner,False,MagicBricks
+265.0,235.0,2.0,Apartment,Semi-Furnished,Naranpura,Tier 2,Owner,False,MagicBricks
+165.0,1287.0,3.0,Apartment,Furnished,Satellite,Tier 1,Owner,False,MagicBricks
+156.0,1525.0,3.0,Apartment,Furnished,Jagatpur,Tier 2,Owner,True,MagicBricks
+75.0,900.0,2.0,Apartment,Furnished,Ghodasar,Tier 2,Owner,False,MagicBricks
+85.0,2500.0,3.0,Apartment,Furnished,Paldi,Tier 1,Owner,False,MagicBricks
+62.0,1080.0,2.0,Apartment,Semi-Furnished,Satellite,Tier 1,Owner,False,MagicBricks
+86.0,1600.0,3.0,Apartment,Furnished,Chandkheda,Tier 2,Owner,False,MagicBricks
+26.5,485.0,1.0,Apartment,Semi-Furnished,Nikol,Tier 2,Owner,False,MagicBricks
+70.0,1145.0,2.0,Apartment,Semi-Furnished,Sarkhej,Tier 3,Owner,False,MagicBricks
+60.0,1530.0,3.0,Apartment,Furnished,Shilaj,Tier 2,Owner,False,MagicBricks
+70.0,535.0,2.0,Apartment,Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+58.0,611.0,2.0,Apartment,Furnished,Shyamal,Tier 2,Owner,False,MagicBricks
+56.0,665.0,2.0,Apartment,Semi-Furnished,Shela,Tier 2,Owner,False,MagicBricks
+42.0,1062.0,2.0,Apartment,Furnished,Nikol,Tier 2,Owner,False,MagicBricks
+58.0,741.0,2.0,Apartment,Unfurnished,S P Ring Road,Tier 2,Unknown,False,99acres
+195.0,1680.0,3.0,Apartment,Furnished,Vastrapur,Tier 1,Owner,False,MagicBricks
+167.0,1534.0,3.0,Apartment,Furnished,Science City,Tier 2,Owner,True,MagicBricks
+65.0,938.0,3.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+75.0,1650.0,3.0,Apartment,Semi-Furnished,Tragad,Tier 2,Owner,False,MagicBricks
+107.0,2395.0,3.0,Apartment,Furnished,Sanathal,Tier 3,Owner,True,MagicBricks
+50.0,1085.0,2.0,Apartment,Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+55.0,1250.0,3.0,Apartment,Semi-Furnished,Naranpura,Tier 2,Owner,False,MagicBricks
+78.0,1850.0,3.0,Apartment,Furnished,Bopal,Tier 1,Owner,True,MagicBricks
+300.0,350.0,4.0,Apartment,Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+21.0,448.0,1.0,Apartment,Furnished,Behrampura,Tier 3,Owner,False,MagicBricks
+114.0,1708.0,4.0,Apartment,Furnished,Odhav,Tier 2,Owner,False,MagicBricks
+70.0,1440.0,3.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+325.0,1620.0,4.0,Apartment,Furnished,Jagatpur,Tier 2,Owner,False,MagicBricks
+55.0,623.0,2.0,Apartment,Semi-Furnished,Vasna,Tier 2,Owner,False,MagicBricks
+35.0,850.0,2.0,Apartment,Furnished,Vatva,Tier 2,Owner,False,MagicBricks
+66.5,1300.0,2.0,Apartment,Furnished,Chandkheda,Tier 2,Owner,False,MagicBricks
+80.0,980.0,3.0,Apartment,Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+294.0,4608.0,4.0,Apartment,Furnished,Science City,Tier 2,Dealer,True,MagicBricks
+30.0,356.0,1.0,Apartment,Furnished,Ranip,Tier 2,Owner,False,MagicBricks
+95.0,1100.0,3.0,Apartment,Furnished,Chandkheda,Tier 2,Owner,False,MagicBricks
+40.0,900.0,2.0,Apartment,Furnished,Ghuma,Tier 2,Owner,False,MagicBricks
+67.0,1200.0,3.0,Apartment,Furnished,Vejalpur,Tier 2,Owner,False,MagicBricks
+95.0,1044.0,3.0,Apartment,Furnished,Nikol,Tier 2,Owner,False,MagicBricks
+82.0,1755.0,3.0,Apartment,Furnished,Tragad,Tier 2,Owner,False,MagicBricks
+140.0,2800.0,4.0,Apartment,Furnished,Odhav,Tier 2,Owner,False,MagicBricks
+115.0,1288.0,3.0,Apartment,Furnished,Prahlad Nagar,Tier 1,Owner,False,MagicBricks
+400.0,3538.0,5.0,Apartment,Furnished,Ambli,Tier 3,Owner,False,MagicBricks
+47.0,900.0,2.0,Apartment,Furnished,Vastral,Tier 2,Owner,False,MagicBricks
+48.0,670.0,2.0,Apartment,Furnished,Shela,Tier 2,Owner,True,MagicBricks
+210.0,4850.0,4.0,Apartment,Semi-Furnished,Hansol,Tier 3,Owner,False,MagicBricks
+170.0,1385.0,3.0,Apartment,Furnished,Vaishno Devi,Tier 2,Owner,True,MagicBricks
+35.0,1008.0,2.0,Apartment,Furnished,Vastral,Tier 2,Owner,False,MagicBricks
+126.0,2034.0,3.0,Apartment,Furnished,Naranpura,Tier 2,Owner,False,MagicBricks
+364.0,5400.0,4.0,Apartment,Furnished,Bhadaj,Tier 3,Owner,True,MagicBricks
+120.0,2610.0,4.0,Independent House,Furnished,Vatva,Tier 2,Unknown,False,99acres
+98.0,1260.0,3.0,Apartment,Furnished,Sarkhej,Tier 3,Owner,False,MagicBricks
+60.0,1017.0,2.0,Apartment,Furnished,Maninagar,Tier 2,Owner,False,99acres
+250.0,550.0,3.0,Apartment,Furnished,Gurukul,Tier 2,Owner,False,MagicBricks
+58.0,1530.0,3.0,Apartment,Furnished,Shilaj,Tier 2,Owner,False,MagicBricks
+85.0,1960.0,3.0,Apartment,Furnished,Maninagar,Tier 2,Owner,False,MagicBricks
+195.0,1500.0,4.0,Apartment,Furnished,Chandkheda,Tier 2,Owner,False,MagicBricks
+147.0,3890.0,4.0,Apartment,Semi-Furnished,Bopal,Tier 1,Owner,True,MagicBricks
+89.0,913.0,2.0,Apartment,Semi-Furnished,Science City,Tier 2,Owner,False,MagicBricks
+57.0,650.0,2.0,Apartment,Semi-Furnished,Shela,Tier 2,Owner,False,MagicBricks
+195.0,3425.0,4.0,Apartment,Furnished,Thaltej,Tier 1,Owner,False,MagicBricks
+275.0,2300.0,5.0,Apartment,Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+38.0,540.0,4.0,Apartment,Furnished,Juhapura,Tier 2,Owner,False,MagicBricks
+87.0,1510.0,3.0,Apartment,Unfurnished,Jagatpur,Tier 2,Unknown,False,99acres
+105.0,963.0,3.0,Apartment,Furnished,Gota,Tier 2,Owner,False,MagicBricks
+96.2,1232.0,3.0,Apartment,Semi-Furnished,Shela,Tier 2,Owner,False,MagicBricks
+90.0,1200.0,3.0,Apartment,Furnished,Vastrapur,Tier 1,Owner,False,MagicBricks
+270.0,1690.0,3.0,Apartment,Furnished,Thaltej,Tier 1,Owner,False,MagicBricks
+63.0,1775.0,3.0,Apartment,Furnished,Narol,Tier 2,Owner,False,MagicBricks
+65.0,1050.0,3.0,Apartment,Furnished,Maninagar,Tier 2,Owner,False,MagicBricks
+95.0,2034.0,3.0,Apartment,Unfurnished,Chandkheda,Tier 2,Unknown,False,99acres
+45.9,1435.0,3.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+45.0,800.0,2.0,Apartment,Semi-Furnished,Sanand,Tier 2,Owner,False,MagicBricks
+56.0,900.0,2.0,Apartment,Furnished,Chandkheda,Tier 2,Owner,False,MagicBricks
+40.0,792.0,2.0,Apartment,Furnished,Sughad,Tier 3,Owner,False,MagicBricks
+30.0,413.0,1.0,Apartment,Furnished,Chandkheda,Tier 2,Owner,False,MagicBricks
+82.0,1695.0,3.0,Apartment,Furnished,Gota,Tier 2,Owner,False,MagicBricks
+42.0,1080.0,2.0,Apartment,Furnished,Naroda,Tier 3,Owner,False,MagicBricks
+30.0,1400.0,5.0,Apartment,Furnished,Saraspur,Tier 2,Owner,False,MagicBricks
+75.0,1500.0,3.0,Apartment,Furnished,Maninagar,Tier 2,Owner,False,MagicBricks
+70.0,1400.0,4.0,Apartment,Furnished,Sanand,Tier 2,Owner,False,MagicBricks
+58.5,1500.0,2.0,Apartment,Semi-Furnished,Naroda,Tier 3,Owner,False,MagicBricks
+50.0,800.0,2.0,Apartment,Furnished,Ambawadi,Tier 1,Owner,False,MagicBricks
+38.0,840.0,2.0,Apartment,Semi-Furnished,Thaltej,Tier 1,Owner,False,MagicBricks
+99.5,1000.0,3.0,Apartment,Semi-Furnished,Shilaj,Tier 2,Owner,False,MagicBricks
+38.0,630.0,1.0,Apartment,Semi-Furnished,Jagatpur,Tier 2,Owner,False,MagicBricks
+194.0,1388.0,3.0,Apartment,Furnished,Ambawadi,Tier 1,Owner,True,MagicBricks
+23.0,792.0,1.0,Apartment,Furnished,Naroda,Tier 3,Owner,False,MagicBricks
+17.0,775.0,1.0,Apartment,Semi-Furnished,Vatva,Tier 2,Owner,False,MagicBricks
+73.0,1200.0,3.0,Apartment,Semi-Furnished,Jodhpur,Tier 2,Owner,False,MagicBricks
+182.0,3636.0,4.0,Apartment,Furnished,Koteshwar,Tier 3,Unknown,True,MagicBricks
+66.0,1557.0,3.0,Apartment,Furnished,Vaishno Devi,Tier 2,Owner,False,MagicBricks
+65.0,1220.0,2.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+225.0,1575.0,4.0,Independent House,Semi-Furnished,Ghatlodia,Tier 2,Unknown,False,99acres
+67.0,913.0,2.0,Apartment,Furnished,Gota,Tier 2,Owner,False,MagicBricks
+100.0,1020.0,3.0,Apartment,Semi-Furnished,Jagatpur,Tier 2,Owner,False,MagicBricks
+43.0,990.0,2.0,Apartment,Furnished,Vejalpur,Tier 2,Owner,False,MagicBricks
+200.0,2900.0,3.0,Apartment,Furnished,Chandkheda,Tier 2,Owner,False,MagicBricks
+21.0,650.0,2.0,Apartment,Furnished,Narol,Tier 2,Owner,False,MagicBricks
+60.0,693.0,2.0,Apartment,Furnished,Shela,Tier 2,Owner,True,MagicBricks
+75.0,1260.0,2.0,Apartment,Furnished,Prahlad Nagar,Tier 1,Owner,False,MagicBricks
+96.0,1386.0,2.0,Apartment,Furnished,Nikol,Tier 2,Owner,False,MagicBricks
+127.0,211.0,3.0,Apartment,Unfurnished,Paldi,Tier 1,Unknown,False,99acres
+100.0,574.0,2.0,Apartment,Furnished,Ramdev Nagar,Tier 3,Owner,True,MagicBricks
+190.0,1410.0,3.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+145.0,600.0,1.0,Apartment,Furnished,Motera,Tier 2,Owner,False,MagicBricks
+51.5,570.0,2.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+109.0,2340.0,4.0,Apartment,Semi-Furnished,Naroda,Tier 3,Owner,False,MagicBricks
+95.0,1845.0,3.0,Apartment,Semi-Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+50.0,1044.0,3.0,Apartment,Furnished,Bodakdev,Tier 1,Owner,False,MagicBricks
+70.0,1620.0,3.0,Apartment,Semi-Furnished,Nikol,Tier 2,Owner,False,MagicBricks
+110.0,990.0,2.0,Apartment,Semi-Furnished,Navrangpura,Tier 1,Owner,False,MagicBricks
+114.0,1708.0,4.0,Apartment,Furnished,Odhav,Tier 2,Owner,False,MagicBricks
+76.0,825.0,2.0,Apartment,Semi-Furnished,Chandkheda,Tier 2,Owner,False,MagicBricks
+68.0,595.0,2.0,Apartment,Semi-Furnished,Maninagar,Tier 2,Owner,False,MagicBricks
+90.0,853.0,3.0,Apartment,Furnished,Sanand,Tier 2,Owner,True,MagicBricks
+58.0,1530.0,3.0,Apartment,Furnished,Shilaj,Tier 2,Owner,False,MagicBricks
+94.0,1211.0,3.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+55.0,756.0,2.0,Apartment,Semi-Furnished,Chandkheda,Tier 2,Owner,False,MagicBricks
+35.0,2700.0,6.0,Apartment,Furnished,Raipur,Tier 3,Owner,False,MagicBricks
+60.0,1530.0,3.0,Apartment,Furnished,Shilaj,Tier 2,Owner,False,MagicBricks
+288.0,2387.0,4.0,Apartment,Furnished,Sola,Tier 2,Owner,False,MagicBricks
+100.0,800.0,5.0,Independent House,Unfurnished,Meghani Nagar,Tier 3,Owner,False,99acres
+49.0,735.0,2.0,Apartment,Semi-Furnished,Sarkhej,Tier 3,Owner,False,MagicBricks
+75.0,650.0,2.0,Apartment,Furnished,Thaltej,Tier 1,Owner,False,MagicBricks
+95.0,2034.0,3.0,Apartment,Unfurnished,Chandkheda,Tier 2,Unknown,False,99acres
+190.0,3900.0,4.0,Apartment,Furnished,Odhav,Tier 2,Owner,False,MagicBricks
+95.0,1553.0,3.0,Apartment,Furnished,Chandkheda,Tier 2,Owner,False,MagicBricks
+125.0,1350.0,3.0,Apartment,Furnished,Jagatpur,Tier 2,Owner,False,MagicBricks
+108.0,1377.0,2.0,Apartment,Unfurnished,Shahibaug,Tier 2,Owner,False,99acres
+70.0,819.0,3.0,Apartment,Semi-Furnished,Thaltej,Tier 1,Owner,False,MagicBricks
+95.0,1150.0,5.0,Apartment,Semi-Furnished,Dudheshwar,Tier 3,Owner,False,MagicBricks
+80.0,950.0,2.0,Apartment,Furnished,Satellite,Tier 1,Owner,False,MagicBricks
+45.0,577.0,2.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+280.0,2200.0,4.0,Apartment,Semi-Furnished,Shilaj,Tier 2,Owner,True,MagicBricks
+245.00000000000003,2230.0,3.0,Apartment,Furnished,Vastrapur,Tier 1,Owner,False,MagicBricks
+48.0,1260.0,2.0,Apartment,Semi-Furnished,Sarkhej,Tier 3,Owner,False,MagicBricks
+55.0,1180.0,2.0,Apartment,Furnished,Amraiwadi,Tier 2,Owner,False,MagicBricks
+39.6,1200.0,2.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+61.9,867.0,3.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+70.0,1161.0,2.0,Apartment,Furnished,Chandkheda,Tier 2,Owner,False,MagicBricks
+375.0,3650.0,3.0,Independent House,Unfurnished,Maninagar,Tier 2,Unknown,False,99acres
+120.0,1890.0,3.0,Apartment,Furnished,Navrangpura,Tier 1,Owner,False,MagicBricks
+85.0,1377.0,2.0,Apartment,Furnished,Vasna,Tier 2,Owner,False,MagicBricks
+70.0,1625.0,3.0,Apartment,Furnished,Sola,Tier 2,Owner,False,MagicBricks
+104.0,1260.0,3.0,Apartment,Furnished,Sola,Tier 2,Owner,True,MagicBricks
+70.0,1150.0,3.0,Apartment,Furnished,Maninagar,Tier 2,Owner,False,MagicBricks
+410.0,2969.0,4.0,Apartment,Furnished,Sarkhej,Tier 3,Dealer,True,MagicBricks
+60.0,680.0,2.0,Apartment,Furnished,Vasna,Tier 2,Owner,False,MagicBricks
+28.5,657.0,2.0,Apartment,Furnished,Vastral,Tier 2,Owner,False,MagicBricks
+62.0,1285.0,2.0,Apartment,Semi-Furnished,Shela,Tier 2,Owner,False,MagicBricks
+77.0,1350.0,3.0,Apartment,Unfurnished,Shilaj,Tier 2,Owner,False,99acres
+115.0,1300.0,3.0,Apartment,Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+135.0,2000.0,3.0,Apartment,Furnished,Satellite,Tier 1,Owner,False,MagicBricks
+60.0,1215.0,2.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+288.0,3850.0,4.0,Apartment,Furnished,Ambli,Tier 3,Owner,False,MagicBricks
+105.0,1750.0,3.0,Apartment,Furnished,Ambli,Tier 3,Owner,False,MagicBricks
+198.0,1707.0,3.0,Apartment,Furnished,Gota,Tier 2,Owner,True,MagicBricks
+62.0,600.0,2.0,Apartment,Furnished,Vastrapur,Tier 1,Owner,False,MagicBricks
+50.0,1320.0,2.0,Apartment,Semi-Furnished,Tragad,Tier 2,Owner,False,MagicBricks
+78.0,1850.0,3.0,Apartment,Furnished,Bopal,Tier 1,Owner,True,MagicBricks
+22.5,600.0,2.0,Apartment,Furnished,Odhav,Tier 2,Owner,False,MagicBricks
+400.0,211.0,4.0,Apartment,Furnished,Bodakdev,Tier 1,Owner,False,MagicBricks
+48.0,770.0,2.0,Apartment,Semi-Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+250.0,2677.0,4.0,Apartment,Furnished,Vaishno Devi,Tier 2,Owner,False,MagicBricks
+45.0,1206.0,2.0,Apartment,Furnished,Chandkheda,Tier 2,Owner,False,MagicBricks
+52.0,1213.0,2.0,Apartment,Furnished,Shela,Tier 2,Owner,True,MagicBricks
+84.0,968.0,3.0,Apartment,Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+65.0,675.0,2.0,Apartment,Furnished,Shela,Tier 2,Owner,True,MagicBricks
+67.0,711.0,2.0,Apartment,Semi-Furnished,Vejalpur,Tier 2,Owner,False,MagicBricks
+105.0,963.0,3.0,Apartment,Furnished,Ambli,Tier 3,Owner,False,MagicBricks
+150.0,1110.0,3.0,Apartment,Semi-Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+137.0,1400.0,3.0,Apartment,Furnished,Gulbai Tekra,Tier 1,Owner,False,MagicBricks
+250.0,1795.0,4.0,Apartment,Furnished,Sanathal,Tier 3,Owner,False,MagicBricks
+78.0,1260.0,2.0,Apartment,Furnished,Naranpura,Tier 2,Builder,True,MagicBricks
+210.0,2960.0,4.0,Apartment,Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+98.0,782.0,3.0,Apartment,Unfurnished,Shilaj,Tier 2,Owner,False,99acres
+57.5,1265.0,2.0,Apartment,Furnished,Ghuma,Tier 2,Owner,False,MagicBricks
+26.5,485.0,1.0,Apartment,Semi-Furnished,Nikol,Tier 2,Owner,False,MagicBricks
+86.0,1222.0,3.0,Apartment,Semi-Furnished,Motera,Tier 2,Owner,False,MagicBricks
+150.0,1905.0,3.0,Apartment,Furnished,Bopal,Tier 1,Dealer,False,MagicBricks
+269.0,3800.0,4.0,Apartment,Furnished,Thaltej,Tier 1,Dealer,True,MagicBricks
+175.0,308.0,4.0,Apartment,Semi-Furnished,Paldi,Tier 1,Owner,False,MagicBricks
+100.0,1102.0,3.0,Apartment,Furnished,Usmanpura,Tier 3,Owner,False,MagicBricks
+65.0,1325.0,2.0,Apartment,Semi-Furnished,Vaishno Devi,Tier 2,Owner,False,MagicBricks
+160.0,1550.0,3.0,Apartment,Furnished,Navrangpura,Tier 1,Owner,False,MagicBricks
+65.0,750.0,1.0,Apartment,Semi-Furnished,Jashoda Nagar,Tier 3,Owner,False,MagicBricks
+65.0,880.0,3.0,Apartment,Semi-Furnished,Ranip,Tier 2,Owner,False,MagicBricks
+149.0,1620.0,3.0,Apartment,Semi-Furnished,Thaltej,Tier 1,Owner,False,MagicBricks
+82.0,1730.0,3.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+180.0,1350.0,3.0,Apartment,Furnished,Vastrapur,Tier 1,Owner,False,MagicBricks
+140.0,1291.0,3.0,Apartment,Furnished,Science City,Tier 2,Owner,False,MagicBricks
+32.0,359.0,1.0,Apartment,Semi-Furnished,Ranip,Tier 2,Owner,False,MagicBricks
+65.0,1200.0,2.0,Apartment,Furnished,Navrangpura,Tier 1,Owner,False,MagicBricks
+35.0,945.0,2.0,Apartment,Furnished,Nikol,Tier 2,Owner,False,MagicBricks
+109.0,1285.0,3.0,Apartment,Furnished,Shantipura,Tier 3,Owner,True,MagicBricks
+25.5,475.0,2.0,Apartment,Semi-Furnished,Bhat,Tier 3,Owner,False,MagicBricks
+95.0,2034.0,3.0,Apartment,Unfurnished,Chandkheda,Tier 2,Owner,False,99acres
+80.0,777.0,2.0,Apartment,Furnished,Thaltej,Tier 1,Owner,False,MagicBricks
+65.0,1035.0,2.0,Apartment,Furnished,Gota,Tier 2,Owner,False,MagicBricks
+127.0,211.0,3.0,Apartment,Furnished,Paldi,Tier 1,Owner,False,99acres
+35.0,1800.0,2.0,Apartment,Furnished,Bagodara,Tier 3,Owner,False,MagicBricks
+275.0,3339.0,3.0,Apartment,Furnished,Sola,Tier 2,Owner,False,MagicBricks
+41.5,662.0,1.0,Apartment,Furnished,Tragad,Tier 2,Owner,False,MagicBricks
+57.5,623.0,2.0,Apartment,Furnished,Gota,Tier 2,Owner,True,MagicBricks
+175.0,1606.0,3.0,Apartment,Furnished,Science City,Tier 2,Owner,True,MagicBricks
+110.0,1615.0,3.0,Apartment,Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+135.0,2000.0,3.0,Apartment,Furnished,Satellite,Tier 1,Owner,False,MagicBricks
+77.0,938.0,2.0,Apartment,Furnished,Gota,Tier 2,Owner,False,MagicBricks
+209.0,2114.0,4.0,Apartment,Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+180.0,1270.0,3.0,Apartment,Semi-Furnished,Vastrapur,Tier 1,Owner,False,MagicBricks
+300.0,1200.0,2.0,Apartment,Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+48.0,635.0,2.0,Apartment,Semi-Furnished,Isanpur,Tier 2,Owner,False,MagicBricks
+18.5,756.0,1.0,Apartment,Semi-Furnished,Vatva,Tier 2,Owner,False,MagicBricks
+287.0,1766.0,4.0,Apartment,Furnished,Bodakdev,Tier 1,Owner,True,MagicBricks
+66.9,1760.0,3.0,Apartment,Furnished,Shela,Tier 2,Owner,True,MagicBricks
+65.0,850.0,2.0,Apartment,Furnished,Gota,Tier 2,Owner,False,MagicBricks
+45.0,1000.0,2.0,Apartment,Semi-Furnished,Jagatpur,Tier 2,Owner,False,MagicBricks
+72.0,1350.0,2.0,Apartment,Furnished,Sola,Tier 2,Owner,False,MagicBricks
+48.0,1321.0,2.0,Apartment,Furnished,Naroda,Tier 3,Owner,False,MagicBricks
+42.0,688.0,3.0,Apartment,Semi-Furnished,Naroda,Tier 3,Owner,False,MagicBricks
+50.0,1170.0,2.0,Apartment,Furnished,Chandkheda,Tier 2,Dealer,False,MagicBricks
+120.0,2034.0,3.0,Apartment,Semi-Furnished,Jagatpur,Tier 2,Owner,False,MagicBricks
+77.0,938.0,2.0,Apartment,Furnished,Gota,Tier 2,Owner,False,MagicBricks
+59.9,1134.0,2.0,Apartment,Furnished,Jagatpur,Tier 2,Owner,False,MagicBricks
+215.0,3950.0,4.0,Apartment,Furnished,Koteshwar,Tier 3,Owner,False,MagicBricks
+59.0,1557.0,3.0,Apartment,Furnished,Vaishno Devi,Tier 2,Owner,False,MagicBricks
+46.5,1350.0,3.0,Apartment,Furnished,Shilaj,Tier 2,Owner,False,MagicBricks
+75.0,1570.0,3.0,Apartment,Furnished,Bopal,Tier 1,Owner,True,MagicBricks
+100.0,2115.0,4.0,Apartment,Furnished,Lambha,Tier 3,Owner,False,MagicBricks
+58.0,950.0,2.0,Apartment,Semi-Furnished,Vejalpur,Tier 2,Owner,False,MagicBricks
+77.0,850.0,3.0,Apartment,Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+44.0,740.0,2.0,Apartment,Furnished,Narol,Tier 2,Owner,False,MagicBricks
+50.0,756.0,2.0,Apartment,Furnished,Maninagar,Tier 2,Owner,False,MagicBricks
+65.0,1350.0,2.0,Apartment,Semi-Furnished,Gota,Tier 2,Owner,False,MagicBricks
+13.3,378.0,1.0,Apartment,Furnished,Narol,Tier 2,Owner,False,MagicBricks
+185.0,2250.0,3.0,Apartment,Furnished,Sola,Tier 2,Owner,False,MagicBricks
+195.0,3060.0,5.0,Apartment,Furnished,Paldi,Tier 1,Unknown,False,99acres
+25.0,747.0,1.0,Apartment,Semi-Furnished,Narol,Tier 2,Owner,False,MagicBricks
+30.0,675.0,1.0,Apartment,Semi-Furnished,Chandkheda,Tier 2,Owner,False,MagicBricks
+86.0,1080.0,2.0,Apartment,Furnished,Satellite,Tier 1,Owner,False,MagicBricks
+70.0,1512.0,3.0,Apartment,Semi-Furnished,Vaishno Devi,Tier 2,Owner,False,MagicBricks
+100.0,1241.0,3.0,Apartment,Furnished,Chandkheda,Tier 2,Owner,False,MagicBricks
+115.0,1450.0,3.0,Apartment,Furnished,New CG Road,Tier 1,Owner,False,MagicBricks
+36.0,1125.0,2.0,Apartment,Furnished,Nikol,Tier 2,Owner,False,MagicBricks
+195.0,2350.0,3.0,Apartment,Furnished,Sanathal,Tier 3,Owner,False,MagicBricks
+75.0,1050.0,3.0,Apartment,Furnished,Naroda,Tier 3,Owner,False,MagicBricks
+199.0,4550.0,5.0,Apartment,Unfurnished,Odhav,Tier 2,Owner,False,MagicBricks
+50.0,405.0,2.0,Apartment,Unfurnished,Vastral,Tier 2,Owner,False,MagicBricks
+400.0,3175.0,4.0,Apartment,Furnished,Thaltej,Tier 1,Owner,False,MagicBricks
+100.0,1944.0,3.0,Apartment,Furnished,Naranpura,Tier 2,Owner,False,MagicBricks
+265.0,1260.0,5.0,Apartment,Furnished,Maninagar,Tier 2,Owner,False,MagicBricks
+220.00000000000003,2585.0,4.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+46.5,1313.0,2.0,Apartment,Furnished,Naroda,Tier 3,Owner,False,MagicBricks
+125.0,1181.0,3.0,Apartment,Furnished,Shela,Tier 2,Owner,True,MagicBricks
+100.0,1730.0,3.0,Apartment,Unfurnished,Gota,Tier 2,Owner,False,MagicBricks
+220.00000000000003,2095.0,4.0,Apartment,Furnished,Makarba,Tier 2,Owner,True,MagicBricks
+105.0,1890.0,3.0,Apartment,Semi-Furnished,Motera,Tier 2,Owner,False,MagicBricks
+280.0,210.0,3.0,Apartment,Furnished,Ranip,Tier 2,Owner,False,MagicBricks
+200.0,248.0,4.0,Apartment,Furnished,Sughad,Tier 3,Owner,False,MagicBricks
+130.0,2110.0,3.0,Apartment,Furnished,Naranpura,Tier 2,Owner,False,MagicBricks
+52.0,900.0,2.0,Apartment,Furnished,Ranip,Tier 2,Owner,False,MagicBricks
+45.0,394.0,2.0,Apartment,Semi-Furnished,Gota,Tier 2,Owner,False,MagicBricks
+148.0,1250.0,3.0,Apartment,Semi-Furnished,Gota,Tier 2,Owner,False,MagicBricks
+280.0,748.0,1.0,Apartment,Furnished,Bhadaj,Tier 3,Owner,False,MagicBricks
+295.0,1850.0,4.0,Apartment,Furnished,Ambli,Tier 3,Owner,False,MagicBricks
+150.0,1745.0,3.0,Apartment,Semi-Furnished,Thaltej,Tier 1,Owner,False,MagicBricks
+240.0,2865.0,4.0,Apartment,Furnished,Navrangpura,Tier 1,Unknown,False,99acres
+120.0,2610.0,4.0,Independent House,Furnished,Vatva,Tier 2,Unknown,False,99acres
+32.0,1170.0,3.0,Apartment,Unfurnished,Vatva,Tier 2,Owner,False,99acres
+44.0,1260.0,2.0,Apartment,Semi-Furnished,Vatva,Tier 2,Owner,False,MagicBricks
+70.0,1584.0,3.0,Apartment,Furnished,Vastral,Tier 2,Owner,False,MagicBricks
+195.0,3425.0,4.0,Apartment,Furnished,Thaltej,Tier 1,Owner,False,MagicBricks
+76.0,1055.0,3.0,Apartment,Semi-Furnished,Chandkheda,Tier 2,Owner,True,MagicBricks
+40.0,882.0,2.0,Apartment,Semi-Furnished,Vinzol,Tier 3,Owner,False,MagicBricks
+70.0,1161.0,2.0,Apartment,Furnished,Chandkheda,Tier 2,Owner,False,MagicBricks
+62.0,900.0,2.0,Apartment,Semi-Furnished,Vejalpur,Tier 2,Owner,False,MagicBricks
+37.0,1685.0,2.0,Apartment,Furnished,Narol,Tier 2,Owner,False,MagicBricks
+120.0,1386.0,3.0,Apartment,Furnished,Sola,Tier 2,Owner,False,MagicBricks
+105.0,1730.0,3.0,Apartment,Unfurnished,Jagatpur,Tier 2,Owner,False,99acres
+250.0,2529.0,1.0,Apartment,Semi-Furnished,Vaishno Devi,Tier 2,Owner,True,99acres
+32.0,580.0,2.0,Apartment,Furnished,Naroda,Tier 3,Owner,False,MagicBricks
+142.0,2332.0,3.0,Apartment,Furnished,Sanand,Tier 2,Owner,True,MagicBricks
+99.0,1106.0,2.0,Apartment,Furnished,Memnagar,Tier 2,Owner,False,MagicBricks
+151.0,1800.0,3.0,Apartment,Furnished,Satellite,Tier 1,Owner,False,MagicBricks
+58.0,239.0,3.0,Apartment,Furnished,Nikol,Tier 2,Owner,False,MagicBricks
+58.0,945.0,2.0,Apartment,Semi-Furnished,Chandkheda,Tier 2,Owner,False,MagicBricks
+130.0,2340.0,4.0,Apartment,Unfurnished,Sughad,Tier 3,Owner,False,99acres
+425.0,3440.0,4.0,Apartment,Furnished,Ambli,Tier 3,Owner,False,MagicBricks
+59.0,1045.0,3.0,Apartment,Semi-Furnished,Vastral,Tier 2,Owner,False,MagicBricks
+162.0,3645.0,4.0,Apartment,Furnished,Ognaj,Tier 3,Dealer,True,MagicBricks
+75.0,1212.0,4.0,Apartment,Semi-Furnished,Odhav,Tier 2,Owner,False,MagicBricks
+425.0,3060.0,4.0,Apartment,Furnished,Hebatpur,Tier 3,Owner,False,MagicBricks
+27.0,927.0,2.0,Apartment,Furnished,Vatva,Tier 2,Owner,False,MagicBricks
+100.0,860.0,3.0,Apartment,Semi-Furnished,Sarkhej,Tier 3,Owner,False,MagicBricks
+150.0,1805.0,4.0,Apartment,Semi-Furnished,Shela,Tier 2,Owner,False,MagicBricks
+240.0,2865.0,4.0,Apartment,Furnished,Navrangpura,Tier 1,Unknown,False,99acres
+90.0,1690.0,3.0,Apartment,Furnished,Maninagar,Tier 2,Owner,False,MagicBricks
+150.0,1485.0,4.0,Independent House,Unfurnished,Ghuma,Tier 2,Unknown,False,99acres
+225.0,2200.0,4.0,Apartment,Furnished,Koteshwar,Tier 3,Owner,True,MagicBricks
+100.0,960.0,3.0,Apartment,Furnished,Gota,Tier 2,Owner,False,MagicBricks
+42.0,598.0,2.0,Apartment,Semi-Furnished,Manipur,Tier 3,Owner,False,MagicBricks
+85.0,825.0,3.0,Apartment,Semi-Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+57.0,825.0,2.0,Apartment,Semi-Furnished,Jagatpur,Tier 2,Owner,False,MagicBricks
+62.0,976.0,2.0,Apartment,Furnished,Vastral,Tier 2,Owner,False,MagicBricks
+58.0,780.0,3.0,Apartment,Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+105.0,1393.0,3.0,Apartment,Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+75.0,1080.0,2.0,Apartment,Furnished,Bavla,Tier 2,Owner,False,MagicBricks
+45.0,1170.0,2.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+58.5,1250.0,2.0,Apartment,Furnished,Ghuma,Tier 2,Owner,False,MagicBricks
+67.0,711.0,2.0,Apartment,Semi-Furnished,Vejalpur,Tier 2,Owner,False,MagicBricks
+215.0,2500.0,3.0,Apartment,Furnished,Vastrapur,Tier 1,Owner,False,MagicBricks
+127.0,211.0,3.0,Apartment,Unfurnished,Paldi,Tier 1,Unknown,False,99acres
+45.0,680.0,2.0,Apartment,Semi-Furnished,Chandkheda,Tier 2,Owner,False,MagicBricks
+45.0,1100.0,2.0,Apartment,Semi-Furnished,Manipur,Tier 3,Owner,False,MagicBricks
+28.5,1250.0,2.0,Apartment,Furnished,Naroda,Tier 3,Owner,False,MagicBricks
+40.0,1031.0,3.0,Apartment,Furnished,Hathijan,Tier 3,Owner,False,MagicBricks
+200.0,2205.0,8.0,Apartment,Furnished,Maninagar,Tier 2,Owner,False,MagicBricks
+70.0,800.0,3.0,Apartment,Furnished,Bopal,Tier 1,Owner,True,MagicBricks
+75.0,1260.0,2.0,Apartment,Semi-Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+56.0,900.0,2.0,Apartment,Furnished,Chandkheda,Tier 2,Owner,False,MagicBricks
+125.0,1663.0,3.0,Apartment,Furnished,Bhat,Tier 3,Owner,False,MagicBricks
+66.0,900.0,2.0,Apartment,Furnished,Ellis Bridge,Tier 1,Owner,False,MagicBricks
+135.0,1710.0,3.0,Apartment,Furnished,Satellite,Tier 1,Owner,False,MagicBricks
+174.0,2514.0,3.0,Apartment,Furnished,Vaishno Devi,Tier 2,Owner,True,MagicBricks
+65.0,1400.0,3.0,Apartment,Semi-Furnished,Memnagar,Tier 2,Owner,False,MagicBricks
+140.0,2800.0,4.0,Apartment,Furnished,Odhav,Tier 2,Owner,False,MagicBricks
+17.0,535.0,1.0,Apartment,Furnished,Vastral,Tier 2,Owner,False,MagicBricks
+41.0,1250.0,2.0,Apartment,Semi-Furnished,Vastral,Tier 2,Owner,False,MagicBricks
+135.0,1484.0,3.0,Apartment,Furnished,Shilaj,Tier 2,Owner,False,MagicBricks
+58.0,1280.0,2.0,Apartment,Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+68.0,1200.0,2.0,Apartment,Furnished,Prahlad Nagar,Tier 1,Owner,False,MagicBricks
+54.0,760.0,2.0,Apartment,Semi-Furnished,Ghuma,Tier 2,Owner,False,MagicBricks
+240.0,2865.0,4.0,Apartment,Furnished,Navrangpura,Tier 1,Owner,False,99acres
+60.0,650.0,2.0,Apartment,Furnished,Tragad,Tier 2,Owner,False,99acres
+85.0,2160.0,3.0,Apartment,Furnished,Nikol,Tier 2,Owner,False,MagicBricks
+48.0,670.0,2.0,Apartment,Furnished,Shela,Tier 2,Owner,True,MagicBricks
+43.5,1116.0,2.0,Apartment,Furnished,Vastral,Tier 2,Owner,False,MagicBricks
+311.0,4230.0,4.0,Apartment,Furnished,Ambli,Tier 3,Owner,True,MagicBricks
+71.0,700.0,2.0,Apartment,Furnished,Kali,Tier 3,Owner,False,MagicBricks
+375.0,3354.0,4.0,Apartment,Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+80.0,1500.0,3.0,Apartment,Furnished,Vastral,Tier 2,Owner,False,MagicBricks
+46.0,900.0,2.0,Apartment,Furnished,Sanand,Tier 2,Owner,False,MagicBricks
+275.0,5350.0,4.0,Apartment,Unfurnished,Shela,Tier 2,Unknown,False,99acres
+150.0,2200.0,3.0,Apartment,Furnished,Paldi,Tier 1,Owner,False,MagicBricks
+110.0,1200.0,4.0,Independent House,Unfurnished,Amraiwadi,Tier 2,Unknown,False,99acres
+35.0,400.0,1.0,Apartment,Semi-Furnished,Sarkhej,Tier 3,Owner,False,MagicBricks
+68.0,860.0,3.0,Apartment,Semi-Furnished,Chandkheda,Tier 2,Owner,False,MagicBricks
+300.0,1925.0,4.0,Apartment,Furnished,Thaltej,Tier 1,Owner,False,MagicBricks
+80.0,681.0,2.0,Apartment,Furnished,Vaishno Devi,Tier 2,Owner,False,MagicBricks
+46.5,1250.0,2.0,Apartment,Furnished,Tragad,Tier 2,Owner,False,MagicBricks
+48.0,500.0,2.0,Apartment,Furnished,Naroda,Tier 3,Owner,False,MagicBricks
+57.8,1400.0,2.0,Apartment,Semi-Furnished,Ranip,Tier 2,Owner,False,MagicBricks
+45.0,799.0,2.0,Apartment,Furnished,Naroda,Tier 3,Owner,False,MagicBricks
+160.0,1600.0,4.0,Apartment,Semi-Furnished,Maninagar,Tier 2,Owner,False,MagicBricks
+39.0,1200.0,2.0,Apartment,Semi-Furnished,Narol,Tier 2,Owner,False,MagicBricks
+26.0,783.0,1.0,Apartment,Semi-Furnished,Vastral,Tier 2,Owner,False,MagicBricks
+120.0,1730.0,3.0,Apartment,Furnished,Jagatpur,Tier 2,Owner,False,MagicBricks
+59.51,1458.0,1.0,Apartment,Unfurnished,Vastral,Tier 2,Owner,True,99acres
+48.0,1224.0,2.0,Apartment,Semi-Furnished,Amraiwadi,Tier 2,Owner,False,MagicBricks
+18.0,600.0,2.0,Apartment,Furnished,Bhat,Tier 3,Owner,False,MagicBricks
+60.0,1200.0,2.0,Apartment,Furnished,Bavla,Tier 2,Owner,False,MagicBricks
+190.0,1750.0,4.0,Apartment,Semi-Furnished,Maninagar,Tier 2,Owner,False,MagicBricks
+116.0,2290.0,3.0,Apartment,Furnished,Vaishno Devi,Tier 2,Owner,True,MagicBricks
+58.9,695.0,2.0,Apartment,Furnished,Ghuma,Tier 2,Owner,False,MagicBricks
+92.0,900.0,3.0,Apartment,Furnished,Naroda,Tier 3,Owner,False,MagicBricks
+91.0,913.0,2.0,Apartment,Semi-Furnished,Satellite,Tier 1,Owner,False,MagicBricks
+55.0,1000.0,2.0,Apartment,Semi-Furnished,Sola,Tier 2,Owner,False,MagicBricks
+75.0,1584.0,3.0,Apartment,Furnished,Vastral,Tier 2,Owner,False,MagicBricks
+47.0,1161.0,2.0,Apartment,Furnished,Maninagar,Tier 2,Owner,False,MagicBricks
+56.5,1200.0,3.0,Apartment,Furnished,Hansol,Tier 3,Owner,False,MagicBricks
+127.0,211.0,3.0,Apartment,Furnished,Paldi,Tier 1,Owner,True,99acres
+190.0,1500.0,3.0,Apartment,Semi-Furnished,Ambli,Tier 3,Owner,False,MagicBricks
+40.0,567.0,2.0,Apartment,Furnished,Maninagar,Tier 2,Owner,False,MagicBricks
+80.0,1510.0,3.0,Apartment,Furnished,Gota,Tier 2,Owner,False,MagicBricks
+305.0,2583.0,4.0,Independent House,Unfurnished,Vastral,Tier 2,Unknown,False,99acres
+368.0,2250.0,4.0,Apartment,Furnished,Bodakdev,Tier 1,Owner,True,MagicBricks
+160.0,1305.0,1.0,Independent House,Unfurnished,Nikol,Tier 2,Unknown,False,99acres
+150.0,4500.0,5.0,Apartment,Furnished,Kubernagar,Tier 3,Owner,False,MagicBricks
+120.0,1620.0,3.0,Apartment,Semi-Furnished,Maninagar,Tier 2,Owner,False,MagicBricks
+325.0,3060.0,4.0,Apartment,Furnished,Thaltej,Tier 1,Owner,False,MagicBricks
+130.0,2311.0,4.0,Apartment,Semi-Furnished,Jagatpur,Tier 2,Owner,False,MagicBricks
+203.0,3445.0,4.0,Apartment,Furnished,Thaltej,Tier 1,Owner,False,MagicBricks
+120.0,1133.0,3.0,Apartment,Furnished,Jagatpur,Tier 2,Owner,False,MagicBricks
+55.0,2050.0,3.0,Apartment,Semi-Furnished,Kathwada,Tier 3,Owner,False,MagicBricks
+135.0,2376.0,3.0,Apartment,Unfurnished,Vaishno Devi,Tier 2,Owner,False,99acres
+422.0,5825.0,4.0,Apartment,Furnished,Ambli,Tier 3,Owner,False,MagicBricks
+78.0,1850.0,3.0,Apartment,Furnished,Bopal,Tier 1,Owner,True,MagicBricks
+110.0,1710.0,3.0,Apartment,Furnished,Gurukul,Tier 2,Owner,False,MagicBricks
+90.0,1481.0,3.0,Apartment,Semi-Furnished,Shela,Tier 2,Owner,False,MagicBricks
+195.0,3060.0,5.0,Apartment,Furnished,Paldi,Tier 1,Unknown,False,99acres
+65.0,972.0,2.0,Apartment,Furnished,Satellite,Tier 1,Owner,False,MagicBricks
+333.0,2035.0,4.0,Apartment,Furnished,Ambli,Tier 3,Owner,True,MagicBricks
+42.0,630.0,1.0,Apartment,Semi-Furnished,Keshav Nagar,Tier 3,Owner,False,MagicBricks
+300.0,1925.0,4.0,Apartment,Furnished,Thaltej,Tier 1,Owner,False,MagicBricks
+190.0,3900.0,4.0,Apartment,Furnished,Odhav,Tier 2,Owner,False,MagicBricks
+89.0,805.0,3.0,Apartment,Semi-Furnished,Odhav,Tier 2,Owner,False,MagicBricks
+227.0,2280.0,4.0,Apartment,Furnished,Shela,Tier 2,Owner,True,MagicBricks
+250.0,1750.0,4.0,Apartment,Furnished,Shilaj,Tier 2,Owner,False,MagicBricks
+85.0,1730.0,3.0,Apartment,Furnished,Gota,Tier 2,Owner,False,MagicBricks
+53.0,1485.0,3.0,Apartment,Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+27.0,756.0,2.0,Apartment,Semi-Furnished,Narol,Tier 2,Owner,False,MagicBricks
+110.0,873.0,1.0,Apartment,Furnished,Chandlodia,Tier 2,Owner,False,MagicBricks
+87.0,1510.0,3.0,Apartment,Unfurnished,Jagatpur,Tier 2,Owner,False,99acres
+58.0,611.0,2.0,Apartment,Furnished,Shyamal,Tier 2,Owner,False,MagicBricks
+60.0,1070.0,2.0,Apartment,Furnished,Vaishno Devi,Tier 2,Owner,False,MagicBricks
+35.0,467.0,1.0,Apartment,Furnished,Vasna,Tier 2,Owner,False,MagicBricks
+194.0,3447.0,4.0,Apartment,Furnished,Thaltej,Tier 1,Owner,False,MagicBricks
+150.0,2100.0,3.0,Apartment,Semi-Furnished,Motera,Tier 2,Owner,False,MagicBricks
+231.0,1760.0,4.0,Apartment,Furnished,Vaishno Devi,Tier 2,Owner,True,MagicBricks
+130.0,1439.0,4.0,Apartment,Furnished,Tragad,Tier 2,Owner,False,MagicBricks
+54.0,692.0,2.0,Apartment,Semi-Furnished,Gota,Tier 2,Dealer,False,MagicBricks
+42.0,1140.0,2.0,Apartment,Furnished,Hathijan,Tier 3,Owner,False,MagicBricks
+70.0,1170.0,2.0,Apartment,Semi-Furnished,Motera,Tier 2,Owner,False,MagicBricks
+150.0,1110.0,3.0,Apartment,Semi-Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+42.0,1170.0,1.0,Apartment,Furnished,Chandkheda,Tier 2,Owner,False,MagicBricks
+135.0,2376.0,3.0,Apartment,Unfurnished,Vaishno Devi,Tier 2,Unknown,False,99acres
+68.0,2160.0,4.0,Apartment,Furnished,Bodakdev,Tier 1,Owner,True,99acres
+55.0,1150.0,2.0,Apartment,Unfurnished,Shela,Tier 2,Unknown,True,99acres
+70.0,1440.0,3.0,Apartment,Furnished,Ashram road,Tier 2,Owner,False,MagicBricks
+90.0,980.0,3.0,Apartment,Semi-Furnished,Gota,Tier 2,Owner,False,MagicBricks
+50.0,1085.0,2.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+321.0,2455.0,4.0,Apartment,Furnished,Shilaj,Tier 2,Owner,True,MagicBricks
+52.0,1150.0,2.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+300.0,2200.0,4.0,Apartment,Semi-Furnished,Gota,Tier 2,Owner,False,MagicBricks
+126.0,2300.0,3.0,Apartment,Furnished,Bhadaj,Tier 3,Owner,False,MagicBricks
+53.0,1485.0,3.0,Apartment,Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+38.0,724.0,2.0,Apartment,Semi-Furnished,Maninagar,Tier 2,Owner,False,MagicBricks
+211.0,1893.0,4.0,Apartment,Furnished,Naranpura,Tier 2,Owner,False,MagicBricks
+60.0,650.0,2.0,Apartment,Unfurnished,Tragad,Tier 2,Unknown,False,99acres
+190.0,1500.0,3.0,Apartment,Semi-Furnished,Ambli,Tier 3,Owner,False,MagicBricks
+60.0,1410.0,2.0,Apartment,Furnished,Vastral,Tier 2,Owner,False,MagicBricks
+66.0,1557.0,3.0,Apartment,Furnished,Vaishno Devi,Tier 2,Owner,False,MagicBricks
+72.0,1052.0,3.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+58.0,576.0,2.0,Apartment,Semi-Furnished,Shilaj,Tier 2,Owner,False,MagicBricks
+105.0,1730.0,3.0,Apartment,Unfurnished,Jagatpur,Tier 2,Unknown,False,99acres
+82.0,1701.0,3.0,Apartment,Furnished,Ghuma,Tier 2,Owner,False,MagicBricks
+40.0,882.0,2.0,Apartment,Semi-Furnished,Vinzol,Tier 3,Owner,False,MagicBricks
+115.0,1317.0,3.0,Apartment,Furnished,Sanathal,Tier 3,Owner,True,MagicBricks
+297.0,3227.0,5.0,Apartment,Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+351.0,4464.0,4.0,Apartment,Furnished,Shela,Tier 2,Owner,True,MagicBricks
+288.0,3850.0,4.0,Apartment,Furnished,Ambli,Tier 3,Owner,False,MagicBricks
+250.0,5850.0,5.0,Apartment,Unfurnished,Naroda,Tier 3,Owner,False,99acres
+70.0,1440.0,3.0,Apartment,Furnished,Vaishno Devi,Tier 2,Owner,False,MagicBricks
+330.0,1674.0,4.0,Apartment,Furnished,Prahlad Nagar,Tier 1,Owner,False,MagicBricks
+150.0,1360.0,3.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+310.0,1920.0,4.0,Apartment,Furnished,Vastrapur,Tier 1,Owner,False,MagicBricks
+60.0,739.0,2.0,Apartment,Semi-Furnished,Shela,Tier 2,Owner,False,MagicBricks
+52.0,580.0,1.0,Apartment,Furnished,Vasna,Tier 2,Owner,False,MagicBricks
+40.0,1110.0,2.0,Apartment,Semi-Furnished,Amraiwadi,Tier 2,Owner,False,MagicBricks
+55.0,589.0,2.0,Apartment,Furnished,Vejalpur,Tier 2,Owner,False,MagicBricks
+70.0,817.0,3.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+255.0,2275.0,4.0,Apartment,Furnished,Jagatpur,Tier 2,Owner,False,MagicBricks
+280.0,2000.0,4.0,Apartment,Furnished,Ghuma,Tier 2,Owner,False,MagicBricks
+100.0,1944.0,3.0,Apartment,Furnished,Naranpura,Tier 2,Owner,False,MagicBricks
+110.0,972.0,3.0,Apartment,Furnished,Tragad,Tier 2,Owner,False,MagicBricks
+287.0,1766.0,4.0,Apartment,Furnished,Bodakdev,Tier 1,Owner,True,MagicBricks
+302.0,3538.0,4.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+65.0,786.0,2.0,Apartment,Furnished,Vasna,Tier 2,Owner,False,MagicBricks
+42.0,720.0,2.0,Apartment,Unfurnished,Maninagar,Tier 2,Owner,False,99acres
+115.0,1500.0,4.0,Apartment,Furnished,Isanpur,Tier 2,Owner,False,MagicBricks
+150.0,1485.0,4.0,Independent House,Unfurnished,Ghuma,Tier 2,Unknown,False,99acres
+93.0,945.0,3.0,Apartment,Furnished,Chanakyapuri,Tier 3,Owner,False,MagicBricks
+33.0,670.0,2.0,Apartment,Furnished,Sanand,Tier 2,Owner,True,MagicBricks
+95.0,1710.0,3.0,Apartment,Semi-Furnished,Gota,Tier 2,Owner,False,MagicBricks
+38.5,831.0,3.0,Apartment,Furnished,Naroda,Tier 3,Owner,False,MagicBricks
+265.0,2005.0,4.0,Apartment,Furnished,Ambli,Tier 3,Owner,False,MagicBricks
+225.0,1070.0,3.0,Apartment,Semi-Furnished,Ashram road,Tier 2,Owner,False,MagicBricks
+75.0,1169.0,3.0,Apartment,Furnished,Sarkhej,Tier 3,Owner,False,MagicBricks
+166.0,2095.0,4.0,Apartment,Furnished,Makarba,Tier 2,Owner,True,MagicBricks
+59.0,1045.0,3.0,Apartment,Semi-Furnished,Vastral,Tier 2,Owner,False,MagicBricks
+105.0,1484.0,3.0,Apartment,Furnished,Shilaj,Tier 2,Owner,False,MagicBricks
+75.0,1200.0,4.0,Apartment,Furnished,Hatkeshwar,Tier 3,Owner,False,MagicBricks
+48.0,810.0,2.0,Apartment,Semi-Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+300.0,2000.0,4.0,Apartment,Furnished,New CG Road,Tier 1,Owner,False,MagicBricks
+58.0,741.0,2.0,Apartment,Unfurnished,S P Ring Road,Tier 2,Owner,False,99acres
+110.0,1860.0,5.0,Apartment,Furnished,Naroda,Tier 3,Owner,False,MagicBricks
+120.0,1833.0,4.0,Apartment,Furnished,Vatva,Tier 2,Owner,False,MagicBricks
+52.5,784.0,2.0,Apartment,Semi-Furnished,Gota,Tier 2,Owner,False,MagicBricks
+55.0,1440.0,3.0,Apartment,Semi-Furnished,Naroda,Tier 3,Owner,False,MagicBricks
+33.0,650.0,1.0,Apartment,Furnished,Ghodasar,Tier 2,Owner,False,MagicBricks
+300.0,2310.0,4.0,Apartment,Furnished,Bodakdev,Tier 1,Owner,False,MagicBricks
+170.0,1680.0,4.0,Apartment,Semi-Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+305.0,3591.0,4.0,Apartment,Unfurnished,Gota,Tier 2,Owner,False,99acres
+141.0,1152.0,3.0,Apartment,Furnished,Science City,Tier 2,Owner,False,MagicBricks
+56.0,1540.0,3.0,Apartment,Semi-Furnished,Hathijan,Tier 3,Owner,False,MagicBricks
+52.5,1280.0,2.0,Apartment,Furnished,Bopal,Tier 1,Owner,True,MagicBricks
+80.0,700.0,2.0,Apartment,Semi-Furnished,Sabarmati,Tier 2,Owner,False,MagicBricks
+100.0,1206.0,3.0,Apartment,Furnished,Ambli,Tier 3,Owner,False,MagicBricks
+76.0,959.0,3.0,Apartment,Furnished,Vaishno Devi,Tier 2,Owner,False,MagicBricks
+32.0,765.0,2.0,Apartment,Semi-Furnished,Khanpur,Tier 3,Owner,False,MagicBricks
+35.0,864.0,1.0,Apartment,Furnished,Nikol,Tier 2,Owner,False,MagicBricks
+38.0,970.0,2.0,Apartment,Semi-Furnished,Sarkhej,Tier 3,Owner,False,MagicBricks
+115.0,1060.0,3.0,Apartment,Furnished,Gota,Tier 2,Owner,False,MagicBricks
+95.0,980.0,3.0,Apartment,Furnished,Shilaj,Tier 2,Owner,False,MagicBricks
+181.0,1532.0,3.0,Apartment,Furnished,Vejalpur,Tier 2,Owner,True,MagicBricks
+229.0,2655.0,4.0,Apartment,Furnished,Sughad,Tier 3,Owner,False,MagicBricks
+31.5,371.0,1.0,Apartment,Furnished,Vejalpur,Tier 2,Owner,False,MagicBricks
+215.0,1750.0,4.0,Apartment,Furnished,Ambli,Tier 3,Dealer,True,MagicBricks
+75.5,950.0,3.0,Apartment,Furnished,Shela,Tier 2,Owner,True,MagicBricks
+57.5,1085.0,2.0,Apartment,Semi-Furnished,Shela,Tier 2,Owner,False,MagicBricks
+290.0,1827.0,4.0,Independent House,Unfurnished,Naroda,Tier 3,Unknown,False,99acres
+169.0,3654.0,4.0,Apartment,Furnished,Ognaj,Tier 3,Dealer,True,MagicBricks
+125.0,1980.0,2.0,Apartment,Semi-Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+225.0,3600.0,4.0,Apartment,Furnished,Chharodi,Tier 3,Owner,True,MagicBricks
+44.0,1161.0,2.0,Apartment,Furnished,Isanpur,Tier 2,Owner,False,MagicBricks
+65.0,1230.0,2.0,Apartment,Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+8.0,394.0,1.0,Apartment,Furnished,Aslali,Tier 3,Owner,False,MagicBricks
+300.0,2750.0,3.0,Apartment,Unfurnished,Shahibaug,Tier 2,Owner,False,99acres
+55.0,1134.0,3.0,Apartment,Furnished,Nikol,Tier 2,Owner,False,MagicBricks
+362.0,2237.0,4.0,Apartment,Furnished,Bodakdev,Tier 1,Owner,True,MagicBricks
+44.0,945.0,3.0,Apartment,Semi-Furnished,Kathwada,Tier 3,Owner,False,MagicBricks
+35.0,765.0,1.0,Apartment,Furnished,Jagatpur,Tier 2,Owner,False,MagicBricks
+165.0,2000.0,3.0,Apartment,Furnished,Bodakdev,Tier 1,Owner,False,MagicBricks
+70.0,1120.0,2.0,Apartment,Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+120.0,1133.0,3.0,Apartment,Furnished,Jagatpur,Tier 2,Owner,False,MagicBricks
+52.0,780.0,2.0,Apartment,Unfurnished,Bopal,Tier 1,Owner,False,MagicBricks
+41.0,1080.0,2.0,Apartment,Unfurnished,Vastral,Tier 2,Unknown,False,99acres
+427.0,5900.0,4.0,Apartment,Semi-Furnished,Ambli,Tier 3,Owner,False,MagicBricks
+165.0,2115.0,3.0,Apartment,Semi-Furnished,Vastrapur,Tier 1,Owner,False,MagicBricks
+87.0,1332.0,3.0,Apartment,Furnished,Sarkhej,Tier 3,Owner,False,MagicBricks
+87.0,1485.0,3.0,Apartment,Semi-Furnished,Bhat,Tier 3,Owner,False,MagicBricks
+55.0,730.0,2.0,Apartment,Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+300.0,3220.0,4.0,Apartment,Semi-Furnished,Sarkhej,Tier 3,Owner,False,MagicBricks
+68.5,1197.0,2.0,Apartment,Furnished,Chandkheda,Tier 2,Owner,False,MagicBricks
+45.0,900.0,2.0,Apartment,Furnished,Vatva,Tier 2,Owner,False,MagicBricks
+125.0,1181.0,3.0,Apartment,Furnished,Shela,Tier 2,Owner,True,MagicBricks
+48.0,760.0,2.0,Apartment,Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+44.5,1170.0,2.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+90.0,980.0,2.0,Apartment,Furnished,Thaltej,Tier 1,Owner,False,MagicBricks
+70.0,855.0,2.0,Apartment,Furnished,Chandkheda,Tier 2,Owner,False,MagicBricks
+115.0,1785.0,3.0,Apartment,Furnished,Vaishno Devi,Tier 2,Owner,False,MagicBricks
+60.0,850.0,5.0,Apartment,Semi-Furnished,Ghodasar,Tier 2,Owner,False,MagicBricks
+41.0,945.0,2.0,Apartment,Furnished,Naroda,Tier 3,Owner,False,MagicBricks
+51.0,1035.0,2.0,Apartment,Semi-Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+150.0,2335.0,3.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+109.0,870.0,3.0,Apartment,Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+180.0,1962.0,4.0,Apartment,Semi-Furnished,Shyamal,Tier 2,Owner,False,MagicBricks
+184.0,2838.0,3.0,Apartment,Furnished,Ambli,Tier 3,Owner,False,MagicBricks
+50.0,8500.0,2.0,Apartment,Semi-Furnished,Chandkheda,Tier 2,Owner,False,MagicBricks
+48.0,945.0,2.0,Apartment,Semi-Furnished,Vejalpur,Tier 2,Owner,False,MagicBricks
+300.0,3538.0,4.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+62.5,741.0,2.0,Apartment,Unfurnished,Jagatpur,Tier 2,Unknown,True,99acres
+26.0,756.0,2.0,Apartment,Furnished,Narol,Tier 2,Owner,False,MagicBricks
+125.0,1515.0,3.0,Apartment,Furnished,Vaishno Devi,Tier 2,Owner,False,MagicBricks
+50.0,750.0,1.0,Apartment,Furnished,Vejalpur,Tier 2,Owner,False,MagicBricks
+108.0,1377.0,2.0,Apartment,Unfurnished,Shahibaug,Tier 2,Unknown,False,99acres
+80.0,1404.0,3.0,Apartment,Semi-Furnished,Maninagar,Tier 2,Owner,False,MagicBricks
+317.0,2458.0,4.0,Apartment,Furnished,Thaltej,Tier 1,Owner,True,MagicBricks
+77.5,963.0,3.0,Apartment,Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+105.0,1080.0,3.0,Apartment,Furnished,Keshav Nagar,Tier 3,Owner,False,MagicBricks
+34.5,400.0,1.0,Apartment,Furnished,Jagatpur,Tier 2,Owner,False,MagicBricks
+47.0,409.0,2.0,Apartment,Furnished,Naroda,Tier 3,Owner,False,MagicBricks
+80.0,1435.0,3.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+240.0,2590.0,4.0,Apartment,Semi-Furnished,Ambli,Tier 3,Owner,False,MagicBricks
+275.0,5350.0,4.0,Apartment,Unfurnished,Shela,Tier 2,Unknown,False,99acres
+88.7,968.0,3.0,Apartment,Furnished,Shela,Tier 2,Builder,True,MagicBricks
+185.0,242.0,3.0,Apartment,Semi-Furnished,Bhadaj,Tier 3,Owner,False,MagicBricks
+45.0,1017.0,2.0,Apartment,Furnished,Maninagar,Tier 2,Owner,False,MagicBricks
+85.0,1709.0,3.0,Apartment,Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+25.0,495.0,1.0,Apartment,Semi-Furnished,Manipur,Tier 3,Owner,False,MagicBricks
+42.0,527.0,2.0,Apartment,Semi-Furnished,Jagatpur,Tier 2,Owner,False,MagicBricks
+79.0,882.0,3.0,Apartment,Semi-Furnished,Vasna,Tier 2,Owner,False,MagicBricks
+79.6,973.0,3.0,Apartment,Furnished,Bopal,Tier 1,Owner,True,MagicBricks
+38.0,516.0,2.0,Apartment,Semi-Furnished,Vejalpur,Tier 2,Owner,False,MagicBricks
+46.5,738.0,2.0,Apartment,Furnished,Naroda,Tier 3,Owner,False,MagicBricks
+420.0,4920.0,4.0,Apartment,Furnished,Bopal,Tier 1,Owner,True,MagicBricks
+165.0,1910.0,3.0,Apartment,Semi-Furnished,Satellite,Tier 1,Dealer,False,MagicBricks
+120.0,1333.0,3.0,Apartment,Semi-Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+222.00000000000003,3900.0,4.0,Apartment,Furnished,Bopal,Tier 1,Owner,True,MagicBricks
+101.0,1908.0,3.0,Apartment,Semi-Furnished,Chandkheda,Tier 2,Owner,False,MagicBricks
+64.0,1836.0,3.0,Apartment,Furnished,Chandkheda,Tier 2,Owner,False,MagicBricks
+180.0,1350.0,3.0,Apartment,Furnished,Vastrapur,Tier 1,Owner,False,MagicBricks
+50.0,619.0,2.0,Apartment,Semi-Furnished,Nirnay Nagar,Tier 3,Owner,False,MagicBricks
+25.0,990.0,2.0,Apartment,Semi-Furnished,Naroda,Tier 3,Owner,False,MagicBricks
+65.0,1890.0,3.0,Apartment,Furnished,Chandkheda,Tier 2,Owner,False,MagicBricks
+100.0,1341.0,3.0,Apartment,Furnished,Hansol,Tier 3,Owner,False,MagicBricks
+100.0,2400.0,3.0,Apartment,Furnished,Shantipura,Tier 3,Owner,True,MagicBricks
+115.0,1250.0,3.0,Apartment,Furnished,Gota,Tier 2,Owner,True,MagicBricks
+55.0,819.0,2.0,Apartment,Semi-Furnished,Vejalpur,Tier 2,Owner,False,MagicBricks
+165.0,1428.0,3.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+58.5,1500.0,2.0,Apartment,Semi-Furnished,Naroda,Tier 3,Owner,False,MagicBricks
+47.0,999.0,2.0,Apartment,Semi-Furnished,Sughad,Tier 3,Owner,False,MagicBricks
+81.0,210.0,3.0,Apartment,Semi-Furnished,Gota,Tier 2,Owner,False,MagicBricks
+85.0,1785.0,3.0,Apartment,Furnished,Chandkheda,Tier 2,Owner,False,MagicBricks
+98.0,1750.0,3.0,Apartment,Furnished,Ambli,Tier 3,Owner,False,MagicBricks
+154.0,3240.0,4.0,Apartment,Furnished,Gota,Tier 2,Dealer,True,MagicBricks
+59.9,1134.0,2.0,Apartment,Furnished,Jagatpur,Tier 2,Owner,False,MagicBricks
+120.0,1890.0,3.0,Apartment,Furnished,Navrangpura,Tier 1,Owner,False,MagicBricks
+355.0,3770.0,4.0,Apartment,Furnished,Sanathal,Tier 3,Owner,False,MagicBricks
+104.0,1435.0,3.0,Apartment,Furnished,Gota,Tier 2,Owner,False,MagicBricks
+120.0,1651.0,3.0,Apartment,Furnished,Shilaj,Tier 2,Owner,False,MagicBricks
+150.0,1805.0,4.0,Apartment,Semi-Furnished,Shela,Tier 2,Owner,False,MagicBricks
+82.0,1100.0,3.0,Apartment,Furnished,Motera,Tier 2,Owner,False,MagicBricks
+75.0,1161.0,2.0,Apartment,Furnished,Chandkheda,Tier 2,Owner,False,MagicBricks
+125.0,1650.0,4.0,Apartment,Semi-Furnished,Maninagar,Tier 2,Owner,False,MagicBricks
+50.0,800.0,2.0,Apartment,Semi-Furnished,Sarkhej,Tier 3,Owner,False,MagicBricks
+40.0,916.0,2.0,Apartment,Furnished,Maninagar,Tier 2,Owner,False,MagicBricks
+45.6,395.0,2.0,Apartment,Furnished,Sarkhej,Tier 3,Owner,False,MagicBricks
+75.0,1926.0,3.0,Apartment,Furnished,Tragad,Tier 2,Owner,False,MagicBricks
+85.0,990.0,3.0,Apartment,Furnished,Ranip,Tier 2,Owner,False,MagicBricks
+91.0,1420.0,3.0,Apartment,Furnished,Thaltej,Tier 1,Owner,False,MagicBricks
+185.0,2093.0,3.0,Apartment,Furnished,Ambawadi,Tier 1,Owner,False,MagicBricks
+126.0,2300.0,3.0,Apartment,Furnished,Bhadaj,Tier 3,Owner,False,MagicBricks
+70.0,870.0,3.0,Apartment,Furnished,Chanakyapuri,Tier 3,Owner,False,MagicBricks
+31.5,415.0,1.0,Apartment,Semi-Furnished,Vastral,Tier 2,Owner,False,MagicBricks
+190.0,1750.0,4.0,Apartment,Furnished,Bodakdev,Tier 1,Owner,False,MagicBricks
+96.0,960.0,3.0,Apartment,Furnished,Vaishno Devi,Tier 2,Owner,False,MagicBricks
+110.0,867.0,3.0,Apartment,Furnished,Shilaj,Tier 2,Owner,False,MagicBricks
+120.0,2400.0,3.0,Apartment,Furnished,Shantipura,Tier 3,Owner,False,MagicBricks
+75.0,1650.0,2.0,Apartment,Furnished,Nirnay Nagar,Tier 3,Owner,False,MagicBricks
+90.0,1001.0,3.0,Apartment,Semi-Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+96.0,960.0,3.0,Apartment,Furnished,Vaishno Devi,Tier 2,Owner,False,MagicBricks
+161.0,280.0,3.0,Apartment,Furnished,Sola,Tier 2,Owner,False,MagicBricks
+130.0,2520.0,3.0,Apartment,Furnished,Chharodi,Tier 3,Owner,True,MagicBricks
+29.8,475.0,1.0,Apartment,Furnished,Thakkarbapa Nagar,Tier 3,Owner,False,MagicBricks
+31.6,850.0,2.0,Apartment,Semi-Furnished,Bapunagar,Tier 2,Owner,False,MagicBricks
+72.0,1000.0,3.0,Apartment,Semi-Furnished,Shilaj,Tier 2,Owner,False,MagicBricks
+66.9,1760.0,3.0,Apartment,Furnished,Shela,Tier 2,Owner,True,MagicBricks
+47.4,1185.0,2.0,Apartment,Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+41.0,1179.0,2.0,Apartment,Furnished,Sughad,Tier 3,Owner,False,MagicBricks
+66.0,1557.0,3.0,Apartment,Furnished,Vaishno Devi,Tier 2,Owner,False,MagicBricks
+75.7,856.0,3.0,Apartment,Furnished,Shela,Tier 2,Owner,True,MagicBricks
+47.0,1070.0,2.0,Apartment,Semi-Furnished,Vastral,Tier 2,Owner,False,MagicBricks
+42.0,352.0,2.0,Apartment,Furnished,Vastral,Tier 2,Owner,False,MagicBricks
+70.0,1620.0,3.0,Apartment,Semi-Furnished,Nikol,Tier 2,Owner,False,MagicBricks
+70.0,1500.0,3.0,Apartment,Unfurnished,Chandkheda,Tier 2,Unknown,False,99acres
+65.0,1557.0,3.0,Apartment,Furnished,Vaishno Devi,Tier 2,Owner,False,MagicBricks
+42.0,1080.0,2.0,Apartment,Furnished,Naroda,Tier 3,Owner,False,MagicBricks
+80.0,1675.0,3.0,Apartment,Furnished,Naroda,Tier 3,Owner,False,MagicBricks
+60.0,1240.0,2.0,Apartment,Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+80.0,1675.0,2.0,Apartment,Semi-Furnished,Gota,Tier 2,Owner,False,MagicBricks
+22.0,801.0,1.0,Apartment,Semi-Furnished,Changodar,Tier 2,Owner,False,MagicBricks
+32.0,945.0,3.0,Apartment,Semi-Furnished,Khanpur,Tier 3,Owner,False,MagicBricks
+80.0,1795.0,3.0,Apartment,Furnished,Bopal,Tier 1,Owner,True,MagicBricks
+101.0,1300.0,3.0,Apartment,Furnished,Vaishno Devi,Tier 2,Owner,True,MagicBricks
+305.0,2583.0,4.0,Independent House,Unfurnished,Vastral,Tier 2,Owner,False,99acres
+85.0,575.0,3.0,Apartment,Semi-Furnished,Jagatpur,Tier 2,Owner,False,MagicBricks
+110.0,1377.0,2.0,Apartment,Furnished,Shyamal,Tier 2,Owner,False,MagicBricks
+55.0,1260.0,2.0,Apartment,Furnished,Vastral,Tier 2,Owner,False,MagicBricks
+51.0,800.0,2.0,Apartment,Furnished,Ranip,Tier 2,Owner,False,MagicBricks
+125.0,1335.0,3.0,Apartment,Furnished,Navrangpura,Tier 1,Owner,False,MagicBricks
+40.0,1025.0,2.0,Apartment,Semi-Furnished,Ghuma,Tier 2,Owner,False,MagicBricks
+21.0,400.0,1.0,Apartment,Furnished,Narol,Tier 2,Owner,False,MagicBricks
+325.0,1620.0,4.0,Apartment,Furnished,Jagatpur,Tier 2,Owner,False,MagicBricks
+285.0,300.0,4.0,Apartment,Furnished,Sarkhej,Tier 3,Owner,False,MagicBricks
+85.0,1709.0,3.0,Apartment,Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+100.0,900.0,1.0,Apartment,Semi-Furnished,Amraiwadi,Tier 2,Owner,False,MagicBricks
+100.0,1206.0,3.0,Apartment,Furnished,Ambli,Tier 3,Owner,False,MagicBricks
+109.0,2340.0,4.0,Apartment,Semi-Furnished,Naroda,Tier 3,Owner,False,MagicBricks
+70.0,810.0,3.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+46.0,806.0,2.0,Apartment,Semi-Furnished,Nikol,Tier 2,Owner,False,MagicBricks
+67.0,913.0,2.0,Apartment,Furnished,Gota,Tier 2,Owner,False,MagicBricks
+82.0,1755.0,3.0,Apartment,Furnished,Tragad,Tier 2,Owner,False,MagicBricks
+151.0,1800.0,3.0,Apartment,Furnished,Satellite,Tier 1,Owner,False,MagicBricks
+17.5,756.0,1.0,Apartment,Semi-Furnished,Vatva,Tier 2,Owner,False,MagicBricks
+192.0,2520.0,4.0,Apartment,Furnished,Chharodi,Tier 3,Owner,False,MagicBricks
+181.0,1532.0,3.0,Apartment,Furnished,Vejalpur,Tier 2,Owner,True,MagicBricks
+92.0,1080.0,3.0,Apartment,Semi-Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+74.0,1585.0,3.0,Apartment,Semi-Furnished,Vejalpur,Tier 2,Owner,False,MagicBricks
+100.0,1530.0,3.0,Apartment,Semi-Furnished,Vaishno Devi,Tier 2,Owner,False,MagicBricks
+108.0,1377.0,2.0,Apartment,Semi-Furnished,Ashok Vatika,Tier 3,Owner,False,MagicBricks
+21.0,612.0,1.0,Apartment,Semi-Furnished,Changodar,Tier 2,Owner,False,MagicBricks
+160.0,1890.0,3.0,Apartment,Furnished,Ambawadi,Tier 1,Owner,False,MagicBricks
+60.0,840.0,2.0,Apartment,Semi-Furnished,Chandkheda,Tier 2,Owner,False,MagicBricks
+43.5,890.0,2.0,Apartment,Semi-Furnished,Vasna,Tier 2,Owner,False,MagicBricks
+32.0,1305.0,2.0,Apartment,Furnished,Amraiwadi,Tier 2,Owner,False,MagicBricks
+44.5,923.0,2.0,Apartment,Semi-Furnished,Shela,Tier 2,Owner,False,MagicBricks
+45.0,699.0,3.0,Apartment,Furnished,Gota,Tier 2,Owner,False,MagicBricks
+130.0,1350.0,5.0,Apartment,Semi-Furnished,Sabarmati,Tier 2,Owner,False,MagicBricks
+265.0,3000.0,3.0,Apartment,Furnished,Satellite,Tier 1,Owner,False,MagicBricks
+70.0,685.0,2.0,Apartment,Furnished,Juhapura,Tier 2,Owner,False,MagicBricks
+85.0,819.0,3.0,Apartment,Furnished,Gota,Tier 2,Owner,False,MagicBricks
+359.0,3168.0,4.0,Apartment,Furnished,Science City,Tier 2,Owner,True,MagicBricks
+65.0,786.0,2.0,Apartment,Furnished,Vasna,Tier 2,Owner,False,MagicBricks
+26.0,756.0,2.0,Apartment,Furnished,Narol,Tier 2,Owner,False,MagicBricks
+120.0,2250.0,4.0,Apartment,Semi-Furnished,Sarkhej,Tier 3,Owner,False,MagicBricks
+300.0,2310.0,4.0,Apartment,Furnished,Bodakdev,Tier 1,Owner,False,MagicBricks
+265.0,2340.0,5.0,Apartment,Furnished,Ghuma,Tier 2,Owner,False,MagicBricks
+82.0,1518.0,3.0,Apartment,Semi-Furnished,Nikol,Tier 2,Owner,False,MagicBricks
+102.0,2450.0,3.0,Apartment,Furnished,Shela,Tier 2,Dealer,True,MagicBricks
+47.0,409.0,2.0,Apartment,Furnished,Naroda,Tier 3,Owner,False,MagicBricks
+42.3,1244.0,2.0,Apartment,Furnished,Ghuma,Tier 2,Builder,True,MagicBricks
+35.0,900.0,2.0,Apartment,Furnished,Bapunagar,Tier 2,Owner,False,MagicBricks
+21.0,1020.0,2.0,Apartment,Furnished,Narol,Tier 2,Owner,False,MagicBricks
+88.0,1795.0,3.0,Apartment,Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+55.0,1260.0,2.0,Apartment,Furnished,Naroda,Tier 3,Owner,False,MagicBricks
+85.0,1490.0,3.0,Apartment,Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+76.0,940.0,3.0,Apartment,Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+25.0,750.0,2.0,Apartment,Furnished,Narol,Tier 2,Owner,False,MagicBricks
+75.0,1510.0,3.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+150.0,1700.0,3.0,Apartment,Furnished,Bodakdev,Tier 1,Owner,False,MagicBricks
+60.0,650.0,2.0,Apartment,Furnished,Tragad,Tier 2,Owner,True,99acres
+155.0,3150.0,4.0,Apartment,Furnished,Jagatpur,Tier 2,Owner,False,MagicBricks
+47.0,1000.0,2.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+55.0,700.0,2.0,Apartment,Furnished,Vejalpur,Tier 2,Owner,False,MagicBricks
+73.0,1510.0,3.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+67.0,1370.0,2.0,Apartment,Furnished,Vaishno Devi,Tier 2,Owner,False,MagicBricks
+60.0,693.0,2.0,Apartment,Furnished,Shela,Tier 2,Owner,True,MagicBricks
+195.0,1680.0,3.0,Apartment,Furnished,Vastrapur,Tier 1,Owner,False,MagicBricks
+35.0,1251.0,2.0,Apartment,Furnished,Nikol,Tier 2,Owner,False,MagicBricks
+84.0,1760.0,3.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+365.0,3150.0,4.0,Apartment,Furnished,Bhat,Tier 3,Owner,False,MagicBricks
+66.0,960.0,3.0,Apartment,Furnished,Vastral,Tier 2,Owner,False,MagicBricks
+81.6,1125.0,3.0,Apartment,Furnished,Nikol,Tier 2,Owner,True,MagicBricks
+49.0,735.0,2.0,Apartment,Semi-Furnished,Sarkhej,Tier 3,Owner,False,MagicBricks
+110.0,1285.0,3.0,Apartment,Furnished,Bhat,Tier 3,Owner,False,MagicBricks
+99.0,1370.0,2.0,Apartment,Furnished,Vaishno Devi,Tier 2,Owner,False,MagicBricks
+71.0,1486.0,3.0,Apartment,Furnished,Nikol,Tier 2,Owner,False,MagicBricks
+265.0,3800.0,4.0,Apartment,Furnished,Bopal,Tier 1,Dealer,False,MagicBricks
+45.0,1800.0,3.0,Apartment,Furnished,Barejadi,Tier 3,Owner,False,MagicBricks
+60.0,1665.0,3.0,Apartment,Semi-Furnished,Naroda,Tier 3,Owner,False,MagicBricks
+82.0,1760.0,3.0,Apartment,Furnished,Shela,Tier 2,Owner,True,MagicBricks
+66.0,1557.0,3.0,Apartment,Furnished,Vaishno Devi,Tier 2,Owner,False,MagicBricks
+80.0,1215.0,3.0,Apartment,Furnished,Kankaria,Tier 2,Owner,False,MagicBricks
+78.0,1327.0,2.0,Apartment,Furnished,Makarba,Tier 2,Owner,False,MagicBricks
+100.0,960.0,3.0,Apartment,Furnished,Gota,Tier 2,Owner,False,MagicBricks
+156.0,1525.0,3.0,Apartment,Furnished,Jagatpur,Tier 2,Owner,True,MagicBricks
+98.0,923.0,3.0,Apartment,Unfurnished,Jagatpur,Tier 2,Owner,False,99acres
+87.0,1017.0,3.0,Apartment,Furnished,Bopal,Tier 1,Owner,True,MagicBricks
+91.0,1404.0,2.0,Apartment,Furnished,Memnagar,Tier 2,Owner,False,MagicBricks
+140.0,935.0,3.0,Apartment,Semi-Furnished,Thaltej,Tier 1,Owner,False,MagicBricks
+115.0,1198.0,3.0,Apartment,Furnished,Chharodi,Tier 3,Owner,True,MagicBricks
+128.0,1965.0,3.0,Apartment,Furnished,Paldi,Tier 1,Owner,False,MagicBricks
+55.0,950.0,2.0,Apartment,Semi-Furnished,Vasna,Tier 2,Owner,False,MagicBricks
+230.0,2865.0,4.0,Apartment,Furnished,Navrangpura,Tier 1,Owner,False,MagicBricks
+120.0,1620.0,3.0,Apartment,Semi-Furnished,Maninagar,Tier 2,Owner,False,MagicBricks
+12.0,639.0,1.0,Apartment,Furnished,Narol,Tier 2,Owner,False,MagicBricks
+84.0,1760.0,3.0,Apartment,Furnished,Shela,Tier 2,Owner,True,MagicBricks
+85.0,1485.0,3.0,Apartment,Furnished,Ghuma,Tier 2,Owner,False,MagicBricks
+44.0,1250.0,2.0,Apartment,Furnished,Naroda,Tier 3,Owner,False,MagicBricks
+80.0,1375.0,3.0,Apartment,Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+36.0,500.0,1.0,Apartment,Furnished,Meghani Nagar,Tier 3,Owner,False,MagicBricks
+100.0,1210.0,3.0,Apartment,Semi-Furnished,New CG Road,Tier 1,Owner,False,MagicBricks
+82.0,1518.0,3.0,Apartment,Semi-Furnished,Nikol,Tier 2,Owner,False,MagicBricks
+90.0,895.0,3.0,Apartment,Furnished,Vasna,Tier 2,Owner,False,MagicBricks
+60.0,675.0,2.0,Apartment,Furnished,Vasna,Tier 2,Owner,False,MagicBricks
+297.0,3227.0,5.0,Apartment,Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+90.0,1040.0,3.0,Apartment,Furnished,Chandkheda,Tier 2,Owner,False,MagicBricks
+145.0,2718.0,4.0,Apartment,Furnished,Jagatpur,Tier 2,Owner,False,MagicBricks
+85.0,1165.0,3.0,Apartment,Semi-Furnished,Motera,Tier 2,Owner,False,MagicBricks
+85.0,1100.0,3.0,Apartment,Furnished,Satellite,Tier 1,Owner,False,MagicBricks
+65.0,728.0,2.0,Apartment,Furnished,Gota,Tier 2,Owner,False,MagicBricks
+68.0,750.0,2.0,Apartment,Furnished,Prahlad Nagar,Tier 1,Owner,False,MagicBricks
+68.0,2160.0,4.0,Apartment,Furnished,Bodakdev,Tier 1,Owner,True,99acres
+100.0,1211.0,3.0,Apartment,Semi-Furnished,Chandkheda,Tier 2,Owner,False,MagicBricks
+99.0,1440.0,3.0,Apartment,Furnished,Ambli,Tier 3,Owner,False,MagicBricks
+90.0,900.0,2.0,Apartment,Furnished,Isanpur,Tier 2,Owner,False,MagicBricks
+47.0,527.0,1.0,Apartment,Furnished,Sarkhej,Tier 3,Owner,False,MagicBricks
+45.7,1395.0,3.0,Apartment,Furnished,Vinzol,Tier 3,Owner,False,MagicBricks
+35.0,1100.0,2.0,Apartment,Semi-Furnished,Naroda,Tier 3,Owner,False,MagicBricks
+101.0,1300.0,3.0,Apartment,Furnished,Vaishno Devi,Tier 2,Owner,True,MagicBricks
+275.0,5350.0,4.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+20.0,200.0,2.0,Apartment,Furnished,Meghani Nagar,Tier 3,Owner,False,MagicBricks
+40.0,800.0,1.0,Apartment,Furnished,Odhav,Tier 2,Owner,False,MagicBricks
+105.0,4797.0,3.0,Apartment,Furnished,Bavla,Tier 2,Owner,False,MagicBricks
+65.0,1008.0,3.0,Apartment,Semi-Furnished,Vaishno Devi,Tier 2,Owner,False,MagicBricks
+72.0,1143.0,3.0,Apartment,Furnished,Vasna,Tier 2,Owner,False,MagicBricks
+120.0,1950.0,3.0,Apartment,Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+120.0,1333.0,3.0,Apartment,Semi-Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+27.0,774.0,1.0,Apartment,Furnished,Amraiwadi,Tier 2,Owner,False,MagicBricks
+165.0,2295.0,3.0,Apartment,Furnished,Koteshwar,Tier 3,Owner,False,MagicBricks
+219.0,3104.0,3.0,Apartment,Furnished,Gota,Tier 2,Owner,True,MagicBricks
+305.0,3591.0,4.0,Apartment,Unfurnished,Gota,Tier 2,Unknown,False,99acres
+50.0,1044.0,3.0,Apartment,Furnished,Bodakdev,Tier 1,Owner,False,MagicBricks
+80.0,950.0,2.0,Apartment,Furnished,Satellite,Tier 1,Owner,False,MagicBricks
+166.0,2095.0,4.0,Apartment,Furnished,Makarba,Tier 2,Owner,True,MagicBricks
+180.0,1300.0,3.0,Apartment,Furnished,Thaltej,Tier 1,Owner,False,MagicBricks
+45.0,800.0,2.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+260.0,2200.0,4.0,Apartment,Furnished,Shilaj,Tier 2,Owner,True,MagicBricks
+90.0,1296.0,2.0,Apartment,Semi-Furnished,Thaltej,Tier 1,Owner,False,MagicBricks
+31.0,775.0,1.0,Apartment,Furnished,Nikol,Tier 2,Owner,False,MagicBricks
+180.0,1200.0,3.0,Apartment,Furnished,Paldi,Tier 1,Owner,False,MagicBricks
+75.0,1600.0,3.0,Apartment,Semi-Furnished,Naroda,Tier 3,Owner,False,MagicBricks
+45.4,1435.0,3.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+52.0,920.0,2.0,Apartment,Furnished,Nikol,Tier 2,Owner,False,MagicBricks
+140.0,2000.0,3.0,Apartment,Furnished,Paldi,Tier 1,Owner,False,MagicBricks
+321.0,2455.0,4.0,Apartment,Furnished,Shilaj,Tier 2,Owner,True,MagicBricks
+52.0,661.0,2.0,Apartment,Furnished,Jagatpur,Tier 2,Owner,False,MagicBricks
+78.0,1755.0,3.0,Apartment,Furnished,Bopal,Tier 1,Builder,True,MagicBricks
+55.0,680.0,2.0,Apartment,Furnished,Jagatpur,Tier 2,Owner,False,MagicBricks
+104.0,968.0,3.0,Apartment,Furnished,Shilaj,Tier 2,Builder,True,MagicBricks
+105.0,963.0,3.0,Apartment,Furnished,Ambli,Tier 3,Owner,False,MagicBricks
+249.00000000000003,1420.0,3.0,Apartment,Furnished,Satellite,Tier 1,Owner,False,MagicBricks
+212.0,2499.0,4.0,Apartment,Furnished,Jagatpur,Tier 2,Owner,True,MagicBricks
+66.0,1557.0,3.0,Apartment,Furnished,Vaishno Devi,Tier 2,Owner,False,MagicBricks
+60.0,1530.0,3.0,Apartment,Furnished,Shilaj,Tier 2,Owner,False,MagicBricks
+72.5,1485.0,3.0,Apartment,Semi-Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+56.0,982.0,2.0,Apartment,Furnished,Nikol,Tier 2,Owner,False,MagicBricks
+361.0,2320.0,4.0,Apartment,Furnished,Bopal,Tier 1,Owner,True,MagicBricks
+32.0,1170.0,3.0,Apartment,Unfurnished,Vatva,Tier 2,Unknown,False,99acres
+82.0,1530.0,3.0,Apartment,Furnished,Sarkhej,Tier 3,Owner,False,MagicBricks
+127.0,211.0,3.0,Apartment,Unfurnished,Paldi,Tier 1,Owner,False,99acres
+45.0,1260.0,2.0,Apartment,Furnished,Naroda,Tier 3,Owner,False,MagicBricks
+45.0,1260.0,3.0,Apartment,Semi-Furnished,Vatva,Tier 2,Owner,False,MagicBricks
+95.0,966.0,3.0,Apartment,Furnished,Shilaj,Tier 2,Owner,True,MagicBricks
+65.0,700.0,2.0,Apartment,Semi-Furnished,Ghodasar,Tier 2,Owner,False,MagicBricks
+85.0,1350.0,2.0,Apartment,Furnished,Gota,Tier 2,Owner,False,MagicBricks
+52.5,1280.0,2.0,Apartment,Furnished,Bopal,Tier 1,Owner,True,MagicBricks
+125.0,1800.0,3.0,Apartment,Semi-Furnished,Usmanpura,Tier 3,Owner,False,MagicBricks
+120.0,1651.0,3.0,Apartment,Furnished,Shilaj,Tier 2,Owner,False,MagicBricks
+175.0,1606.0,3.0,Apartment,Furnished,Science City,Tier 2,Owner,True,MagicBricks
+67.0,757.0,3.0,Apartment,Semi-Furnished,Naroda,Tier 3,Owner,False,MagicBricks
+62.0,968.0,2.0,Apartment,Semi-Furnished,Shela,Tier 2,Owner,False,MagicBricks
+109.0,870.0,3.0,Apartment,Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+135.0,2850.0,4.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+293.0,3843.0,4.0,Apartment,Furnished,Science City,Tier 2,Owner,True,MagicBricks
+175.0,308.0,4.0,Apartment,Semi-Furnished,Paldi,Tier 1,Owner,False,MagicBricks
+63.0,760.0,2.0,Apartment,Furnished,Gota,Tier 2,Owner,False,MagicBricks
+20.0,743.0,1.0,Apartment,Semi-Furnished,Vatva,Tier 2,Owner,False,MagicBricks
+300.0,3303.0,4.0,Apartment,Furnished,Ambawadi,Tier 1,Owner,False,MagicBricks
+115.0,1198.0,3.0,Apartment,Furnished,Chharodi,Tier 3,Owner,True,MagicBricks
+63.0,1048.0,2.0,Apartment,Semi-Furnished,Shilaj,Tier 2,Owner,False,MagicBricks
+400.0,3175.0,4.0,Apartment,Furnished,Thaltej,Tier 1,Owner,False,MagicBricks
+210.0,2838.0,3.0,Apartment,Furnished,Ambli,Tier 3,Owner,False,MagicBricks
+90.0,1750.0,3.0,Apartment,Furnished,Ambli,Tier 3,Owner,False,MagicBricks
+83.5,1700.0,3.0,Apartment,Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+70.0,1510.0,3.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+31.0,520.0,2.0,Apartment,Semi-Furnished,Kankaria,Tier 2,Owner,False,MagicBricks
+31.0,774.0,1.0,Apartment,Furnished,Chandkheda,Tier 2,Owner,False,MagicBricks
+36.0,1215.0,2.0,Apartment,Furnished,Vinzol,Tier 3,Owner,False,MagicBricks
+65.0,1035.0,2.0,Apartment,Furnished,Gota,Tier 2,Owner,False,MagicBricks
+43.0,606.0,3.0,Apartment,Semi-Furnished,Raipur,Tier 3,Owner,False,MagicBricks
+60.0,739.0,2.0,Apartment,Semi-Furnished,Shela,Tier 2,Owner,False,MagicBricks
+105.0,2298.0,3.0,Apartment,Furnished,Sanand,Tier 2,Owner,True,MagicBricks
+100.0,1190.0,3.0,Apartment,Semi-Furnished,Ghuma,Tier 2,Owner,False,MagicBricks
+155.0,2750.0,4.0,Apartment,Furnished,Sola,Tier 2,Owner,False,MagicBricks
+57.5,1260.0,2.0,Apartment,Furnished,Gota,Tier 2,Owner,False,MagicBricks
+195.0,2070.0,4.0,Apartment,Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+150.0,211.0,4.0,Apartment,Furnished,Sanand,Tier 2,Owner,False,MagicBricks
+75.0,1385.0,3.0,Apartment,Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+93.0,850.0,2.0,Apartment,Furnished,Satellite,Tier 1,Owner,False,MagicBricks
+30.0,693.0,1.0,Apartment,Unfurnished,Vasna,Tier 2,Owner,False,MagicBricks
+57.5,1260.0,2.0,Apartment,Furnished,Gota,Tier 2,Owner,False,MagicBricks
+57.5,1085.0,2.0,Apartment,Semi-Furnished,Shela,Tier 2,Owner,False,MagicBricks
+45.0,1420.0,2.0,Apartment,Semi-Furnished,Ghuma,Tier 2,Owner,False,MagicBricks
+190.0,1810.0,4.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+27.0,423.0,1.0,Apartment,Furnished,Naroda,Tier 3,Owner,False,MagicBricks
+77.0,1750.0,3.0,Apartment,Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+62.2,787.0,2.0,Apartment,Furnished,Jagatpur,Tier 2,Owner,False,MagicBricks
+150.0,1905.0,3.0,Apartment,Furnished,Bopal,Tier 1,Dealer,False,MagicBricks
+80.3,1100.0,3.0,Apartment,Furnished,Motera,Tier 2,Owner,True,MagicBricks
+38.5,1215.0,2.0,Apartment,Furnished,Amraiwadi,Tier 2,Owner,False,MagicBricks
+98.0,923.0,3.0,Apartment,Unfurnished,Jagatpur,Tier 2,Unknown,False,99acres
+58.0,1126.0,2.0,Apartment,Semi-Furnished,Vaishno Devi,Tier 2,Owner,False,MagicBricks
+95.0,1034.0,3.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+88.0,1890.0,3.0,Apartment,Furnished,Chandkheda,Tier 2,Owner,False,MagicBricks
+35.5,500.0,1.0,Independent House,Unfurnished,Ghodasar,Tier 2,Unknown,False,99acres
+95.0,980.0,3.0,Apartment,Furnished,Shilaj,Tier 2,Owner,False,MagicBricks
+60.0,650.0,1.0,Apartment,Furnished,Tragad,Tier 2,Owner,True,99acres
+270.0,2500.0,3.0,Apartment,Furnished,Thaltej,Tier 1,Owner,False,MagicBricks
+140.0,1665.0,3.0,Apartment,Furnished,Satellite,Tier 1,Owner,False,MagicBricks
+70.0,1180.0,2.0,Apartment,Furnished,Gota,Tier 2,Owner,False,MagicBricks
+125.0,1890.0,3.0,Apartment,Unfurnished,Gota,Tier 2,Unknown,False,99acres
+82.0,982.0,2.0,Apartment,Furnished,Memnagar,Tier 2,Owner,False,MagicBricks
+100.0,1800.0,3.0,Apartment,Semi-Furnished,Bodakdev,Tier 1,Owner,False,MagicBricks
+160.0,1330.0,3.0,Apartment,Furnished,Navrangpura,Tier 1,Owner,False,MagicBricks
+147.0,3890.0,4.0,Apartment,Semi-Furnished,Bopal,Tier 1,Owner,True,MagicBricks
+85.0,1560.0,3.0,Apartment,Semi-Furnished,Makarba,Tier 2,Owner,False,MagicBricks
+86.0,1417.0,3.0,Apartment,Semi-Furnished,Gota,Tier 2,Owner,False,MagicBricks
+150.0,1800.0,2.0,Apartment,Furnished,Gita Mandir,Tier 3,Owner,False,MagicBricks
+131.0,2070.0,4.0,Apartment,Furnished,Satellite,Tier 1,Owner,False,MagicBricks
+42.5,1134.0,2.0,Apartment,Furnished,Vaishno Devi,Tier 2,Owner,False,MagicBricks
+61.0,1118.0,2.0,Apartment,Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+94.0,1211.0,3.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+50.0,592.0,4.0,Apartment,Furnished,Odhav,Tier 2,Owner,False,MagicBricks
+85.0,1550.0,3.0,Apartment,Furnished,Shilaj,Tier 2,Owner,False,MagicBricks
+31.0,391.0,1.0,Apartment,Furnished,Shantipura,Tier 3,Owner,True,MagicBricks
+290.0,1827.0,4.0,Independent House,Unfurnished,Naroda,Tier 3,Unknown,False,99acres
+119.0,2050.0,3.0,Apartment,Furnished,Gota,Tier 2,Owner,True,MagicBricks
+33.0,670.0,1.0,Apartment,Furnished,Vejalpur,Tier 2,Owner,False,MagicBricks
+50.0,1144.0,2.0,Apartment,Furnished,Amraiwadi,Tier 2,Owner,False,MagicBricks
+89.0,869.0,2.0,Apartment,Furnished,Prahlad Nagar,Tier 1,Owner,False,MagicBricks
+56.0,724.0,2.0,Apartment,Semi-Furnished,Maninagar,Tier 2,Owner,False,MagicBricks
+108.0,1377.0,2.0,Apartment,Semi-Furnished,Ashok Vatika,Tier 3,Owner,False,MagicBricks
+290.0,1827.0,4.0,Independent House,Unfurnished,Naroda,Tier 3,Owner,False,99acres
+128.0,1965.0,3.0,Apartment,Furnished,Paldi,Tier 1,Owner,False,MagicBricks
+20.0,774.0,1.0,Apartment,Furnished,Narol,Tier 2,Owner,False,MagicBricks
+38.0,596.0,1.0,Apartment,Furnished,Jagatpur,Tier 2,Owner,False,MagicBricks
+20.0,700.0,1.0,Apartment,Semi-Furnished,Hathijan,Tier 3,Owner,False,MagicBricks
+131.0,1240.0,3.0,Apartment,Furnished,Chandkheda,Tier 2,Owner,False,MagicBricks
+190.0,2360.0,3.0,Apartment,Unfurnished,Ashram road,Tier 2,Unknown,False,99acres
+215.0,200.0,3.0,Apartment,Furnished,Vastrapur,Tier 1,Owner,False,MagicBricks
+335.0,2120.0,4.0,Apartment,Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+95.0,912.0,3.0,Apartment,Furnished,Ambli,Tier 3,Owner,False,MagicBricks
+102.0,1692.0,3.0,Apartment,Semi-Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+115.0,1246.0,3.0,Apartment,Furnished,Gurukul,Tier 2,Owner,False,MagicBricks
+81.0,953.0,2.0,Apartment,Furnished,Sarkhej,Tier 3,Owner,False,MagicBricks
+85.0,1057.0,3.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+425.0,3060.0,4.0,Apartment,Furnished,Hebatpur,Tier 3,Owner,False,MagicBricks
+65.0,790.0,2.0,Apartment,Furnished,Vasna,Tier 2,Owner,False,MagicBricks
+89.0,869.0,2.0,Apartment,Furnished,Prahlad Nagar,Tier 1,Owner,False,MagicBricks
+105.0,1163.0,3.0,Apartment,Furnished,Juhapura,Tier 2,Owner,True,MagicBricks
+125.0,1890.0,3.0,Apartment,Semi-Furnished,Chandkheda,Tier 2,Owner,False,MagicBricks
+60.0,1017.0,2.0,Apartment,Furnished,Maninagar,Tier 2,Unknown,False,99acres
+85.0,2043.0,3.0,Apartment,Furnished,Vastral,Tier 2,Owner,False,MagicBricks
+142.0,1660.0,4.0,Apartment,Furnished,Vaishno Devi,Tier 2,Owner,True,MagicBricks
+330.0,1895.0,4.0,Apartment,Furnished,Gurukul,Tier 2,Owner,False,MagicBricks
+105.0,2298.0,3.0,Apartment,Furnished,Sanand,Tier 2,Owner,True,MagicBricks
+49.5,381.0,2.0,Apartment,Furnished,Chandkheda,Tier 2,Owner,False,MagicBricks
+55.0,680.0,2.0,Apartment,Furnished,Jagatpur,Tier 2,Owner,False,MagicBricks
+107.0,2142.0,3.0,Apartment,Furnished,Science City,Tier 2,Owner,False,MagicBricks
+86.0,1071.0,3.0,Apartment,Furnished,Gota,Tier 2,Owner,False,MagicBricks
+85.0,1295.0,3.0,Apartment,Furnished,Shilaj,Tier 2,Owner,False,MagicBricks
+52.0,1170.0,2.0,Apartment,Semi-Furnished,Ghuma,Tier 2,Owner,False,MagicBricks
+96.0,1386.0,2.0,Apartment,Furnished,Nikol,Tier 2,Owner,False,MagicBricks
+180.0,1270.0,3.0,Apartment,Semi-Furnished,Vastrapur,Tier 1,Owner,False,MagicBricks
+390.0,2150.0,4.0,Apartment,Furnished,Satellite,Tier 1,Owner,False,MagicBricks
+125.0,1500.0,3.0,Apartment,Furnished,Bopal,Tier 1,Dealer,False,MagicBricks
+361.0,2320.0,4.0,Apartment,Furnished,Bopal,Tier 1,Owner,True,MagicBricks
+28.0,1134.0,2.0,Apartment,Semi-Furnished,Narol,Tier 2,Owner,False,MagicBricks
+150.0,900.0,3.0,Apartment,Semi-Furnished,Naranpura,Tier 2,Owner,False,MagicBricks
+100.0,1500.0,3.0,Apartment,Furnished,Vastrapur,Tier 1,Owner,False,MagicBricks
+55.0,819.0,2.0,Apartment,Semi-Furnished,Motera,Tier 2,Owner,False,MagicBricks
+52.5,784.0,2.0,Apartment,Semi-Furnished,Gota,Tier 2,Owner,False,MagicBricks
+150.0,2310.0,3.0,Apartment,Semi-Furnished,Shilaj,Tier 2,Owner,False,MagicBricks
+60.0,919.0,2.0,Apartment,Furnished,Vastral,Tier 2,Owner,False,MagicBricks
+20.0,810.0,1.0,Apartment,Furnished,Ghodasar,Tier 2,Owner,False,MagicBricks
+225.0,945.0,4.0,Apartment,Furnished,Navrangpura,Tier 1,Owner,False,MagicBricks
+110.0,966.0,3.0,Apartment,Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+72.0,750.0,3.0,Apartment,Semi-Furnished,Vasna,Tier 2,Owner,False,MagicBricks
+270.0,1690.0,3.0,Apartment,Furnished,Thaltej,Tier 1,Owner,False,MagicBricks
+60.0,868.0,3.0,Apartment,Furnished,Naroda,Tier 3,Owner,False,MagicBricks
+135.0,2376.0,3.0,Apartment,Unfurnished,Vaishno Devi,Tier 2,Unknown,False,99acres
+25.0,730.0,2.0,Apartment,Semi-Furnished,Narol,Tier 2,Owner,False,MagicBricks
+75.0,860.0,3.0,Apartment,Semi-Furnished,Jagatpur,Tier 2,Dealer,False,MagicBricks
+145.0,724.0,3.0,Apartment,Semi-Furnished,Naroda,Tier 3,Owner,False,MagicBricks
+58.0,945.0,2.0,Apartment,Semi-Furnished,Chandkheda,Tier 2,Owner,False,MagicBricks
+55.0,1150.0,2.0,Apartment,Unfurnished,Shela,Tier 2,Unknown,True,99acres
+45.0,945.0,2.0,Apartment,Semi-Furnished,Ghodasar,Tier 2,Owner,False,MagicBricks
+288.0,3850.0,4.0,Apartment,Furnished,Ambli,Tier 3,Owner,False,MagicBricks
+16.5,630.0,1.0,Apartment,Semi-Furnished,Narol,Tier 2,Owner,False,MagicBricks
+48.0,1000.0,2.0,Apartment,Furnished,Ghodasar,Tier 2,Owner,False,MagicBricks
+95.0,1197.0,3.0,Apartment,Semi-Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+250.0,2507.0,3.0,Apartment,Furnished,Jodhpur,Tier 2,Owner,False,MagicBricks
+85.0,455.0,1.0,Apartment,Furnished,Vastral,Tier 2,Owner,False,MagicBricks
+95.0,1291.0,3.0,Apartment,Furnished,Tragad,Tier 2,Owner,False,MagicBricks
+125.0,970.0,3.0,Apartment,Furnished,Maninagar,Tier 2,Owner,False,MagicBricks
+135.0,2000.0,3.0,Apartment,Furnished,Satellite,Tier 1,Owner,False,MagicBricks
+260.0,2200.0,4.0,Apartment,Furnished,Shilaj,Tier 2,Owner,True,MagicBricks
+203.0,3445.0,4.0,Apartment,Furnished,Thaltej,Tier 1,Owner,False,MagicBricks
+90.0,1211.0,3.0,Apartment,Semi-Furnished,Makarba,Tier 2,Owner,False,MagicBricks
+29.0,990.0,2.0,Apartment,Furnished,Nandej,Tier 3,Owner,False,MagicBricks
+25.0,675.0,1.0,Apartment,Semi-Furnished,Chandkheda,Tier 2,Owner,False,MagicBricks
+90.0,923.0,3.0,Apartment,Furnished,Jagatpur,Tier 2,Owner,True,MagicBricks
+80.0,1548.0,3.0,Apartment,Semi-Furnished,Chandkheda,Tier 2,Owner,False,MagicBricks
+400.0,1200.0,2.0,Apartment,Furnished,Gita Mandir,Tier 3,Owner,False,MagicBricks
+15.0,720.0,2.0,Apartment,Semi-Furnished,Changodar,Tier 2,Owner,False,MagicBricks
+150.0,2310.0,3.0,Apartment,Semi-Furnished,Shilaj,Tier 2,Owner,False,MagicBricks
+128.0,2520.0,3.0,Apartment,Furnished,Chharodi,Tier 3,Dealer,True,MagicBricks
+36.5,990.0,2.0,Apartment,Furnished,Naroda,Tier 3,Owner,False,MagicBricks
+35.0,700.0,1.0,Apartment,Furnished,Narol,Tier 2,Owner,False,MagicBricks
+68.0,1300.0,3.0,Apartment,Semi-Furnished,Chandkheda,Tier 2,Owner,False,MagicBricks
+98.0,923.0,3.0,Apartment,Unfurnished,Jagatpur,Tier 2,Unknown,False,99acres
+110.0,1890.0,4.0,Apartment,Furnished,Naranpura,Tier 2,Owner,False,MagicBricks
+240.0,2300.0,4.0,Apartment,Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+45.0,1000.0,2.0,Apartment,Semi-Furnished,Jagatpur,Tier 2,Owner,False,MagicBricks
+56.0,780.0,2.0,Apartment,Furnished,Chandkheda,Tier 2,Owner,False,MagicBricks
+17.6,675.0,1.0,Apartment,Semi-Furnished,Vatva,Tier 2,Owner,False,MagicBricks
+45.0,750.0,2.0,Apartment,Furnished,Ghodasar,Tier 2,Owner,False,MagicBricks
+60.0,1665.0,3.0,Apartment,Semi-Furnished,Naroda,Tier 3,Owner,False,MagicBricks
+90.0,1000.0,3.0,Apartment,Semi-Furnished,Shela,Tier 2,Owner,False,MagicBricks
+162.0,1411.0,3.0,Apartment,Furnished,Sarkhej,Tier 3,Owner,True,MagicBricks
+98.0,1577.0,3.0,Apartment,Semi-Furnished,Chandkheda,Tier 2,Owner,False,MagicBricks
+16.8,675.0,1.0,Apartment,Semi-Furnished,Hathijan,Tier 3,Owner,False,MagicBricks
+130.0,882.0,5.0,Apartment,Semi-Furnished,Jashoda Nagar,Tier 3,Owner,False,MagicBricks
+32.0,765.0,1.0,Apartment,Furnished,Ranip,Tier 2,Owner,False,MagicBricks
+81.0,1203.0,2.0,Apartment,Furnished,Vaishno Devi,Tier 2,Owner,False,MagicBricks
+85.0,2500.0,3.0,Apartment,Furnished,Paldi,Tier 1,Owner,False,MagicBricks
+71.0,700.0,2.0,Apartment,Furnished,Kali,Tier 3,Owner,False,MagicBricks
+35.5,1208.0,2.0,Apartment,Furnished,Vastral,Tier 2,Owner,False,MagicBricks
+67.0,1125.0,2.0,Apartment,Furnished,Bhat,Tier 3,Owner,False,MagicBricks
+21.0,650.0,1.0,Apartment,Furnished,Saijpur Bogha,Tier 3,Owner,False,MagicBricks
+78.0,776.0,2.0,Apartment,Furnished,Prahlad Nagar,Tier 1,Owner,False,MagicBricks
+26.0,516.0,1.0,Apartment,Furnished,Maninagar,Tier 2,Owner,False,MagicBricks
+65.0,1200.0,3.0,Apartment,Furnished,Sabarmati,Tier 2,Owner,False,MagicBricks
+267.0,3845.0,4.0,Apartment,Furnished,Bopal,Tier 1,Unknown,False,MagicBricks
+60.0,810.0,2.0,Apartment,Furnished,Gota,Tier 2,Owner,False,MagicBricks
+98.0,782.0,3.0,Apartment,Unfurnished,Shilaj,Tier 2,Unknown,False,99acres
+21.5,500.0,1.0,Apartment,Semi-Furnished,Vatva,Tier 2,Owner,False,MagicBricks
+102.0,945.0,3.0,Apartment,Furnished,Science City,Tier 2,Owner,False,MagicBricks
+51.0,1062.0,2.0,Apartment,Semi-Furnished,Chandkheda,Tier 2,Owner,False,MagicBricks
+53.0,1100.0,2.0,Apartment,Furnished,Sarkhej,Tier 3,Owner,False,MagicBricks
+39.6,1200.0,2.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+300.0,3303.0,4.0,Apartment,Furnished,Ambawadi,Tier 1,Owner,False,MagicBricks
+28.0,900.0,2.0,Apartment,Furnished,Nikol,Tier 2,Owner,False,MagicBricks
+225.0,1650.0,4.0,Apartment,Semi-Furnished,Isanpur,Tier 2,Owner,False,MagicBricks
+300.0,3538.0,4.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+70.0,800.0,3.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+70.0,1500.0,4.0,Apartment,Semi-Furnished,Ranip,Tier 2,Owner,False,MagicBricks
+62.0,1665.0,3.0,Apartment,Semi-Furnished,Sanand,Tier 2,Owner,False,MagicBricks
+140.0,1100.0,3.0,Apartment,Furnished,Ramdev Nagar,Tier 3,Owner,False,MagicBricks
+135.0,2475.0,3.0,Apartment,Furnished,Science City,Tier 2,Owner,False,MagicBricks
+60.0,1210.0,2.0,Apartment,Furnished,Jagatpur,Tier 2,Owner,False,MagicBricks
+44.5,1170.0,2.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+39.6,1200.0,2.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+180.0,1350.0,3.0,Apartment,Furnished,Satellite,Tier 1,Owner,False,MagicBricks
+85.0,1435.0,3.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+60.0,1071.0,2.0,Apartment,Furnished,Chandkheda,Tier 2,Owner,False,MagicBricks
+45.4,1435.0,3.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+27.0,756.0,2.0,Apartment,Semi-Furnished,Narol,Tier 2,Owner,False,MagicBricks
+165.0,1910.0,3.0,Apartment,Semi-Furnished,Satellite,Tier 1,Dealer,False,MagicBricks
+75.7,856.0,3.0,Apartment,Furnished,Shela,Tier 2,Owner,True,MagicBricks
+45.9,1435.0,3.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+101.0,900.0,3.0,Apartment,Furnished,Shilaj,Tier 2,Owner,False,MagicBricks
+21.0,612.0,1.0,Apartment,Semi-Furnished,Changodar,Tier 2,Owner,False,MagicBricks
+135.0,1300.0,3.0,Apartment,Furnished,Gota,Tier 2,Owner,True,MagicBricks
+32.5,480.0,1.0,Apartment,Semi-Furnished,Vasna,Tier 2,Owner,False,MagicBricks
+57.0,750.0,2.0,Apartment,Semi-Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+220.00000000000003,2125.0,4.0,Apartment,Furnished,Sarkhej,Tier 3,Owner,True,MagicBricks
+62.5,741.0,2.0,Apartment,Unfurnished,Jagatpur,Tier 2,Unknown,True,99acres
+70.0,1584.0,3.0,Apartment,Furnished,Vastral,Tier 2,Owner,False,MagicBricks
+39.6,1200.0,2.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+50.0,970.0,2.0,Apartment,Semi-Furnished,Sarkhej,Tier 3,Owner,False,MagicBricks
+56.0,724.0,2.0,Apartment,Semi-Furnished,Maninagar,Tier 2,Owner,False,MagicBricks
+130.0,1163.0,3.0,Apartment,Furnished,Gota,Tier 2,Owner,False,MagicBricks
+28.0,730.0,1.0,Apartment,Furnished,Isanpur,Tier 2,Owner,False,MagicBricks
+50.0,972.0,2.0,Apartment,Semi-Furnished,Gota,Tier 2,Owner,False,MagicBricks
+159.0,2174.0,4.0,Apartment,Furnished,Vaishno Devi,Tier 2,Dealer,False,MagicBricks
+55.0,1242.0,2.0,Apartment,Furnished,Vejalpur,Tier 2,Owner,False,MagicBricks
+59.51,1458.0,2.0,Apartment,Unfurnished,Vastral,Tier 2,Unknown,True,99acres
+275.0,5350.0,4.0,Apartment,Unfurnished,Shela,Tier 2,Owner,False,99acres
+67.0,945.0,2.0,Apartment,Furnished,Gota,Tier 2,Owner,False,MagicBricks
+49.0,920.0,2.0,Apartment,Furnished,Ranip,Tier 2,Owner,False,MagicBricks
+75.0,964.0,3.0,Apartment,Furnished,Sanand,Tier 2,Owner,True,MagicBricks
+20.0,900.0,2.0,Apartment,Semi-Furnished,Naroda,Tier 3,Owner,False,MagicBricks
+127.0,211.0,1.0,Apartment,Furnished,Paldi,Tier 1,Owner,True,99acres
+57.0,980.0,2.0,Apartment,Furnished,Amraiwadi,Tier 2,Owner,False,MagicBricks
+253.0,1745.0,4.0,Apartment,Furnished,Thaltej,Tier 1,Owner,True,MagicBricks
+85.0,890.0,3.0,Apartment,Semi-Furnished,Usmanpura,Tier 3,Owner,False,MagicBricks
+135.0,1915.0,3.0,Apartment,Furnished,Prahlad Nagar,Tier 1,Owner,False,MagicBricks
+40.0,900.0,2.0,Apartment,Furnished,Ghuma,Tier 2,Owner,False,MagicBricks
+50.0,1350.0,2.0,Apartment,Unfurnished,Bavla,Tier 2,Owner,False,MagicBricks
+250.0,2700.0,5.0,Apartment,Furnished,Gulbai Tekra,Tier 1,Owner,False,MagicBricks
+210.0,1885.0,3.0,Apartment,Furnished,Vastrapur,Tier 1,Owner,False,MagicBricks
+115.0,1500.0,4.0,Apartment,Semi-Furnished,Thaltej,Tier 1,Owner,False,MagicBricks
+180.0,2100.0,3.0,Apartment,Semi-Furnished,Satellite,Tier 1,Owner,False,MagicBricks
+289.0,1916.0,4.0,Apartment,Furnished,Jodhpur,Tier 2,Owner,True,MagicBricks
+250.0,3170.0,4.0,Apartment,Furnished,Ambli,Tier 3,Owner,False,MagicBricks
+107.0,1285.0,2.0,Apartment,Semi-Furnished,Vaishno Devi,Tier 2,Owner,False,MagicBricks
+32.0,649.0,1.0,Apartment,Furnished,Sarkhej,Tier 3,Owner,False,MagicBricks
+70.0,1510.0,3.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+59.51,1458.0,2.0,Apartment,Unfurnished,Vastral,Tier 2,Owner,True,99acres
+60.0,650.0,1.0,Apartment,Furnished,Tragad,Tier 2,Owner,True,99acres
+60.0,555.0,2.0,Apartment,Semi-Furnished,Shela,Tier 2,Owner,False,MagicBricks
+22.0,657.0,1.0,Apartment,Semi-Furnished,Odhav,Tier 2,Owner,False,MagicBricks
+85.0,235.0,4.0,Apartment,Semi-Furnished,Odhav,Tier 2,Owner,False,MagicBricks
+62.0,967.0,2.0,Apartment,Semi-Furnished,Sarkhej,Tier 3,Owner,False,MagicBricks
+58.0,630.0,2.0,Apartment,Semi-Furnished,Usmanpura,Tier 3,Owner,False,MagicBricks
+105.0,1800.0,3.0,Apartment,Semi-Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+65.0,1536.0,3.0,Apartment,Furnished,Hathijan,Tier 3,Owner,False,MagicBricks
+34.9,1044.0,2.0,Apartment,Furnished,Naroda,Tier 3,Owner,False,MagicBricks
+130.0,1163.0,3.0,Apartment,Furnished,Gota,Tier 2,Owner,False,MagicBricks
+427.0,5900.0,4.0,Apartment,Semi-Furnished,Ambli,Tier 3,Owner,False,MagicBricks
+40.5,650.0,2.0,Apartment,Furnished,Ghodasar,Tier 2,Owner,False,MagicBricks
+125.0,2009.0,3.0,Apartment,Furnished,Chandkheda,Tier 2,Owner,False,MagicBricks
+62.2,787.0,2.0,Apartment,Furnished,Jagatpur,Tier 2,Owner,False,MagicBricks
+78.0,1755.0,3.0,Apartment,Furnished,Bopal,Tier 1,Builder,True,MagicBricks
+26.0,990.0,2.0,Apartment,Furnished,Ranip,Tier 2,Owner,False,MagicBricks
+67.0,945.0,2.0,Apartment,Furnished,Gota,Tier 2,Owner,False,MagicBricks
+55.0,1249.0,3.0,Apartment,Semi-Furnished,Amraiwadi,Tier 2,Owner,False,MagicBricks
+85.0,1080.0,2.0,Apartment,Furnished,Sarkhej,Tier 3,Owner,False,MagicBricks
+24.0,1035.0,2.0,Apartment,Furnished,Hathijan,Tier 3,Owner,False,MagicBricks
+62.6,1150.0,2.0,Apartment,Furnished,Memnagar,Tier 2,Owner,False,MagicBricks
+48.0,850.0,2.0,Apartment,Furnished,Vasna,Tier 2,Owner,False,MagicBricks
+127.0,211.0,1.0,Apartment,Furnished,Paldi,Tier 1,Owner,True,99acres
+125.0,1500.0,3.0,Apartment,Furnished,Bopal,Tier 1,Dealer,False,MagicBricks
+80.0,1650.0,3.0,Apartment,Semi-Furnished,Gulbai Tekra,Tier 1,Owner,False,MagicBricks
+200.0,2700.0,4.0,Apartment,Furnished,Ambawadi,Tier 1,Owner,False,MagicBricks
+130.0,2110.0,3.0,Apartment,Furnished,Naranpura,Tier 2,Owner,False,MagicBricks
+70.0,1305.0,2.0,Apartment,Semi-Furnished,Gota,Tier 2,Owner,False,MagicBricks
+69.5,960.0,2.0,Apartment,Furnished,Makarba,Tier 2,Owner,False,MagicBricks
+120.0,1500.0,3.0,Apartment,Semi-Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+78.0,639.0,3.0,Apartment,Furnished,Maninagar,Tier 2,Owner,False,MagicBricks
+58.0,916.0,2.0,Apartment,Furnished,Jivrajpark,Tier 2,Owner,False,MagicBricks
+96.0,1050.0,3.0,Apartment,Furnished,Jagatpur,Tier 2,Owner,False,MagicBricks
+77.5,731.0,2.0,Apartment,Furnished,Prahlad Nagar,Tier 1,Owner,False,MagicBricks
+72.0,860.0,3.0,Apartment,Semi-Furnished,Ghuma,Tier 2,Owner,False,MagicBricks
+72.0,2250.0,5.0,Apartment,Furnished,Khanpur,Tier 3,Owner,False,MagicBricks
+35.5,500.0,1.0,Independent House,Unfurnished,Ghodasar,Tier 2,Owner,False,99acres
+68.0,1200.0,2.0,Apartment,Furnished,Prahlad Nagar,Tier 1,Owner,False,MagicBricks
+46.5,1350.0,3.0,Apartment,Furnished,Shilaj,Tier 2,Owner,False,MagicBricks
+67.0,1314.0,2.0,Apartment,Furnished,Tragad,Tier 2,Unknown,False,99acres
+61.9,867.0,3.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+75.0,979.0,2.0,Apartment,Furnished,Tragad,Tier 2,Owner,False,MagicBricks
+21.0,1040.0,2.0,Apartment,Semi-Furnished,Narol,Tier 2,Owner,False,MagicBricks
+19.3,536.0,2.0,Apartment,Semi-Furnished,Vatva,Tier 2,Owner,False,MagicBricks
+62.0,906.0,2.0,Apartment,Semi-Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+90.0,1222.0,3.0,Apartment,Furnished,Nikol,Tier 2,Owner,False,MagicBricks
+110.0,980.0,3.0,Apartment,Furnished,Mahadev Nagar,Tier 3,Owner,False,MagicBricks
+65.0,1600.0,4.0,Apartment,Semi-Furnished,Ghodasar,Tier 2,Owner,False,MagicBricks
+55.0,591.0,2.0,Apartment,Furnished,Vaishno Devi,Tier 2,Owner,False,MagicBricks
+60.0,1530.0,3.0,Apartment,Furnished,Shilaj,Tier 2,Owner,False,MagicBricks
+84.0,840.0,2.0,Apartment,Furnished,Vaishno Devi,Tier 2,Owner,False,MagicBricks
+90.0,1250.0,3.0,Apartment,Furnished,Thaltej,Tier 1,Owner,False,MagicBricks
+150.0,3330.0,2.0,Apartment,Furnished,Dholka,Tier 2,Owner,False,MagicBricks
+60.0,1530.0,3.0,Apartment,Furnished,Shilaj,Tier 2,Owner,False,MagicBricks
+25.0,468.0,1.0,Apartment,Furnished,Sarkhej,Tier 3,Owner,False,MagicBricks
+58.0,900.0,2.0,Apartment,Semi-Furnished,Shyamal,Tier 2,Owner,False,MagicBricks
+51.0,1485.0,3.0,Apartment,Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+300.0,3000.0,4.0,Apartment,Semi-Furnished,Motera,Tier 2,Owner,False,MagicBricks
+92.0,950.0,3.0,Apartment,Furnished,Ambli,Tier 3,Owner,False,MagicBricks
+145.0,2718.0,4.0,Apartment,Furnished,Jagatpur,Tier 2,Owner,False,MagicBricks
+105.0,2052.0,3.0,Apartment,Furnished,Chharodi,Tier 3,Owner,False,MagicBricks
+68.1,859.0,3.0,Apartment,Furnished,Ghuma,Tier 2,Owner,False,MagicBricks
+53.0,650.0,2.0,Apartment,Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+90.0,895.0,3.0,Apartment,Furnished,Vasna,Tier 2,Owner,False,MagicBricks
+250.0,1750.0,4.0,Apartment,Furnished,Shilaj,Tier 2,Owner,False,MagicBricks
+180.0,1787.0,4.0,Apartment,Furnished,Jagatpur,Tier 2,Dealer,True,MagicBricks
+104.0,1260.0,3.0,Apartment,Furnished,Sola,Tier 2,Owner,True,MagicBricks
+180.0,700.0,4.0,Apartment,Furnished,Odhav,Tier 2,Owner,False,MagicBricks
+25.0,390.0,2.0,Apartment,Furnished,Amraiwadi,Tier 2,Owner,False,MagicBricks
+91.5,1469.0,3.0,Apartment,Furnished,Vejalpur,Tier 2,Owner,False,MagicBricks
+68.0,595.0,2.0,Apartment,Semi-Furnished,Maninagar,Tier 2,Owner,False,MagicBricks
+98.0,1872.0,3.0,Apartment,Semi-Furnished,Chandkheda,Tier 2,Owner,False,MagicBricks
+65.0,1242.0,2.0,Apartment,Furnished,Gota,Tier 2,Owner,False,MagicBricks
+52.0,1000.0,2.0,Apartment,Semi-Furnished,Sanand,Tier 2,Owner,False,MagicBricks
+42.0,1134.0,2.0,Apartment,Furnished,Vaishno Devi,Tier 2,Owner,False,MagicBricks
+110.0,1435.0,3.0,Apartment,Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+58.0,650.0,2.0,Apartment,Furnished,Vaishno Devi,Tier 2,Owner,False,MagicBricks
+154.0,1944.0,3.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+111.0,923.0,3.0,Apartment,Semi-Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+55.0,1150.0,2.0,Apartment,Semi-Furnished,Sarkhej,Tier 3,Owner,False,MagicBricks
+250.0,3000.0,4.0,Apartment,Furnished,Navrangpura,Tier 1,Owner,False,MagicBricks
+40.0,693.0,2.0,Apartment,Furnished,Maninagar,Tier 2,Owner,False,MagicBricks
+45.0,1100.0,2.0,Apartment,Semi-Furnished,Manipur,Tier 3,Owner,False,MagicBricks
+33.0,360.0,1.0,Apartment,Furnished,Chandkheda,Tier 2,Owner,False,MagicBricks
+57.0,980.0,2.0,Apartment,Furnished,Amraiwadi,Tier 2,Owner,False,MagicBricks
+185.0,2838.0,3.0,Apartment,Furnished,Ambli,Tier 3,Owner,False,MagicBricks
+28.0,1134.0,2.0,Apartment,Semi-Furnished,Narol,Tier 2,Owner,False,MagicBricks
+175.0,2750.0,4.0,Apartment,Furnished,Prahlad Nagar,Tier 1,Owner,False,MagicBricks
+60.0,863.0,2.0,Apartment,Furnished,Chandkheda,Tier 2,Owner,False,MagicBricks
+180.0,2623.0,4.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+67.0,1167.0,2.0,Apartment,Semi-Furnished,Sarkhej,Tier 3,Owner,False,MagicBricks
+85.0,1150.0,3.0,Apartment,Furnished,Nirnay Nagar,Tier 3,Owner,False,MagicBricks
+68.0,810.0,2.0,Apartment,Furnished,Gota,Tier 2,Owner,False,MagicBricks
+47.0,1000.0,2.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+85.0,1730.0,3.0,Apartment,Furnished,Gota,Tier 2,Owner,False,MagicBricks
+75.0,1242.0,2.0,Apartment,Semi-Furnished,Prahlad Nagar,Tier 1,Owner,False,MagicBricks
+312.0,3695.0,4.0,Apartment,Furnished,Satellite,Tier 1,Owner,True,MagicBricks
+45.0,1044.0,2.0,Apartment,Furnished,Naroda,Tier 3,Owner,False,MagicBricks
+84.0,1760.0,3.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+155.0,1226.0,4.0,Apartment,Furnished,Lambha,Tier 3,Owner,False,MagicBricks
+185.0,2093.0,3.0,Apartment,Furnished,Ambawadi,Tier 1,Owner,False,MagicBricks
+35.5,500.0,1.0,Independent House,Unfurnished,Ghodasar,Tier 2,Unknown,False,99acres
+115.0,1350.0,3.0,Apartment,Furnished,Vasna,Tier 2,Owner,False,MagicBricks
+35.0,774.0,1.0,Apartment,Furnished,Chandkheda,Tier 2,Owner,False,MagicBricks
+110.0,1845.0,3.0,Apartment,Furnished,Naroda,Tier 3,Owner,False,MagicBricks
+89.5,1025.0,3.0,Apartment,Furnished,Shilaj,Tier 2,Owner,False,MagicBricks
+102.0,945.0,3.0,Apartment,Furnished,Science City,Tier 2,Owner,False,MagicBricks
+195.0,3060.0,5.0,Apartment,Furnished,Paldi,Tier 1,Owner,False,99acres
+27.0,432.0,2.0,Apartment,Furnished,Changodar,Tier 2,Owner,False,MagicBricks
+93.0,850.0,2.0,Apartment,Furnished,Satellite,Tier 1,Owner,False,MagicBricks
+78.6,1750.0,3.0,Apartment,Furnished,Shela,Tier 2,Dealer,True,MagicBricks
+165.0,2158.0,3.0,Apartment,Semi-Furnished,Gota,Tier 2,Owner,False,MagicBricks
+110.0,1225.0,3.0,Apartment,Furnished,Ambli,Tier 3,Owner,False,MagicBricks
+30.0,1035.0,2.0,Apartment,Furnished,Naroda,Tier 3,Owner,False,MagicBricks
+95.0,1103.0,3.0,Apartment,Furnished,Motera,Tier 2,Owner,False,MagicBricks
+49.7,1275.0,2.0,Apartment,Furnished,Ghuma,Tier 2,Owner,True,MagicBricks
+250.0,2529.0,4.0,Apartment,Semi-Furnished,Naroda,Tier 3,Owner,True,99acres
+266.0,2063.0,4.0,Apartment,Furnished,Vaishno Devi,Tier 2,Owner,True,MagicBricks
+65.0,650.0,2.0,Apartment,Furnished,Ghodasar,Tier 2,Owner,False,MagicBricks
+125.0,1530.0,3.0,Apartment,Furnished,Paldi,Tier 1,Owner,False,MagicBricks
+68.0,1150.0,3.0,Apartment,Furnished,Sanand,Tier 2,Owner,False,MagicBricks
+85.0,1530.0,3.0,Apartment,Semi-Furnished,Ghuma,Tier 2,Owner,False,MagicBricks
+92.0,1330.0,3.0,Apartment,Semi-Furnished,Motera,Tier 2,Owner,False,MagicBricks
+65.0,1557.0,3.0,Apartment,Furnished,Vaishno Devi,Tier 2,Owner,False,MagicBricks
+50.0,1044.0,2.0,Apartment,Semi-Furnished,Chandkheda,Tier 2,Owner,False,MagicBricks
+35.0,467.0,1.0,Apartment,Furnished,Vasna,Tier 2,Owner,False,MagicBricks
+362.0,2237.0,4.0,Apartment,Furnished,Bodakdev,Tier 1,Owner,True,MagicBricks
+115.0,1246.0,3.0,Apartment,Furnished,Gurukul,Tier 2,Owner,False,MagicBricks
+70.0,1300.0,3.0,Apartment,Furnished,Shilaj,Tier 2,Owner,False,MagicBricks
+73.0,1330.0,3.0,Apartment,Semi-Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+42.0,527.0,2.0,Apartment,Semi-Furnished,Jagatpur,Tier 2,Owner,False,MagicBricks
+75.0,1250.0,3.0,Apartment,Furnished,Motera,Tier 2,Owner,False,MagicBricks
+46.0,900.0,2.0,Apartment,Furnished,Sanand,Tier 2,Owner,False,MagicBricks
+225.0,1421.0,3.0,Apartment,Furnished,Navrangpura,Tier 1,Owner,False,MagicBricks
+45.0,1161.0,2.0,Apartment,Semi-Furnished,Vastral,Tier 2,Owner,False,MagicBricks
+26.0,516.0,1.0,Apartment,Furnished,Maninagar,Tier 2,Owner,False,MagicBricks
+136.0,1935.0,4.0,Apartment,Semi-Furnished,Narol,Tier 2,Owner,False,MagicBricks
+18.0,484.0,2.0,Apartment,Semi-Furnished,Sanand,Tier 2,Owner,False,MagicBricks
+78.0,1765.0,3.0,Apartment,Unfurnished,Shela,Tier 2,Owner,False,99acres
+38.0,520.0,1.0,Apartment,Furnished,Naranpura,Tier 2,Owner,False,MagicBricks
+45.0,870.0,2.0,Apartment,Furnished,Maninagar,Tier 2,Owner,False,MagicBricks
+130.0,980.0,4.0,Apartment,Furnished,Jashoda Nagar,Tier 3,Owner,False,MagicBricks
+67.0,1314.0,2.0,Apartment,Furnished,Tragad,Tier 2,Unknown,False,99acres
+79.6,973.0,3.0,Apartment,Furnished,Bopal,Tier 1,Owner,True,MagicBricks
+52.0,486.0,1.0,Apartment,Semi-Furnished,Vastral,Tier 2,Owner,False,MagicBricks
+146.0,1899.0,3.0,Apartment,Furnished,Thaltej,Tier 1,Unknown,True,MagicBricks
+251.0,1750.0,3.0,Apartment,Furnished,Ellis Bridge,Tier 1,Owner,False,MagicBricks
+56.0,1540.0,3.0,Apartment,Semi-Furnished,Hathijan,Tier 3,Owner,False,MagicBricks
+95.0,750.0,2.0,Apartment,Furnished,Paldi,Tier 1,Owner,False,MagicBricks
+45.9,1435.0,3.0,Apartment,Furnished,Shela,Tier 2,Owner,False,MagicBricks
+89.0,1260.0,2.0,Apartment,Furnished,Memnagar,Tier 2,Owner,False,MagicBricks
+160.0,1305.0,1.0,Independent House,Unfurnished,Nikol,Tier 2,Unknown,False,99acres
+118.0,1170.0,3.0,Apartment,Semi-Furnished,Naranpura,Tier 2,Owner,False,MagicBricks
+32.0,900.0,2.0,Apartment,Furnished,Sanand,Tier 2,Owner,False,MagicBricks
+379.0,5241.0,4.0,Apartment,Furnished,Thaltej,Tier 1,Owner,True,MagicBricks
+165.0,2960.0,4.0,Apartment,Furnished,Bopal,Tier 1,Owner,False,MagicBricks
+84.0,945.0,3.0,Apartment,Furnished,Vasna,Tier 2,Dealer,False,MagicBricks
+30.0,484.0,1.0,Apartment,Furnished,Sanand,Tier 2,Owner,False,MagicBricks
+98.0,1577.0,3.0,Apartment,Semi-Furnished,Chandkheda,Tier 2,Owner,False,MagicBricks
+81.7,765.0,3.0,Apartment,Furnished,Vaishno Devi,Tier 2,Owner,False,MagicBricks
+18.5,639.0,1.0,Apartment,Furnished,Changodar,Tier 2,Owner,False,MagicBricks
+67.0,1314.0,2.0,Apartment,Furnished,Tragad,Tier 2,Owner,False,99acres
+24.0,654.0,1.0,Apartment,Semi-Furnished,Khamasa,Tier 3,Owner,False,MagicBricks
+115.0,1250.0,3.0,Apartment,Furnished,Gota,Tier 2,Owner,True,MagicBricks
+60.0,975.0,3.0,Apartment,Furnished,Chandkheda,Tier 2,Owner,False,MagicBricks
+288.0,3850.0,4.0,Apartment,Furnished,Ambli,Tier 3,Owner,False,MagicBricks
+42.0,720.0,2.0,Apartment,Unfurnished,Maninagar,Tier 2,Unknown,False,99acres
+68.4,1807.0,3.0,Apartment,Furnished,Ghuma,Tier 2,Builder,True,MagicBricks
+195.0,700.0,6.0,Apartment,Furnished,Vastral,Tier 2,Owner,False,MagicBricks
+80.0,850.0,3.0,Apartment,Semi-Furnished,Shilaj,Tier 2,Owner,False,MagicBricks
+163.0,1826.0,4.0,Apartment,Furnished,Shilaj,Tier 2,Owner,True,MagicBricks
+40.0,693.0,2.0,Apartment,Furnished,Maninagar,Tier 2,Owner,False,MagicBricks
+62.0,680.0,2.0,Apartment,Furnished,Vasna,Tier 2,Owner,False,MagicBricks
+87.0,1404.0,2.0,Apartment,Furnished,Memnagar,Tier 2,Owner,False,MagicBricks
+85.0,1895.0,3.0,Apartment,Furnished,Bopal,Tier 1,Owner,True,MagicBricks
+78.0,1850.0,3.0,Apartment,Furnished,Bopal,Tier 1,Owner,True,MagicBricks
+105.0,1354.0,3.0,Apartment,Furnished,Gota,Tier 2,Owner,False,MagicBricks
