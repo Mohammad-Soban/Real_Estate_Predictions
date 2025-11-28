@@ -149,10 +149,10 @@ User Question: {question}
 
 Provide a clear, helpful answer based on the data above. If asked for recommendations, explain your reasoning. Be specific with numbers and details."""
         
-        print("\n🤔 Thinking...")
+        print("\n🤔 Thinking... (this may take a while, please be patient)")
         
         try:
-            # Call Ollama
+            # Call Ollama with NO TIMEOUT - let it run as long as needed
             response = requests.post(
                 f"{self.ollama_url}/api/generate",
                 json={
@@ -164,7 +164,7 @@ Provide a clear, helpful answer based on the data above. If asked for recommenda
                         "num_predict": 500
                     }
                 },
-                timeout=90
+                timeout=None  # ← NO TIMEOUT! Will wait even if it takes 30+ minutes
             )
             
             if response.status_code == 200:
@@ -174,8 +174,6 @@ Provide a clear, helpful answer based on the data above. If asked for recommenda
             else:
                 return f"Error: Ollama returned status {response.status_code}"
                 
-        except requests.exceptions.Timeout:
-            return "Error: Request timed out. The model might be processing..."
         except Exception as e:
             return f"Error: {str(e)}"
     
