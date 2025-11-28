@@ -1,5 +1,5 @@
 """
-Property Brochure Generator using HuggingFace API
+Property Brochure Generator using Ollama (Local LLM)
 Generates detailed, professional property brochures with:
 - Property overview
 - Key highlights
@@ -14,84 +14,94 @@ import warnings
 from typing import Dict, Optional
 warnings.filterwarnings('ignore')
 
-# Try to load from .env file if available
-try:
-    from dotenv import load_dotenv
-    load_dotenv()  # Load .env file if it exists
-except ImportError:
-    pass  # dotenv not installed, will use environment variables only
-
 class PropertyBrochureGenerator:
-    """Generate detailed property brochures using HuggingFace Inference API"""
+    """Generate detailed property brochures using Ollama Local LLM"""
     
-    def __init__(self, use_hf_api: bool = True, hf_model: str = "mistralai/Mixtral-8x7B-Instruct-v0.1"):
+    def __init__(self, use_ollama: bool = True, ollama_model: str = "llama2"):
         """
-        Initialize the brochure generator
+        Initialize the brochure generator with Ollama
         
         Args:
-            use_hf_api: If True, use HuggingFace Inference API (requires API key)
-            hf_model: HuggingFace model to use (default: Mixtral-8x7B - supports text-generation)
+            use_ollama: If True, use Ollama for AI generation (default: True)
+            ollama_model: Model to use (default: llama2, options: llama3.1, mistral)
         """
-        self.use_hf_api = use_hf_api
-        self.hf_model = hf_model
-        self.api_key = os.environ.get('HUGGINGFACE_API_KEY', '')
+        self.use_ollama = use_ollama
+        self.ollama_model = ollama_model
+        self.ollama_url = os.environ.get('OLLAMA_BASE_URL', 'http://localhost:11434')
         
-        if use_hf_api and not self.api_key:
-            print("⚠️  Warning: HUGGINGFACE_API_KEY not found")
-            print("\n💡 Three ways to add your API key:")
-            print("   1. Environment Variable (Recommended):")
-            print("      PowerShell: $env:HUGGINGFACE_API_KEY='your_key'")
-            print("      Linux/Mac: export HUGGINGFACE_API_KEY='your_key'")
-            print("\n   2. .env File:")
-            print("      Create .env file with: HUGGINGFACE_API_KEY=your_key")
-            print("\n   3. Direct in Code:")
-            print("      os.environ['HUGGINGFACE_API_KEY'] = 'your_key'")
-            print("\n🔑 Get your FREE API key: https://huggingface.co/settings/tokens")
-            print("\n🔄 Falling back to template mode (no API needed)...")
-            self.use_hf_api = False
+        # Check if Ollama is available
+        if use_ollama:
+            if self._check_ollama_available():
+                print("🏠 Using Local Ollama (100% Private, No API needed!)")
+                print(f"   Model: {ollama_model}")
+            else:
+                print("⚠️  Warning: Ollama not running!")
+                print("\n💡 To start Ollama:")
+                print("   1. Make sure Ollama is installed: https://ollama.ai/")
+                print("   2. Add to PATH: $env:PATH += ';$env:LOCALAPPDATA\\Programs\\Ollama'")
+                print("   3. Check models: ollama list")
+                print("   4. If no models: ollama pull llama2")
+                print("\n🔄 Falling back to template mode...")
+                self.use_ollama = False
     
-    def _generate_with_hf_api(self, prompt: str, max_length: int = 500) -> str:
-        """Generate text using HuggingFace Inference API"""
+    def _check_ollama_available(self) -> bool:
+        """Check if Ollama is running locally"""
+        try:
+            import requests
+            response = requests.get(f"{self.ollama_url}/api/tags", timeout=2)
+            return response.status_code == 200
+        except:
+            return False
+    
+    def _generate_with_ollama(self, prompt: str, max_length: int = 500) -> str:
+        """Generate text using Ollama Local LLM"""
         try:
             import requests
             
-            API_URL = f"https://api-inference.huggingface.co/models/{self.hf_model}"
-            headers = {"Authorization": f"Bearer {self.api_key}"}
+            # Use Local Ollama
+            API_URL = f"{self.ollama_url}/api/generate"
             
             payload = {
-                "inputs": prompt,
-                "parameters": {
-                    "max_new_tokens": max_length,
+                "model": self.ollama_model,
+                "prompt": prompt,
+                "stream": False,
+                "options": {
                     "temperature": 0.7,
-                    "top_p": 0.9,
-                    "do_sample": True,
-                    "return_full_text": False
+                    "num_predict": max_length,
+                    "top_p": 0.9
                 }
             }
             
-            response = requests.post(API_URL, headers=headers, json=payload, timeout=30)
+            response = requests.post(API_URL, json=payload, timeout=90)
             
             if response.status_code == 200:
                 result = response.json()
-                if isinstance(result, list) and len(result) > 0:
-                    generated_text = result[0].get('generated_text', '')
-                    return generated_text.strip()
-                else:
-                    return self._generate_with_template(prompt)
+                content = result.get('response', '')
+                if content and len(content.strip()) > 10:
+                    return content.strip()
+                return ""
             else:
-                # Silently fall back to template without printing errors
-                return self._generate_with_template(prompt)
+                print(f"⚠️  Ollama Error: Status {response.status_code}")
+                return ""
             
+        except requests.exceptions.Timeout:
+            print("⚠️  Ollama timeout (model might be slow)")
+            return ""
+        except requests.exceptions.ConnectionError:
+            print("⚠️  Ollama connection failed - is it running?")
+            return ""
         except ImportError:
-            print("❌ Please install: pip install requests")
-            return self._generate_with_template(prompt)
+            print("⚠️  'requests' module not found")
+            return ""
         except Exception as e:
-            # Silently fall back to template
-            return self._generate_with_template(prompt)
+            print(f"⚠️  Ollama error: {str(e)[:50]}")
+            return ""
     
-    def _generate_with_template(self, prompt: str) -> str:
-        """Fallback template-based generation"""
-        return "Template-based brochure content (install HuggingFace API for AI-generated content)"
+    def _generate_with_template(self, prompt: str, property_data: Dict = None) -> str:
+        """Fallback template-based generation - property-specific"""
+        # This shouldn't be called if templates are working properly
+        # Return empty string to use the detailed templates in generate_detailed_brochure
+        return ""
     
     def generate_detailed_brochure(self, property_data: Dict) -> Dict[str, str]:
         """
@@ -118,25 +128,79 @@ class PropertyBrochureGenerator:
         price_per_sqft = (float(price) * 100000 / float(area)) if price != 'N/A' and area != 'N/A' else 0
         
         brochure = {}
+        import random
         
-        # 1. Overview Section
-        if self.use_hf_api:
-            prompt = f"""Write a compelling property overview (2-3 sentences) for:
-{bhk} BHK {property_type} in {locality}, Ahmedabad
-Price: ₹{price} Lakhs | Area: {area} sqft | Furnishing: {furnishing}
-Tier: {tier}
+        # Track if AI was actually used
+        ai_used = False
+        
+        # Get additional context if available
+        raw_json = property_data.get('Raw_JSON', '')
+        description = property_data.get('Description', '')
+        context = f"\nAdditional Details: {raw_json[:500]}" if raw_json and len(str(raw_json)) > 50 else ""
+        
+        # 1. Overview Section - Generate varied descriptions
+        
+        # Vary the opening phrase
+        openings = [
+            f"Presenting a {furnishing.lower()} {bhk} BHK {property_type}",
+            f"An elegant {bhk} BHK {property_type}",
+            f"This spacious {furnishing.lower()} {bhk} BHK home",
+            f"A well-designed {bhk} bedroom {property_type}",
+            f"Welcome to this {furnishing.lower()} {bhk} BHK residence"
+        ]
+        
+        # Vary the locality description
+        locality_desc = {
+            'Tier 1': ['prestigious', 'prime', 'sought-after', 'upscale', 'premium'],
+            'Tier 2': ['thriving', 'well-connected', 'developing', 'promising', 'growing'],
+            'Tier 3': ['emerging', 'value-focused', 'budget-friendly', 'upcoming', 'accessible']
+        }
+        tier_key = 'Tier 1' if 'Tier 1' in tier else ('Tier 2' if 'Tier 2' in tier else 'Tier 3')
+        loc_adj = random.choice(locality_desc[tier_key])
+        
+        # Vary the value proposition
+        value_phrases = [
+            f"offers exceptional value at ₹{price} Lakhs",
+            f"is priced attractively at ₹{price} Lakhs",
+            f"comes at ₹{price} Lakhs",
+            f"represents great value at ₹{price} Lakhs",
+            f"is available for ₹{price} Lakhs"
+        ]
+        
+        overview_template = (
+            f"{random.choice(openings)} in {locality}, a {loc_adj} neighborhood in Ahmedabad. "
+            f"Spread across {area} sqft, this property {random.choice(value_phrases)}."
+        )
+        
+        if self.use_ollama:
+            prompt = f"""Write a unique, compelling property overview (2-3 sentences) for this real estate listing:
 
-Overview:"""
-            brochure['overview'] = self._generate_with_hf_api(prompt, max_length=150)
+Property: {bhk} BHK {property_type} in {locality}, Ahmedabad
+Price: ₹{price} Lakhs | Area: {area} sqft | Furnishing: {furnishing}
+Locality Tier: {tier}
+Status: {'Under Construction' if under_construction else 'Ready to Move'}{context}
+
+Write a professional, buyer-focused overview highlighting what makes this property special. Be specific and unique."""
+            ai_result = self._generate_with_ollama(prompt, max_length=150)
+            if ai_result:
+                brochure['overview'] = ai_result
+                ai_used = True
+            else:
+                brochure['overview'] = overview_template
         else:
-            brochure['overview'] = (
-                f"Discover this {furnishing.lower()} {bhk} BHK {property_type} "
-                f"in {locality}, one of Ahmedabad's {'premium' if 'Tier 1' in tier else 'sought-after'} localities. "
-                f"Spanning {area} sqft, this property offers excellent value at ₹{price} Lakhs."
-            )
+            brochure['overview'] = overview_template
         
         # 2. Key Highlights
-        if self.use_hf_api:
+        highlights_template = f"""
+• Spacious {bhk} BHK configuration with {area} sqft
+• Located in {locality} ({tier})
+• {furnishing} with modern fittings
+• {amenities_count} premium amenities included
+• Competitive pricing at ₹{price} Lakhs (₹{price_per_sqft:.0f}/sqft)
+• {'Ready to move in' if not under_construction else 'Under construction - attractive pre-launch pricing'}
+"""
+        
+        if self.use_ollama:
             prompt = f"""List 6 key highlights for this property (bullet points):
 Property: {bhk} BHK, {area} sqft, {property_type}
 Price: ₹{price} Lakhs (₹{price_per_sqft:.0f}/sqft)
@@ -146,56 +210,65 @@ Amenities: {amenities_count}
 Status: {'Under Construction' if under_construction else 'Ready to Move'}
 
 Key Highlights:"""
-            brochure['highlights'] = self._generate_with_hf_api(prompt, max_length=200)
+            ai_result = self._generate_with_ollama(prompt, max_length=200)
+            if ai_result:
+                brochure['highlights'] = ai_result
+                ai_used = True
+            else:
+                brochure['highlights'] = highlights_template
         else:
-            brochure['highlights'] = f"""
-• Spacious {bhk} BHK configuration with {area} sqft
-• Located in {locality} ({tier})
-• {furnishing} with modern fittings
-• {amenities_count} premium amenities included
-• Competitive pricing at ₹{price} Lakhs (₹{price_per_sqft:.0f}/sqft)
-• {'Ready to move in' if not under_construction else 'Under construction - attractive pre-launch pricing'}
-"""
+            brochure['highlights'] = highlights_template
         
         # 3. Location Advantages
-        if self.use_hf_api:
+        location_benefits = {
+            'Tier 1': [
+                '• Prime residential area with excellent connectivity',
+                '• Close proximity to IT hubs and business centers',
+                '• Well-developed infrastructure with metro access',
+                '• Surrounded by reputed schools, hospitals, and malls'
+            ],
+            'Tier 2': [
+                '• Emerging locality with strong growth potential',
+                '• Good connectivity to major city areas',
+                '• Developing infrastructure with upcoming amenities',
+                '• Mix of residential and commercial establishments'
+            ],
+            'Tier 3': [
+                '• Budget-friendly location with growing infrastructure',
+                '• Peaceful residential environment',
+                '• Easy access to main roads and public transport',
+                '• Value-for-money investment opportunity'
+            ]
+        }
+        tier_key = 'Tier 1' if 'Tier 1' in tier else ('Tier 2' if 'Tier 2' in tier else 'Tier 3')
+        location_template = '\n'.join(location_benefits.get(tier_key, location_benefits['Tier 2']))
+        
+        if self.use_ollama:
             prompt = f"""Describe location advantages of {locality}, Ahmedabad (3-4 points):
 Locality Tier: {tier}
 Property Type: {property_type}
 
 Location Advantages:"""
-            brochure['location'] = self._generate_with_hf_api(prompt, max_length=200)
+            ai_result = self._generate_with_ollama(prompt, max_length=200)
+            if ai_result:
+                brochure['location'] = ai_result
+                ai_used = True
+            else:
+                brochure['location'] = location_template
         else:
-            location_benefits = {
-                'Tier 1': [
-                    '• Prime residential area with excellent connectivity',
-                    '• Close proximity to IT hubs and business centers',
-                    '• Well-developed infrastructure with metro access',
-                    '• Surrounded by reputed schools, hospitals, and malls'
-                ],
-                'Tier 2': [
-                    '• Emerging locality with strong growth potential',
-                    '• Good connectivity to major city areas',
-                    '• Developing infrastructure with upcoming amenities',
-                    '• Mix of residential and commercial establishments'
-                ],
-                'Tier 3': [
-                    '• Budget-friendly location with growing infrastructure',
-                    '• Peaceful residential environment',
-                    '• Easy access to main roads and public transport',
-                    '• Value-for-money investment opportunity'
-                ]
-            }
-            tier_key = 'Tier 1' if 'Tier 1' in tier else ('Tier 2' if 'Tier 2' in tier else 'Tier 3')
-            brochure['location'] = '\n'.join(location_benefits.get(tier_key, location_benefits['Tier 2']))
+            brochure['location'] = location_template
         
         # 4. Amenities Details
-        if self.use_hf_api:
+        if self.use_ollama:
             prompt = f"""List typical amenities for a {property_type} with {amenities_count} amenities (bullet points):
 
 Amenities:"""
-            brochure['amenities'] = self._generate_with_hf_api(prompt, max_length=150)
-        else:
+            ai_result = self._generate_with_ollama(prompt, max_length=150)
+            if ai_result:
+                brochure['amenities'] = ai_result
+                ai_used = True
+        
+        if not self.use_ollama or not brochure.get('amenities'):
             common_amenities = [
                 '• 24x7 Security with CCTV surveillance',
                 '• Covered Car Parking',
@@ -212,66 +285,168 @@ Amenities:"""
             amenities_to_show = min(amenities_count + 2, len(common_amenities))
             brochure['amenities'] = '\n'.join(common_amenities[:amenities_to_show])
         
-        # 5. Investment Analysis
-        if self.use_hf_api:
-            prompt = f"""Write investment analysis for this property (3-4 sentences):
+        # 5. Investment Analysis - Generate varied analysis
+        roi_phrases = {
+            'Tier 1': [
+                'strong capital appreciation and premium rental yields',
+                'excellent investment potential with high returns',
+                'robust appreciation prospects in an established market',
+                'premium returns and strong resale value'
+            ],
+            'Tier 2': [
+                'solid growth potential with developing infrastructure',
+                'promising appreciation in an emerging locality',
+                'balanced investment opportunity with steady returns',
+                'good capital gains as the area develops'
+            ],
+            'Tier 3': [
+                'high ROI potential in an undervalued market',
+                'exceptional value with significant upside',
+                'attractive entry point for long-term investors',
+                'strong future growth as infrastructure improves'
+            ]
+        }
+        tier_key = 'Tier 1' if 'Tier 1' in tier else ('Tier 2' if 'Tier 2' in tier else 'Tier 3')
+        
+        # Vary the market positioning
+        market_phrases = [
+            f"At ₹{price_per_sqft:.0f} per sqft, this represents",
+            f"The pricing of ₹{price_per_sqft:.0f}/sqft offers",
+            f"Priced competitively at ₹{price_per_sqft:.0f} per sqft, it provides",
+            f"With a rate of ₹{price_per_sqft:.0f}/sqft, buyers get"
+        ]
+        
+        # Vary the demand statement
+        bhk_int = int(float(bhk)) if str(bhk).replace('.', '').isdigit() else 3
+        demand_phrases = {
+            2: ['appeals to young couples and professionals', 'attracts first-time buyers and small families', 'suits working professionals and starter homes'],
+            3: ['perfect for established families', 'ideal for growing families', 'suits medium-sized families well'],
+            4: ['caters to large families and executives', 'appeals to affluent buyers', 'targets premium homebuyers'],
+            5: ['designed for spacious living needs', 'perfect for multi-generational families', 'suits luxury segment buyers']
+        }
+        bhk_key = min(max(bhk_int, 2), 5)
+        
+        investment_template = (
+            f"This property promises {random.choice(roi_phrases[tier_key])}. "
+            f"{random.choice(market_phrases)} competitive positioning in {locality}. "
+            f"The {bhk} BHK layout {random.choice(demand_phrases.get(bhk_key, demand_phrases[3]))}, "
+            f"ensuring consistent rental demand and resale liquidity."
+        )
+        
+        if self.use_ollama:
+            prompt = f"""Write a detailed investment analysis (3-4 sentences) for this property:
+
 Property: {bhk} BHK {property_type}
 Price: ₹{price} Lakhs | Area: {area} sqft | Price/sqft: ₹{price_per_sqft:.0f}
 Location: {locality} ({tier})
+Furnishing: {furnishing}
+Amenities: {amenities_count}{context}
 
-Investment Analysis:"""
-            brochure['investment'] = self._generate_with_hf_api(prompt, max_length=200)
+Analyze investment potential, ROI prospects, rental demand, and capital appreciation. Be specific to this property and location."""
+            ai_result = self._generate_with_ollama(prompt, max_length=200)
+            if ai_result:
+                brochure['investment'] = ai_result
+                ai_used = True
+            else:
+                brochure['investment'] = investment_template
         else:
-            roi_potential = {
-                'Tier 1': 'high appreciation potential and strong rental demand',
-                'Tier 2': 'good appreciation prospects and steady rental income',
-                'Tier 3': 'excellent value proposition with future growth potential'
-            }
-            tier_key = 'Tier 1' if 'Tier 1' in tier else ('Tier 2' if 'Tier 2' in tier else 'Tier 3')
-            
-            brochure['investment'] = (
-                f"This property offers {roi_potential[tier_key]}. "
-                f"Priced at ₹{price_per_sqft:.0f} per sqft, it presents {'competitive' if 'Tier 1' in tier else 'attractive'} "
-                f"value in the {locality} market. "
-                f"The {bhk} BHK configuration appeals to {'families and professionals' if int(bhk) >= 3 else 'young professionals and small families'}, "
-                f"ensuring {'strong' if 'Apartment' in property_type else 'good'} demand for resale and rentals."
-            )
+            brochure['investment'] = investment_template
         
-        # 6. Target Buyer Profile
-        if self.use_hf_api:
-            prompt = f"""Identify ideal buyer profile for this property (2-3 sentences):
-Property: {bhk} BHK {property_type}
-Price: ₹{price} Lakhs
-Location: {locality} ({tier})
+        # 6. Target Buyer Profile - Generate varied profiles
+        buyer_profiles = {
+            (2, 'Tier 1'): [
+                'young professionals seeking a prestigious address',
+                'newly married couples wanting premium amenities',
+                'executives preferring central locations',
+                'small families in the luxury segment'
+            ],
+            (2, 'Tier 2'): [
+                'working professionals balancing quality and affordability',
+                'first-time homebuyers in growing localities',
+                'small families seeking good connectivity',
+                'young couples looking for value'
+            ],
+            (2, 'Tier 3'): [
+                'budget-conscious first-time buyers',
+                'investors seeking rental income',
+                'families prioritizing affordability',
+                'starter home seekers'
+            ],
+            (3, 'Tier 1'): [
+                'established families wanting luxury living',
+                'senior executives seeking premium comfort',
+                'families prioritizing top-tier amenities',
+                'affluent buyers in prime locations'
+            ],
+            (3, 'Tier 2'): [
+                'growing families needing more space',
+                'middle-income families in developing areas',
+                'families seeking balanced value',
+                'buyers wanting good infrastructure'
+            ],
+            (3, 'Tier 3'): [
+                'large families on a budget',
+                'value-focused homebuyers',
+                'families seeking spacious affordable homes',
+                'investors eyeing appreciation'
+            ],
+            (4, 'Tier 1'): [
+                'high-net-worth individuals',
+                'luxury home seekers',
+                'large families wanting premium amenities',
+                'business owners and top executives'
+            ],
+            (4, 'Tier 2'): [
+                'affluent families needing extra space',
+                'multi-generational families',
+                'successful professionals',
+                'families wanting spacious living'
+            ],
+            (4, 'Tier 3'): [
+                'extended families seeking value',
+                'investors in emerging markets',
+                'buyers wanting maximum space per rupee',
+                'families prioritizing size over location'
+            ]
+        }
+        
+        bhk_int = int(float(bhk)) if str(bhk).replace('.', '').isdigit() else 3
+        bhk_key = min(max(bhk_int, 2), 4)
+        tier_key = 'Tier 1' if 'Tier 1' in tier else ('Tier 2' if 'Tier 2' in tier else 'Tier 3')
+        
+        profile = random.choice(buyer_profiles.get((bhk_key, tier_key), buyer_profiles[(3, 'Tier 2')]))
+        
+        # Vary the reasoning
+        reasons = [
+            f"With {bhk} bedrooms and {furnishing.lower()} interiors in {locality}, it matches their lifestyle needs perfectly",
+            f"The {area} sqft layout in {locality}'s {'premium' if 'Tier 1' in tier else 'developing'} setting aligns with their requirements",
+            f"Its {locality} location combined with {furnishing.lower()} status offers exactly what they're looking for",
+            f"The property's configuration and {locality}'s infrastructure cater specifically to their preferences"
+        ]
+        
+        target_buyers_template = f"Best suited for {profile}. {random.choice(reasons)}."
+        
+        if self.use_ollama:
+            prompt = f"""Identify the ideal buyer profile for this property (2-3 sentences):
 
-Target Buyers:"""
-            brochure['target_buyers'] = self._generate_with_hf_api(prompt, max_length=150)
+Property: {bhk} BHK {property_type}
+Price: ₹{price} Lakhs | Area: {area} sqft
+Location: {locality} ({tier})
+Furnishing: {furnishing}
+Amenities: {amenities_count}
+
+Describe who would benefit most from this property. Be specific about demographics, lifestyle, and needs."""
+            ai_result = self._generate_with_ollama(prompt, max_length=150)
+            if ai_result:
+                brochure['target_buyers'] = ai_result
+                ai_used = True
+            else:
+                brochure['target_buyers'] = target_buyers_template
         else:
-            buyer_profiles = {
-                (2, 'Tier 1'): 'young professionals, newly married couples, or small families seeking a premium address',
-                (2, 'Tier 2'): 'working professionals and small families looking for good value in a growing area',
-                (2, 'Tier 3'): 'first-time homebuyers and budget-conscious families',
-                (3, 'Tier 1'): 'established families seeking luxury and convenience in a prime location',
-                (3, 'Tier 2'): 'growing families looking for spacious homes with good connectivity',
-                (3, 'Tier 3'): 'middle-class families seeking affordable spacious homes',
-                (4, 'Tier 1'): 'high-net-worth individuals and large families wanting premium luxury',
-                (4, 'Tier 2'): 'affluent families seeking spacious accommodations',
-                (4, 'Tier 3'): 'large families or investors looking for value properties'
-            }
-            
-            bhk_int = int(bhk) if str(bhk).isdigit() else 3
-            bhk_key = min(bhk_int, 4)
-            bhk_key = max(bhk_key, 2)
-            tier_key = 'Tier 1' if 'Tier 1' in tier else ('Tier 2' if 'Tier 2' in tier else 'Tier 3')
-            
-            profile = buyer_profiles.get((bhk_key, tier_key), 'families and individuals seeking quality housing')
-            
-            brochure['target_buyers'] = (
-                f"This property is ideal for {profile}. "
-                f"The combination of {bhk} bedrooms, {furnishing.lower()} status, and "
-                f"{locality}'s {'established' if 'Tier 1' in tier else 'growing'} infrastructure makes it "
-                f"perfect for those seeking {'premium comfort' if 'Tier 1' in tier else 'value and convenience'}."
-            )
+            brochure['target_buyers'] = target_buyers_template
+        
+        # Mark whether AI was successfully used for content generation
+        brochure['ai_generated'] = ai_used
         
         # 7. Property Details Summary
         brochure['details'] = {
